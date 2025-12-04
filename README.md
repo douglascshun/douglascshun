@@ -5,7 +5,7 @@ Analista Jr. em Cybersec e Eng. de Sistemas
 ## 🛠️ Tecnologias
 
 <div>
-  <img src="https://skillicons.dev/icons?i=kali,linux,windows,py,php,bash,powershell,vim&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=kali,linux,windows,py,php,bash,powershell,vim,vscode&theme=dark" />
 </div>
 
 ## 🚀 Contibuições
