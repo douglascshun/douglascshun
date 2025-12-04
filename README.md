@@ -108,7 +108,7 @@ Destaque as credenciais mais recentes e relevantes em um formato de lista concis
   <a href="https://tryhackme.com/p/D.r4bbi7" target="_blank">
     <img src="https://img.shields.io/badge/TryHackMe-88CCEE?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe Profile" />
   </a>
-  <a href="mailto:douglascshun@email.com" target="_blank">
+  <a href="mailto:douglascshun@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
