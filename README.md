@@ -25,7 +25,7 @@ Analista Jr. em Cybersec e Eng. de Sistemas
   />
 </picture>
 
-### Formação Acadêmica
+### 🎓Formação Acadêmica
 | Instituição | Curso | Status / Período |
 | :--- | :--- | :--- |
 | **Uniamerica** | MBA em Segurança da Informação | Nov 2025 – Nov 2026 (Previsão) |
@@ -33,7 +33,7 @@ Analista Jr. em Cybersec e Eng. de Sistemas
 | **Universidade Cruzeiro do Sul** | Análise e Desenvolvimento de Sistemas | Jan 2023 – Dez 2025 (Concluído) |
 | **IFSP** | Técnico em Administração | 2019 – 2020 (Concluído) |
 
-### Certificações e Badges de Segurança
+### ✅Certificações e Badges de Segurança
 
 Destaque as credenciais mais recentes e relevantes em um formato de lista concisa:
 
