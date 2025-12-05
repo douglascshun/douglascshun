@@ -1,5 +1,6 @@
-## 🤝🏼 Olá eu sou Douglas Cshunderlick
-Analista Jr. em Cybersec e Eng. de Sistemas
+# 🤝🏼 Olá eu sou Douglas Cshunderlick 
+> **Analista de Cibersegurança & Ethical Hacker**  
+> *Técnico em Defesa de Redes, Pentesting e Análise de Ameaças em Sistemas de Controle (CISA).*  
 </p>
 
 ## 🛠️ Tecnologias
