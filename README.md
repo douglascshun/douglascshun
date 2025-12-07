@@ -98,8 +98,6 @@ Destaque as credenciais mais recentes e relevantes em um formato de lista concis
 <br clear="all">
 
 
-
-
 ## 🔗 Conecte-se Comigo
 
 <p align="center">
