@@ -224,9 +224,87 @@
       </details>
     </td>
   </tr>
-</table>
+  <tr>
+    <td style="vertical-align: top; width: 120px;"> 
+      <img src="https://media.licdn.com/dms/image/v2/D4D0BAQEIqp2hOKmaUg/company-logo_200_200/company-logo_200_200/0/1687265100897/uniamericaua_logo?e=1773273600&v=beta&t=GvVq9hWpjD-hRVMGoqcHtvQ0M4AHYm9E4FC1u8d9Knk" width="100px" alt="IME Logo">
+    </td>
+    <td>
+      <details>
+        <summary>🔹 <strong>Centro Universitário União das Américas</strong></summary>
+        <br>
+        <ul>
+          <li>
+            <details>
+              <summary>Certificação: Cybersecurity Essentials</summary>
+              <ul>
+                <li>Conceitos de Segurança Cibernética</li>
+                <li>Ameaças, Ataques e Vulnerabilidades</li>
+                <li>Medidas de Segurança</li>
+                <li>Controles de Segurança para Redes, Servidores e Aplicativos</li>
+                <li>Políticas de Segurança</li>
+                <li>Procedimentos Adequados para a Disponibilidade e o Sigilo dos Dados</li>
+                <li>Resolução de Problemas Usando Cisco Packet Tracer</li>
+                <li>Pensamento Crítico</li>
+              </details>
+            <li>
+            <details>
+              <summary>Certificação: Networking Essentials</summary>
+              <ul>
+                <li>Comunicação de Dados</li>
+                <li>Conceitos Básicos de Redes de Computadores</li>
+                <li>Componentes de Rede</li>
+                <li>Modelos de Rede</li>
+                <li>Protocolos de Comunicação</li>
+                <li>Arquitetura de protocolo IP</li>
+                <li>Camada de aplicação</li>
+                <li>Gerenciamento de rede</li>
+              </ul>
+            </details>
+            <li>
+            <details>
+              <summary>Certificação: Endpoint Security</summary>
+              <ul>
+                <li>Ameaças e ciberataques comuns aos endpoints</li>
+                <li>Proteção de Arquivos</li>
+                <li>Ferramentas para proteção de estações de trabalho</li>
+                <li>Segurança Endpoint Windows</li>
+                <li>Segurança Endpoint Linux</li>
+                <li>Proteção de serviços de nuvem</li>
+                <li>Proteção de dispositivos móveis</li>
+                <li>IoT Security: Segurança na Internet das Coisas</li>
+              </ul>
+            </details>
+            <li>
+            <details>
+              <summary>Certificação: Network Defense</summary>
+              <ul>
+                <li>Monitoramento de redes</li>
+                <li>Defesa de redes</li>
+                <li>Técnicas para proteção de redes</li>
+                <li>Controle de acesso</li>
+                <li>Firewalls</li>
+                <li>Segurança na nuvem</li>
+                <li>Criptografia</li>
+                <li>Estratégica de cibersegurança</li>
+              </ul>
+            </details>
+                <tr>
+                  <td style="vertical-align: top; width: 120px;"> 
+                    <img src="https://media.licdn.com/dms/image/v2/D4D0BAQGWrQt1XOEiPw/company-logo_200_200/B4DZbGkZaBGwAI-/0/1747088152588/fiap_logo?e=1773273600&v=beta&t=igjws8Q6_Cjy_d1iQvOm7RO_lf3x3ROn-kLKCoWu3iM" width="100px" alt="IME Logo">
+                  </td>
+                  <td>
+                    <details>
+                      <summary>🔹 <strong>FIAP</strong></summary>
+                      <br>
+                      <ul>
+                        <li>
+                          <details>
+                            <summary>Certificação: Fiap Connect Summit</summary>
+                            <ul>
+                              <li>Participou do Fiap Connect Summit, evento realizado pela FIAP, uma imersão de quatro dias nas áreas de Tecnologia e Negócios </li>
+                            </details>
+                            </table>
 <br>
-
 
 ## Status Atual e Foco
 
