@@ -241,7 +241,7 @@
 ## Conecte-se Comigo
 
 <div align="center">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/D.r4bbi7.png" 
+  <img src="https://tryhackme-badges.s3.amazonaws.com/D.r4bbi7.png?update=3" 
     alt="TryHackMe Badge - D.r4bbi7"/>
 </div>
 
