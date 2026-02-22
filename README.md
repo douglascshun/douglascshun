@@ -39,8 +39,15 @@
 <br>
 
 ## Projetos & Write-ups em Destaque
-Portfólio prático de pentests em ambientes autorizados (HTB, TryHackMe, labs próprios). 
+>Portfólio prático de pentests em ambientes autorizados (HTB, TryHackMe, labs próprios). 
 Todos com relatórios detalhados.
+
+- **MBA em Segurança da Informação**  – Repositório central de estudos, resumos técnicos e documentação prática.  
+  [Ver Projeto completo](https://github.com/douglascshun/PosSegurancaDaInformacao)  
+  Skills: Este repositório foi estruturado para consolidar o conhecimento adquirido ao longo do MBA, servindo como uma base de consulta rápida para aplicação no dia a dia profissional e revisões acadêmicas.
+<br>
+
+
 
 - **TryHackMe Poster**  – Exploração via PostgreSQL CVE-2019-9193 + priv esc sudo  
   [Ver write-up completo](https://github.com/douglascshun/cybersec-portfolio/tree/main/Relatorios/relatorioPosterTHM#readme)  
