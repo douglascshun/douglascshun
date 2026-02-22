@@ -38,6 +38,20 @@
 <br>
 <br>
 
+## Projetos & Write-ups em Destaque
+Portfólio prático de pentests em ambientes autorizados (HTB, TryHackMe, labs próprios). 
+Todos com relatórios detalhados.
+
+- **TryHackMe Poster**  – Exploração via PostgreSQL CVE-2019-9193 + priv esc sudo  
+  [Ver write-up completo](https://github.com/douglascshun/cybersec-portfolio/tree/main/Relatorios/relatorioPosterTHM#readme)  
+  Skills: Nmap, credential stuffing, sudo misconfig, PoC RCE.
+<br>
+
+- **HTB Meow** – Bypass root via Telnet + Alpine misconfig  
+  [Ver write-up completo](https://github.com/douglascshun/cybersec-portfolio/tree/main/Relatorios/relatorioMeowHTB#readme)  
+  Skills: Enumeração serviços, hard-coded creds, root direto.
+<br>
+
 ## Formação Acadêmica
 
 | Instituição | Curso | Status / Período |
