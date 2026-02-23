@@ -1,14 +1,15 @@
+
 <div >
   <img 
     style="width: 1080px;" 
     src="https://www.pulsetechnology.com/hs-fs/hubfs/Cybersecurity%20Graphic.gif?width=1600&height=511&name=Cybersecurity%20Graphic.gif"
     />
 </div>
+<br>
 
-## Olá sou Douglas Cshunderlick 
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Ol%C3%A1+sou+Douglas+Cshunderlick)](https://git.io/typing-svg)
 > **Analista de Cibersegurança & Ethical Hacker**  
 > *Técnico em Defesa de Redes, Pentesting e Análise de Ameaças em Sistemas de Controle (CISA).*
-
   
 ## Tecnologias que utilizo
 <div>
@@ -42,20 +43,17 @@
 >Portfólio prático de pentests em ambientes autorizados (HTB, TryHackMe, labs próprios). 
 Todos com relatórios detalhados.
 
-- **MBA em Segurança da Informação**  – Repositório central de estudos, resumos técnicos e documentação prática.  
-  [Ver Projeto completo](https://github.com/douglascshun/PosSegurancaDaInformacao)  
+- [**MBA em Segurança da Informação**](https://github.com/douglascshun/PosSegurancaDaInformacao)  – Repositório central de estudos, resumos técnicos e documentação prática.  
   Skills: Este repositório foi estruturado para consolidar o conhecimento adquirido ao longo do MBA, servindo como uma base de consulta rápida para aplicação no dia a dia profissional e revisões acadêmicas.
 <br>
 
 
 
-- **TryHackMe Poster**  – Exploração via PostgreSQL CVE-2019-9193 + priv esc sudo  
-  [Ver write-up completo](https://github.com/douglascshun/cybersec-portfolio/tree/main/Relatorios/relatorioPosterTHM#readme)  
+- [**TryHackMe Poster**](https://github.com/douglascshun/cybersec-portfolio/tree/main/Relatorios/relatorioPosterTHM#readme)  – Exploração via PostgreSQL CVE-2019-9193 + priv esc sudo  
   Skills: Nmap, credential stuffing, sudo misconfig, PoC RCE.
 <br>
 
-- **HTB Meow** – Bypass root via Telnet + Alpine misconfig  
-  [Ver write-up completo](https://github.com/douglascshun/cybersec-portfolio/tree/main/Relatorios/relatorioMeowHTB#readme)  
+- [**HTB Meow**](https://github.com/douglascshun/cybersec-portfolio/tree/main/Relatorios/relatorioMeowHTB#readme) – Bypass root via Telnet + Alpine misconfig  
   Skills: Enumeração serviços, hard-coded creds, root direto.
 <br>
 
