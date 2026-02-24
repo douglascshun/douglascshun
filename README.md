@@ -130,7 +130,30 @@ Todos com relatórios detalhados.
       </details>
     </td>
   </tr>
-  
+
+
+<tr>
+  <td style="vertical-align: top; width: 120px;">
+    <img src="https://media.licdn.com/dms/image/v2/C4D0BAQFoqF4hVw8g0Q/company-logo_200_200/company-logo_200_200/0/1630531707341/nist_logo?e=1773273600&v=beta&t=p-WNyui_JOftbhGIjcBKHV7wVMGmjyjIOmwMD1KdpJw" width="100px" alt="IME Logo">
+    </td>
+  <td>
+      <details>
+        <summary>🔹 <strong>NIST(National Institute of Standards and Technology)</strong></summary>
+        <br>
+        <ul>
+          <li>
+            <details>
+              <summary>Certificação: NIST RMF Couse V2</summary>
+              <ul>
+                <li>A Estrutura de Gestão de Riscos (RMF) do NIST fornece um processo abrangente, flexível, repetível e mensurável de 7 etapas que qualquer organização pode usar para gerenciar os riscos de segurança da informação e privacidade para organizações e sistemas, e inclui links para um conjunto de padrões e diretrizes do NIST para apoiar a implementação de programas de gestão de riscos que atendam aos requisitos da Lei Federal dos EUA de Modernização da Segurança da Informação (FISMA).</li>
+              </ul>
+            </details>
+          </li>
+        </ul>
+      </details>
+  </td>
+</tr>
+
 <td style="vertical-align: top; width: 120px;">
   <img src="https://media.licdn.com/dms/image/v2/D4D0BAQEkiQ8pB1hYow/company-logo_200_200/B4DZcSgOD1HMAM-/0/1748362125886/cisco_networking_academy1_logo?e=1773273600&v=beta&t=kuj77nl1XojNMnJx08KtOjB02Jf2Wla6SDd1IYg3rvo"
 width="100px"alt="IME Logo">
