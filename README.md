@@ -12,7 +12,7 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=500&multiline=true&width=435&lines=%3E+Ol%C3%A1+sou+Douglas+Cshunderlick;Analista+de+Ciberseguran%C3%A7a+"
       width="620px" alt="Dege">
   </picture>
-</p>
+ </p>
 <br>
 
 
@@ -31,6 +31,8 @@ Desenvolvedor de Software com foco em Segurança Ofensiva e Governança. Unindo 
 <br>
   
 ## Tecnologias que utilizo
+<br>
+
 <div>
   <img 
     style="width: 1080px;" 
@@ -40,15 +42,13 @@ Desenvolvedor de Software com foco em Segurança Ofensiva e Governança. Unindo 
 <br>
 
 ## Projetos & Write-ups em Destaque
->Portfólio prático de pentests em ambientes autorizados (HTB, TryHackMe, labs próprios). 
+>Portfólio prático de pentests em ambientes autorizados (HTB, TryHackMe, labs e projetos próprios). 
 Todos com relatórios detalhados.
 <br>
 
 - [**MBA em Segurança da Informação**](https://github.com/douglascshun/PosSegurancaDaInformacao)  – Repositório central de estudos, resumos técnicos e documentação prática.  
   Skills: Este repositório foi estruturado para consolidar o conhecimento adquirido ao longo do MBA, servindo como uma base de consulta rápida para aplicação no dia a dia profissional e revisões acadêmicas.
 <br>
-
-
 
 - [**TryHackMe Poster**](https://github.com/douglascshun/cybersec-portfolio/tree/main/Relatorios/relatorioPosterTHM#readme)  – Exploração via PostgreSQL CVE-2019-9193 + priv esc sudo  
   Skills: Nmap, credential stuffing, sudo misconfig, PoC RCE.
@@ -78,6 +78,7 @@ Todos com relatórios detalhados.
 <br>
 
 ## Formação Acadêmica
+<br>
 
 | Instituição | Curso | Status / Período |
 | :--- | :--- | :--- |
@@ -86,8 +87,10 @@ Todos com relatórios detalhados.
 | **Universidade Cruzeiro do Sul** | Análise e Desenvolvimento de Sistemas | Jan 2023 – Dez 2025 (Concluído) |
 | **IFSP** | Técnico em Administração | 2019 – 2020 (Concluído) |
 <br>
+<br>
 
 ## Certificações e Badges de Segurança
+<br>
 
 <table>
   <tr>
@@ -415,9 +418,12 @@ width="100px" alt="IME Logo">
     </td>
   </tr>
 </table>
+<br>
+<br>
 
 
 ## Status Atual e Foco
+<br>
 
 <table>
   <thead>
@@ -454,7 +460,11 @@ width="100px" alt="IME Logo">
 </table>
 <br>
 
+
+
 ## Conecte-se Comigo
+<br>
+
 
 <div align="center">
   <img src="https://tryhackme-badges.s3.amazonaws.com/D.r4bbi7.png?update=3" 
