@@ -1,15 +1,34 @@
-
-<div >
+<div>
   <img 
     style="width: 1080px;" 
     src="https://www.pulsetechnology.com/hs-fs/hubfs/Cybersecurity%20Graphic.gif?width=1600&height=511&name=Cybersecurity%20Graphic.gif"
     />
 </div>
 <br>
+<br>
 
-# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Ol%C3%A1+sou+Douglas+Cshunderlick)](https://git.io/typing-svg)
-> **Analista de Cibersegurança & Ethical Hacker**  
-> *Técnico em Defesa de Redes, Pentesting e Análise de Ameaças em Sistemas de Controle (CISA).*
+ <p align="left">
+  <picture>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=500&multiline=true&width=435&lines=%3E+Ol%C3%A1+sou+Douglas+Cshunderlick;Analista+de+Ciberseguran%C3%A7a+"
+      width="620px" alt="Dege">
+  </picture>
+</p>
+<br>
+
+
+<p align="left">
+  <em>Defesa de Redes • Análise de Ameaças • OSCP prep • Labs HTB / TryHackMe</em>
+</p>
+
+Desenvolvedor de Software com foco em Segurança Ofensiva e Governança. Unindo a base técnica em Analise e Desenvolvimento de Sistemas, com especializações em MBA Engenharia de Software e Pós-Graduação em Segurança da Informação, foco na criação de sistemas resilientes desde o código. Atualmente Top 6% no ranking global do TryHackMe, aplico laboratórios constantes de análise de malware e desenvolvimento de ferramentas customizadas para automação de segurança e análise de vulnerabilidades. 
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/HTB%20Rank-D.r4bbi7-blue?style=flat&logo=tryhackme" />
+  <img src="https://img.shields.io/badge/Status-OSCP%20Prep-orange?style=flat" />
+</p>
+
+<br>
   
 ## Tecnologias que utilizo
 <div>
@@ -18,6 +37,25 @@
     src="https://skillicons.dev/icons?i=kali,linux,windows,py,php,bash,powershell,vim,vscode,obsidian&theme=dark"
     />
 </div>
+<br>
+
+## Projetos & Write-ups em Destaque
+>Portfólio prático de pentests em ambientes autorizados (HTB, TryHackMe, labs próprios). 
+Todos com relatórios detalhados.
+<br>
+
+- [**MBA em Segurança da Informação**](https://github.com/douglascshun/PosSegurancaDaInformacao)  – Repositório central de estudos, resumos técnicos e documentação prática.  
+  Skills: Este repositório foi estruturado para consolidar o conhecimento adquirido ao longo do MBA, servindo como uma base de consulta rápida para aplicação no dia a dia profissional e revisões acadêmicas.
+<br>
+
+
+
+- [**TryHackMe Poster**](https://github.com/douglascshun/cybersec-portfolio/tree/main/Relatorios/relatorioPosterTHM#readme)  – Exploração via PostgreSQL CVE-2019-9193 + priv esc sudo  
+  Skills: Nmap, credential stuffing, sudo misconfig, PoC RCE.
+<br>
+
+- [**HTB Meow**](https://github.com/douglascshun/cybersec-portfolio/tree/main/Relatorios/relatorioMeowHTB#readme) – Bypass root via Telnet + Alpine misconfig  
+  Skills: Enumeração serviços, hard-coded creds, root direto.
 <br>
 
 ## Contibuições
@@ -37,24 +75,6 @@
   />
 </picture>
 <br>
-<br>
-
-## Projetos & Write-ups em Destaque
->Portfólio prático de pentests em ambientes autorizados (HTB, TryHackMe, labs próprios). 
-Todos com relatórios detalhados.
-
-- [**MBA em Segurança da Informação**](https://github.com/douglascshun/PosSegurancaDaInformacao)  – Repositório central de estudos, resumos técnicos e documentação prática.  
-  Skills: Este repositório foi estruturado para consolidar o conhecimento adquirido ao longo do MBA, servindo como uma base de consulta rápida para aplicação no dia a dia profissional e revisões acadêmicas.
-<br>
-
-
-
-- [**TryHackMe Poster**](https://github.com/douglascshun/cybersec-portfolio/tree/main/Relatorios/relatorioPosterTHM#readme)  – Exploração via PostgreSQL CVE-2019-9193 + priv esc sudo  
-  Skills: Nmap, credential stuffing, sudo misconfig, PoC RCE.
-<br>
-
-- [**HTB Meow**](https://github.com/douglascshun/cybersec-portfolio/tree/main/Relatorios/relatorioMeowHTB#readme) – Bypass root via Telnet + Alpine misconfig  
-  Skills: Enumeração serviços, hard-coded creds, root direto.
 <br>
 
 ## Formação Acadêmica
