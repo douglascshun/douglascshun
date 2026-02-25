@@ -450,9 +450,7 @@ width="100px" alt="IME Logo">
       <td valign="top">
         <ul>
           <li> Pergunte-me: Burp Suite configs, Wireshark filters ou setups de lab Kali.</li>
-          <li> Contato: douglascshunderlick@gmail.com ou DM no LinkedIn/GitHub.</li>
-          <li> Pronomes: he/him</li>
-          <li> Curiosidade: Já quebrei um WEP em menos de 5 min com Aircrack-ng... mas só em lab!</li>
+          <li> Curiosidade: Já quebrei um WEP em menos de 5 min com Aircrack-ng... mas só em lab! (claro ha)</li>
         </ul>
       </td>
     </tr>
