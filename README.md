@@ -95,6 +95,29 @@ Todos com relatórios detalhados.
 <table>
   <tr>
     <td style="vertical-align: top; width: 120px;">
+      <img src="https://media.licdn.com/dms/image/v2/C4E0BAQFReqN0yZFH6w/company-logo_100_100/company-logo_100_100/0/1643738366598/harvardx_logo?e=1773878400&v=beta&t=aOtbqsnkCS_76RmwQOgxMIdtPXJuOrIFEUsJ-07VSX0" width="100px" alt=Havard Logo">
+    </td>
+    <td>
+      <details>
+        <summary>🔹 <strong>Harvard</strong></summary>
+        <br>
+        <ul>
+          <li>
+            <details>
+              <summary>Certificação: CS50 Cybersecurity:CS50's Introduction to Cybersecurity</summary>
+              <ul>
+                <li>Garantindo a segurança das contas</li>
+                <li>Protegendo Dados</li>
+                <li>Garantindo a segurança dos sistemas</li>
+                <li>Protegendo Software</li>
+                <li>Preservando a Privacidade</li>
+              </ul>
+            </td>
+            </tr>
+
+  
+  <tr>
+    <td style="vertical-align: top; width: 120px;">
       <img src="https://media.licdn.com/dms/image/v2/C560BAQHqZkwy_9qfLg/company-logo_200_200/company-logo_200_200/0/1657640157247/cisagov_logo?e=1773273600&v=beta&t=nkBE5vhJCE6zi_nGw_WCSiDNhLa8N_pQfLgSCb0LH_0" width="100px" alt="CISA Logo">
     </td>
     <td>
