@@ -132,7 +132,7 @@ Todos com relatórios detalhados.
         <ul>
           <li>
             <details>
-              <summary>Certificação: CS50 Cybersecurity:CS50's Introduction to Cybersecurity</summary>
+              <summary>Certificação: Introduction to Engineering Concepts</summary>
               <ul>
                 <li>Experiência em Laboratório de filtração inspirado no estudo do MIT LL com Segurança Interna sobre a propagação da COVID no sistema de transporte público de Nova York (Biotecnologia e Sistemas Humanos).</li>
                 <li>Experiência em Laboratório de etiquetas Bluetooth derivado do projeto Privacy Automated Contact Tracing (PACT) (Cyber Security & Information Sciences).</li>
