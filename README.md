@@ -114,7 +114,39 @@ Todos com relatórios detalhados.
               </ul>
             </td>
             </tr>
+            </details>
+          </li>
+        </ul>
+      </details>
+    </td>
+  </tr>
 
+  <tr>
+    <td style="vertical-align: top; width: 120px;">
+      <img src="https://media.licdn.com/dms/image/v2/D560BAQH-UXRfIDIKug/company-logo_200_200/company-logo_200_200/0/1689799729035/mit_logo?e=1774483200&v=beta&t=kK2yqY3rsynYjYp--KyfEyjxllTEGXuKvY5B6-rIJ3w" width="100px" alt=MIT Logo">
+    </td>
+    <td>
+      <details>
+        <summary>🔹 <strong>MIT (Massachusetts Institute of Technology)</strong></summary>
+        <br>
+        <ul>
+          <li>
+            <details>
+              <summary>Certificação: CS50 Cybersecurity:CS50's Introduction to Cybersecurity</summary>
+              <ul>
+                <li>Experiência em Laboratório de filtração inspirado no estudo do MIT LL com Segurança Interna sobre a propagação da COVID no sistema de transporte público de Nova York (Biotecnologia e Sistemas Humanos).</li>
+                <li>Experiência em Laboratório de etiquetas Bluetooth derivado do projeto Privacy Automated Contact Tracing (PACT) (Cyber Security & Information Sciences).</li>
+                <li>Experiência com o laboratório de xadrez Clausewitzian, foi adotado a partir de um estudo de guerra adaptativa multidomínio gamificado do MIT LL (Homeland Protection).</li>
+                <li>Capacidade desenvolvida, compreensão geral da engenharia e as muitas maneiras pelas quais a engenharia é aplicada para formar áreas relacionadas.</li>
+                <li>Capacidade desenvolvida, familiaridade com o processo de engenharia.</li>
+                <li>Capacidade de aplicar o processo de engenharia para resolver problemas atuais e relevantes que lhe interessam.</li>
+              </ul>
+            </details>
+          </li>
+        </ul>
+      </details>
+    </td>
+  </tr>
   
   <tr>
     <td style="vertical-align: top; width: 120px;">
