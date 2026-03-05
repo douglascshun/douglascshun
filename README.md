@@ -462,7 +462,7 @@ width="100px" alt="IME Logo">
         <ul>
           <li>
             <details>
-              <summary>Certificação: Fiap Connect Summit</summary>
+              <summary>Certificação: Fiap Connect Summit (EVENTO) </summary>
               <ul>
                 <li>Imersão de quatro dias nas áreas de Tecnologia e Negócios.</li>
               </ul>
