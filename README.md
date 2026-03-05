@@ -184,7 +184,7 @@ Todos com relatórios detalhados.
     </td>
   <td>
       <details>
-        <summary>🔹 <strong>NIST(National Institute of Standards and Technology)</strong></summary>
+        <summary>🔹 <strong>NIST (National Institute of Standards and Technology)</strong></summary>
         <br>
         <ul>
           <li>
