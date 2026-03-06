@@ -2,23 +2,28 @@
   <img src="https://file.loading.io/color/feature/thumb/Blues-8.png?" width="100%" height ="15px"alt="Dark Terminal Background" style="filter: brightness(0.8);">
 </div>
 
+<br>
+
 <div>
   <img 
     style="width: 1080px;" 
     src="https://www.pulsetechnology.com/hs-fs/hubfs/Cybersecurity%20Graphic.gif?width=1600&height=511&name=Cybersecurity%20Graphic.gif"
     />
 </div>
-<div align="center">
+
+<br>
+
+<p align="center">
   <img src="https://file.loading.io/color/feature/thumb/Blues-8.png?" width="100%" height ="15px"alt="Dark Terminal Background" style="filter: brightness(0.8);">
-</div>
+</p>
 <br>
 <br>
 
-<p>
+<pre>
   <img src="https://readme-typing-svg.demolab.com?font=VT323&size=28&duration=2000&pause=100&left=true&vCenter=true&width=500&lines=;_;;_;%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88;Initializing+system...;;%3E+Acesso+condedido+.++.++.+;%3E+Bem+vindo+ao+mainframe+XD;%3E+Sou+Douglas+Cshunderlick;%3E+Ethical+Hacker+%26+Analista+de+SI;%3E;%3E+See+u;Reboot;%3E+" 
     style="width: 720px;" 
     alt="Typing SVG">
-</p>
+</pre>
 
 <p align="left">
   <em>Defesa de Redes • Análise de Ameaças • OSCP prep • Labs HTB / TryHackMe</em>
@@ -33,7 +38,7 @@ Desenvolvedor de Software com foco em Segurança Ofensiva e Governança. Unindo 
 
 <br>
 <div align="center">
-  <img src="https://file.loading.io/color/feature/thumb/Blues-8.png?" width="100%" height ="15px"alt="Dark Terminal Background" style="filter: brightness(0.8);">
+  <img src="https://file.loading.io/color/feature/thumb/Blues-8.png?" width="100%" height ="3px"alt="Dark Terminal Background" style="filter: brightness(0.8);">
 </div>
 
   
@@ -52,7 +57,7 @@ Desenvolvedor de Software com foco em Segurança Ofensiva e Governança. Unindo 
 <br>
 <br>
 <div align="center">
-  <img src="https://file.loading.io/color/feature/thumb/Blues-8.png?" width="100%" height ="15px"alt="Dark Terminal Background" style="filter: brightness(0.8);">
+  <img src="https://file.loading.io/color/feature/thumb/Blues-8.png?" width="100%" height ="3px"alt="Dark Terminal Background" style="filter: brightness(0.8);">
 </div>
 
 ## Projetos & Write-ups em Destaque
@@ -78,7 +83,7 @@ Skills: Enumeração serviços, hard-coded creds, root direto.
 <br>
 <br>
 <div align="center">
-  <img src="https://file.loading.io/color/feature/thumb/Blues-8.png?" width="100%" height ="15px"alt="Dark Terminal Background" style="filter: brightness(0.8);">
+  <img src="https://file.loading.io/color/feature/thumb/Blues-8.png?" width="100%" height ="3px"alt="Dark Terminal Background" style="filter: brightness(0.8);">
 </div>
 
 
@@ -103,7 +108,7 @@ Skills: Enumeração serviços, hard-coded creds, root direto.
 <br>
 <br>
 <div align="center">
-  <img src="https://file.loading.io/color/feature/thumb/Blues-8.png?" width="100%" height ="15px"alt="Dark Terminal Background" style="filter: brightness(0.8);">
+  <img src="https://file.loading.io/color/feature/thumb/Blues-8.png?" width="100%" height ="3px"alt="Dark Terminal Background" style="filter: brightness(0.8);">
 </div>
 
 
@@ -121,7 +126,7 @@ Skills: Enumeração serviços, hard-coded creds, root direto.
 <br>
 <br>
 <div align="center">
-  <img src="https://file.loading.io/color/feature/thumb/Blues-8.png?" width="100%" height ="15px"alt="Dark Terminal Background" style="filter: brightness(0.8);">
+  <img src="https://file.loading.io/color/feature/thumb/Blues-8.png?" width="100%" height ="3px"alt="Dark Terminal Background" style="filter: brightness(0.8);">
 </div>
 
 ## Certificações e Badges de Segurança
@@ -131,14 +136,14 @@ Skills: Enumeração serviços, hard-coded creds, root direto.
   <!-- LINHA 1 -->
   <tr>
     <!-- Card Harvard -->
-    <td style="width:33%; vertical-align:center; padding:10px;">
-      <div style="background:#0d1117; border:1px solid #30363d; border-radius:10px; padding:15px; text-align:left; min-height:220px;">
+    <td style="width:33%; vertical-align:center; padding:3px;">
+      <div style="background:#0d1117; border:1px solid #30363d; border-radius:3px; padding:3px; text-align:left; min-height:220px;">
         <img src="https://media.licdn.com/dms/image/v2/C4E0BAQFReqN0yZFH6w/company-logo_100_100/company-logo_100_100/0/1643738366598/harvardx_logo?e=1773878400&v=beta&t=aOtbqsnkCS_76RmwQOgxMIdtPXJuOrIFEUsJ-07VSX0" width="80px" alt="Harvard Logo"><br>
         <strong>Harvard</strong><br>
         <img src="https://img.shields.io/badge/Harvard-CS50-red?style=flat-square&logo=harvard&logoColor=white" alt="Harvard Badge"><br>
         <details>
           <summary>Contemplamento: </summary>
-          <ul style="text-align:left; margin-top:10px;">
+          <ul style="text-align:left; margin-top:3px;">
             <li>
               <details>
                 <summary>CS50's Introduction to Cybersecurity</summary>
@@ -156,14 +161,14 @@ Skills: Enumeração serviços, hard-coded creds, root direto.
       </div>
     </td>
     <!-- Card MIT -->
-    <td style="width:33%; vertical-align:center; padding:10px;">
-      <div style="background:#0d1117; border:1px solid #30363d; border-radius:10px; padding:15px; text-align:left; min-height:220px;">
+    <td style="width:33%; vertical-align:center; padding:3px;">
+      <div style="background:#0d1117; border:1px solid #30363d; border-radius:3px; padding:3px; text-align:left; min-height:220px;">
         <img src="https://media.licdn.com/dms/image/v2/D560BAQH-UXRfIDIKug/company-logo_200_200/company-logo_200_200/0/1689799729035/mit_logo?e=1774483200&v=beta&t=kK2yqY3rsynYjYp--KyfEyjxllTEGXuKvY5B6-rIJ3w" width="80px" alt="MIT Logo"><br>
         <strong>MIT (Massachusetts Institute of Technology)</strong><br>
         <img src="https://img.shields.io/badge/MIT-Introduction to Engineering Concepts-black?style=flat-square&logo=mit&logoColor=white" alt="MIT Badge"><br>
         <details>
           <summary>Contemplamento: </summary>
-          <ul style="text-align:left; margin-top:10px;">
+          <ul style="text-align:left; margin-top:3px;">
             <li>
               <details>
                 <summary>Introduction to Engineering Concepts</summary>
@@ -182,15 +187,15 @@ Skills: Enumeração serviços, hard-coded creds, root direto.
       </div>
     </td>
     <!-- Card CISA -->
-    <td style="width:33%; vertical-align:center; padding:10px;">
-      <div style="background:#0d1117; border:1px solid #30363d; border-radius:10px; padding:15px; text-align:center; min-height:220px;">
+    <td style="width:33%; vertical-align:center; padding:3px;">
+      <div style="background:#0d1117; border:1px solid #30363d; border-radius:3px; padding:3px; text-align:center; min-height:220px;">
         <img src="https://media.licdn.com/dms/image/v2/C560BAQHqZkwy_9qfLg/company-logo_200_200/company-logo_200_200/0/1657640157247/cisagov_logo?e=1773273600&v=beta&t=nkBE5vhJCE6zi_nGw_WCSiDNhLa8N_pQfLgSCb0LH_0" width="80px" alt="CISA Logo"><br>
         <strong>CISA (Cybersecurity & Infrastructure Security Agency)</strong><br>
         <img src="https://img.shields.io/badge/CISA-210W 02-informational?style=flat-square&logo=cisa&logoColor=white" alt="CISA 210w 02 Badge"><br>
         <img src="https://img.shields.io/badge/CISA-210W 06-informational?style=flat-square&logo=cisa&logoColor=white" alt="CISA 210w 06 Badge"><br>
         <details>
           <summary>Contemplamento: </summary>
-          <ul style="text-align:left; margin-top:10px;">
+          <ul style="text-align:left; margin-top:3px;">
             <li>
               <details>
                 <summary>210W-02 Influência dos componentes de TI em sistemas de controle industrial</summary>
@@ -221,14 +226,14 @@ Skills: Enumeração serviços, hard-coded creds, root direto.
   <!-- LINHA 2 -->
   <tr>
     <!-- Card IME -->
-    <td style="width:33%; vertical-align:center; padding:10px;">
-      <div style="background:#0d1117; border:1px solid #30363d; border-radius:10px; padding:15px; text-align:center; min-height:220px;">
+    <td style="width:33%; vertical-align:center; padding:3px;">
+      <div style="background:#0d1117; border:1px solid #30363d; border-radius:3px; padding:3px; text-align:center; min-height:220px;">
         <img src="https://media.licdn.com/dms/image/v2/C4E0BAQHgpYFIyzj3Ug/company-logo_200_200/company-logo_200_200/0/1631332886894?e=1773273600&v=beta&t=Zecqs9R1PauHavEK9CFo2YJxB-PXh1damIsTnKERsF4" width="80px" alt="IME Logo"><br>
         <strong>IME (Instituto Militar de Engenharia)</strong><br>
         <img src="https://img.shields.io/badge/IME-Gerenciamento de Ameaças Cibernéticas-gold?style=flat-square&logo=ime&logoColor=white" alt="IME Badge"><br>
         <details>
           <summary>Contemplamento: </summary>
-          <ul style="text-align:left; margin-top:10px;">
+          <ul style="text-align:left; margin-top:3px;">
             <li>
               <details>
                 <summary>Gerenciamento de Ameaças Cibernéticas</summary>
@@ -245,14 +250,14 @@ Skills: Enumeração serviços, hard-coded creds, root direto.
       </div>
     </td>
     <!-- Card NIST -->
-    <td style="width:33%; vertical-align:center; padding:10px;">
-      <div style="background:#0d1117; border:1px solid #30363d; border-radius:10px; padding:15px; text-align:center; min-height:220px;">
+    <td style="width:33%; vertical-align:center; padding:3px;">
+      <div style="background:#0d1117; border:1px solid #30363d; border-radius:3px; padding:3px; text-align:center; min-height:220px;">
         <img src="https://media.licdn.com/dms/image/v2/C4D0BAQFoqF4hVw8g0Q/company-logo_200_200/company-logo_200_200/0/1630531707341/nist_logo?e=1773273600&v=beta&t=p-WNyui_JOftbhGIjcBKHV7wVMGmjyjIOmwMD1KdpJw" width="80px" alt="NIST Logo"><br>
         <strong>NIST (National Institute of Standards and Technology)</strong><br>
         <img src="https://img.shields.io/badge/NIST-Risk Management Structure-white?style=flat-square&logo=nist&logoColor=white" alt="Nist Badge"><br>
         <details>
           <summary>Contemplamento: </summary>
-          <ul style="text-align:left; margin-top:10px;">
+          <ul style="text-align:left; margin-top:3px;">
             <li>
               <details>
                 <summary>NIST RMF Course V2</summary>
@@ -266,8 +271,8 @@ Skills: Enumeração serviços, hard-coded creds, root direto.
       </div>
     </td>
     <!-- Card Cisco -->
-    <td style="width:33%; vertical-align:center; padding:10px;">
-      <div style="background:#0d1117; border:1px solid #30363d; border-radius:10px; padding:15px; text-align:center; min-height:220px;">
+    <td style="width:33%; vertical-align:center; padding:3px;">
+      <div style="background:#0d1117; border:1px solid #30363d; border-radius:3px; padding:3px; text-align:center; min-height:220px;">
         <img src="https://media.licdn.com/dms/image/v2/D4D0BAQEkiQ8pB1hYow/company-logo_200_200/B4DZcSgOD1HMAM-/0/1748362125886/cisco_networking_academy1_logo?e=1773273600&v=beta&t=kuj77nl1XojNMnJx08KtOjB02Jf2Wla6SDd1IYg3rvo" width="80px" alt="Cisco Logo"><br>
         <strong>Cisco Networking Academy</strong><br>
         <img src="https://img.shields.io/badge/Cisco-Hacker Ético-01163B?style=flat-square&logo=cisco&logoColor=white" alt="cisco Hacker Ético Badge"><br>
@@ -280,7 +285,7 @@ Skills: Enumeração serviços, hard-coded creds, root direto.
         <img src="https://img.shields.io/badge/Cisco-Linux Unhatched-01163B?style=flat-square&logo=cisco&logoColor=white" alt="cisco Linux Unhatched Badge"><br>
         <details>
           <summary>Contemplamento: </summary>
-          <ul style="text-align:left; margin-top:10px;">
+          <ul style="text-align:left; margin-top:3px;">
             <li>
               <details>
                 <summary>Hacker Ético</summary>
@@ -404,8 +409,8 @@ Skills: Enumeração serviços, hard-coded creds, root direto.
   <!-- LINHA 3 -->
   <tr>
     <!-- Card Uniamérica -->
-    <td style="width:33%; vertical-align:center; padding:10px;">
-      <div style="background:#0d1117; border:1px solid #30363d; border-radius:10px; padding:15px; text-align:center; min-height:220px;">
+    <td style="width:33%; vertical-align:center; padding:3px;">
+      <div style="background:#0d1117; border:1px solid #30363d; border-radius:3px; padding:3px; text-align:center; min-height:220px;">
         <img src="https://media.licdn.com/dms/image/v2/D4D0BAQEIqp2hOKmaUg/company-logo_200_200/company-logo_200_200/0/1687265100897/uniamericaua_logo?e=1773273600&v=beta&t=GvVq9hWpjD-hRVMGoqcHtvQ0M4AHYm9E4FC1u8d9Knk" width="80px" alt="Uniamérica Logo"><br>
         <strong>Centro Universitário União das Américas</strong><br>
         <img src="https://img.shields.io/badge/União das Américas-Cybersecurity Essentials-8AE675?style=flat-square&logo=harvard&logoColor=white" alt="União das Américas Cybersecurity Essentials Badge"><br>
@@ -414,7 +419,7 @@ Skills: Enumeração serviços, hard-coded creds, root direto.
         <img src="https://img.shields.io/badge/União das Américas-Network Defense-8AE675?style=flat-square&logo=harvard&logoColor=white" alt="União das Américas Network Defense Badge"><br>
         <details>
           <summary>Contemplamento: </summary>
-          <ul style="text-align:left; margin-top:10px;">
+          <ul style="text-align:left; margin-top:3px;">
             <li>
               <details>
                 <summary>Cybersecurity Essentials</summary>
@@ -480,14 +485,14 @@ Skills: Enumeração serviços, hard-coded creds, root direto.
       </div>
     </td>
     <!-- Card TryHackMe -->
-    <td style="width:33%; vertical-align:center; padding:10px;">
-      <div style="background:#0d1117; border:1px solid #30363d; border-radius:10px; padding:15px; text-align:center; min-height:220px;">
+    <td style="width:33%; vertical-align:center; padding:3px;">
+      <div style="background:#0d1117; border:1px solid #30363d; border-radius:3px; padding:3px; text-align:center; min-height:220px;">
         <img src="https://media.licdn.com/dms/image/v2/D4D0BAQEM_1J-9HJ-qg/company-logo_200_200/B4DZxs03T5G0AI-/0/1771352323859/tryhackme_logo?e=1773273600&v=beta&t=aQqaiPMfQ9o2_E2GWoubak3uDCaOPeN4yPJbD1Xgkqo" width="80px" alt="TryHackMe Logo"><br>
         <strong>TryHackMe</strong><br>
         <img src="https://img.shields.io/badge/TryHackMe-Pre Security (New Path)-0E224D?style=flat-square&logo=TryHackMe&logoColor=white" alt="TryHackMe Badge">
         <details>
           <summary>Contemplamento: </summary>
-          <ul style="text-align:left; margin-top:10px;">
+          <ul style="text-align:left; margin-top:3px;">
             <li>
               <details>
                 <summary>Pre Security (New Path)</summary>
@@ -504,14 +509,14 @@ Skills: Enumeração serviços, hard-coded creds, root direto.
       </div>
     </td>
     <!-- Card FIAP -->
-    <td style="width:33%; vertical-align:center; padding:10px;">
-      <div style="background:#0d1117; border:1px solid #30363d; border-radius:10px; padding:15px; text-align:center; min-height:220px;">
+    <td style="width:33%; vertical-align:center; padding:3px;">
+      <div style="background:#0d1117; border:1px solid #30363d; border-radius:3px; padding:3px; text-align:center; min-height:220px;">
         <img src="https://media.licdn.com/dms/image/v2/D4D0BAQGWrQt1XOEiPw/company-logo_200_200/B4DZbGkZaBGwAI-/0/1747088152588/fiap_logo?e=1773273600&v=beta&t=igjws8Q6_Cjy_d1iQvOm7RO_lf3x3ROn-kLKCoWu3iM" width="80px" alt="FIAP Logo"><br>
         <strong>FIAP</strong><br>
         <img src="https://img.shields.io/badge/FIAP-Fiap Connect Summit-70191E?style=flat-square&logo=FIAP&logoColor=white" alt="FIAP Badge"><br>
         <details>
           <summary>Contemplamento: </summary>
-          <ul style="text-align:left; margin-top:10px;">
+          <ul style="text-align:left; margin-top:3px;">
             <li>
               <details>
                 <summary>Fiap Connect Summit (EVENTO)</summary>
@@ -531,7 +536,7 @@ Skills: Enumeração serviços, hard-coded creds, root direto.
 <br>
 <br>
 <div align="center">
-  <img src="https://file.loading.io/color/feature/thumb/Blues-8.png?" width="100%" height ="15px"alt="Dark Terminal Background" style="filter: brightness(0.8);">
+  <img src="https://file.loading.io/color/feature/thumb/Blues-8.png?" width="100%" height ="3px"alt="Dark Terminal Background" style="filter: brightness(0.8);">
 </div>
 
 ## Status Atual e Foco
@@ -572,7 +577,7 @@ Skills: Enumeração serviços, hard-coded creds, root direto.
 <br>
 <br>
 <div align="center">
-  <img src="https://file.loading.io/color/feature/thumb/Blues-8.png?" width="100%" height ="15px"alt="Dark Terminal Background" style="filter: brightness(0.8);">
+  <img src="https://file.loading.io/color/feature/thumb/Blues-8.png?" width="100%" height ="3px"alt="Dark Terminal Background" style="filter: brightness(0.8);">
 </div>
 
 ## Conecte-se Comigo
@@ -608,7 +613,7 @@ Skills: Enumeração serviços, hard-coded creds, root direto.
 
 <div align="center">
 <div align="center">
-  <img src="https://file.loading.io/color/feature/thumb/Blues-8.png?" width="100%" height ="15px"alt="Dark Terminal Background" style="filter: brightness(0.8);">
+  <img src="https://file.loading.io/color/feature/thumb/Blues-8.png?" width="100%" height ="3px"alt="Dark Terminal Background" style="filter: brightness(0.8);">
 </div>
 
 #### Quando se pensa como quem observa, você descobre se o esforço de escalar o seu muro vale a recompensa que está lá dentro.
