@@ -126,12 +126,6 @@ Skills: Enumeração serviços, hard-coded creds, root direto.
 
 ## Certificações e Badges de Segurança
 <br>
-
-
-
-<details>
-  <summary>🔒 Clique para expandir todas as certificações</summary>
-  <br>
   
 <table style="width:100%; border:none;">
   <!-- LINHA 1 -->
@@ -141,9 +135,9 @@ Skills: Enumeração serviços, hard-coded creds, root direto.
       <div style="background:#0d1117; border:1px solid #30363d; border-radius:10px; padding:15px; text-align:left; min-height:220px;">
         <img src="https://media.licdn.com/dms/image/v2/C4E0BAQFReqN0yZFH6w/company-logo_100_100/company-logo_100_100/0/1643738366598/harvardx_logo?e=1773878400&v=beta&t=aOtbqsnkCS_76RmwQOgxMIdtPXJuOrIFEUsJ-07VSX0" width="80px" alt="Harvard Logo"><br>
         <strong>Harvard</strong><br>
-        <img src="https://img.shields.io/badge/Harvard-CS50-red?style=flat-square&logo=harvard&logoColor=white" alt="Harvard Badge">
+        <img src="https://img.shields.io/badge/Harvard-CS50-red?style=flat-square&logo=harvard&logoColor=white" alt="Harvard Badge"><br>
         <details>
-          <summary>Ver certificações </summary>
+          <summary>Contemplamento: </summary>
           <ul style="text-align:left; margin-top:10px;">
             <li>
               <details>
@@ -166,9 +160,9 @@ Skills: Enumeração serviços, hard-coded creds, root direto.
       <div style="background:#0d1117; border:1px solid #30363d; border-radius:10px; padding:15px; text-align:left; min-height:220px;">
         <img src="https://media.licdn.com/dms/image/v2/D560BAQH-UXRfIDIKug/company-logo_200_200/company-logo_200_200/0/1689799729035/mit_logo?e=1774483200&v=beta&t=kK2yqY3rsynYjYp--KyfEyjxllTEGXuKvY5B6-rIJ3w" width="80px" alt="MIT Logo"><br>
         <strong>MIT (Massachusetts Institute of Technology)</strong><br>
-        <img src="https://img.shields.io/badge/MIT-Introduction to Engineering Concepts-black?style=flat-square&logo=harvard&logoColor=white" alt="Harvard Badge">
+        <img src="https://img.shields.io/badge/MIT-Introduction to Engineering Concepts-black?style=flat-square&logo=mit&logoColor=white" alt="MIT Badge"><br>
         <details>
-          <summary>Ver certificações </summary>
+          <summary>Contemplamento: </summary>
           <ul style="text-align:left; margin-top:10px;">
             <li>
               <details>
@@ -192,10 +186,10 @@ Skills: Enumeração serviços, hard-coded creds, root direto.
       <div style="background:#0d1117; border:1px solid #30363d; border-radius:10px; padding:15px; text-align:center; min-height:220px;">
         <img src="https://media.licdn.com/dms/image/v2/C560BAQHqZkwy_9qfLg/company-logo_200_200/company-logo_200_200/0/1657640157247/cisagov_logo?e=1773273600&v=beta&t=nkBE5vhJCE6zi_nGw_WCSiDNhLa8N_pQfLgSCb0LH_0" width="80px" alt="CISA Logo"><br>
         <strong>CISA (Cybersecurity & Infrastructure Security Agency)</strong><br>
-        <img src="https://img.shields.io/badge/CISA-210W 02-informational?style=flat-square&logo=harvard&logoColor=white" alt="Harvard Badge">
-        <img src="https://img.shields.io/badge/CISA-210W 06-informational?style=flat-square&logo=harvard&logoColor=white" alt="Harvard Badge">
+        <img src="https://img.shields.io/badge/CISA-210W 02-informational?style=flat-square&logo=cisa&logoColor=white" alt="CISA 210w 02 Badge"><br>
+        <img src="https://img.shields.io/badge/CISA-210W 06-informational?style=flat-square&logo=cisa&logoColor=white" alt="CISA 210w 06 Badge"><br>
         <details>
-          <summary>Ver certificações </summary>
+          <summary>Contemplamento: </summary>
           <ul style="text-align:left; margin-top:10px;">
             <li>
               <details>
@@ -231,9 +225,9 @@ Skills: Enumeração serviços, hard-coded creds, root direto.
       <div style="background:#0d1117; border:1px solid #30363d; border-radius:10px; padding:15px; text-align:center; min-height:220px;">
         <img src="https://media.licdn.com/dms/image/v2/C4E0BAQHgpYFIyzj3Ug/company-logo_200_200/company-logo_200_200/0/1631332886894?e=1773273600&v=beta&t=Zecqs9R1PauHavEK9CFo2YJxB-PXh1damIsTnKERsF4" width="80px" alt="IME Logo"><br>
         <strong>IME (Instituto Militar de Engenharia)</strong><br>
-        <img src="https://img.shields.io/badge/IME-Gerenciamento de Ameaças Cibernéticas-gold?style=flat-square&logo=harvard&logoColor=white" alt="Harvard Badge">
+        <img src="https://img.shields.io/badge/IME-Gerenciamento de Ameaças Cibernéticas-gold?style=flat-square&logo=ime&logoColor=white" alt="IME Badge"><br>
         <details>
-          <summary>Ver certificações </summary>
+          <summary>Contemplamento: </summary>
           <ul style="text-align:left; margin-top:10px;">
             <li>
               <details>
@@ -255,9 +249,9 @@ Skills: Enumeração serviços, hard-coded creds, root direto.
       <div style="background:#0d1117; border:1px solid #30363d; border-radius:10px; padding:15px; text-align:center; min-height:220px;">
         <img src="https://media.licdn.com/dms/image/v2/C4D0BAQFoqF4hVw8g0Q/company-logo_200_200/company-logo_200_200/0/1630531707341/nist_logo?e=1773273600&v=beta&t=p-WNyui_JOftbhGIjcBKHV7wVMGmjyjIOmwMD1KdpJw" width="80px" alt="NIST Logo"><br>
         <strong>NIST (National Institute of Standards and Technology)</strong><br>
-        <img src="https://img.shields.io/badge/NIST-Risk Management Structure-white?style=flat-square&logo=harvard&logoColor=white" alt="Harvard Badge">
+        <img src="https://img.shields.io/badge/NIST-Risk Management Structure-white?style=flat-square&logo=nist&logoColor=white" alt="Nist Badge"><br>
         <details>
-          <summary>Ver certificações </summary>
+          <summary>Contemplamento: </summary>
           <ul style="text-align:left; margin-top:10px;">
             <li>
               <details>
@@ -276,9 +270,16 @@ Skills: Enumeração serviços, hard-coded creds, root direto.
       <div style="background:#0d1117; border:1px solid #30363d; border-radius:10px; padding:15px; text-align:center; min-height:220px;">
         <img src="https://media.licdn.com/dms/image/v2/D4D0BAQEkiQ8pB1hYow/company-logo_200_200/B4DZcSgOD1HMAM-/0/1748362125886/cisco_networking_academy1_logo?e=1773273600&v=beta&t=kuj77nl1XojNMnJx08KtOjB02Jf2Wla6SDd1IYg3rvo" width="80px" alt="Cisco Logo"><br>
         <strong>Cisco Networking Academy</strong><br>
-        <img src="https://img.shields.io/badge/CS50-Cybersecurity-01163B?style=flat-square&logo=harvard&logoColor=white" alt="Harvard Badge">
+        <img src="https://img.shields.io/badge/Cisco-Hacker Ético-01163B?style=flat-square&logo=cisco&logoColor=white" alt="cisco Hacker Ético Badge"><br>
+        <img src="https://img.shields.io/badge/Cisco-Analista Jr em Cybersecurity-01163B?style=flat-square&logo=cisco&logoColor=white" alt="cisco Analista Jr em Cybersecurity Badge"><br>
+        <img src="https://img.shields.io/badge/Cisco-Defesa de Redes-01163B?style=flat-square&logo=cisco&logoColor=white" alt="cisco Defesa de Redes Badge"><br>
+        <img src="https://img.shields.io/badge/Cisco-Dispositivos de Rede e Configuração Inicial-01163B?style=flat-square&logo=cisco&logoColor=white" alt="cisco Dispositivos de Rede e Configuração Inicial Badge"><br>
+        <img src="https://img.shields.io/badge/Cisco-Segurança em Endpoint-01163B?style=flat-square&logo=cisco&logoColor=white" alt="cisco Segurança em Endpoint Badge"><br>
+        <img src="https://img.shields.io/badge/Cisco-Networking Basics-01163B?style=flat-square&logo=cisco&logoColor=white" alt="cisco Networking Basics Badge"><br>
+        <img src="https://img.shields.io/badge/Cisco-Introdução a Cybersecurity-01163B?style=flat-square&logo=cisco&logoColor=white" alt="cisco Introdução a Cybersecurity Badge"><br>
+        <img src="https://img.shields.io/badge/Cisco-Linux Unhatched-01163B?style=flat-square&logo=cisco&logoColor=white" alt="cisco Linux Unhatched Badge"><br>
         <details>
-          <summary>Ver certificações </summary>
+          <summary>Contemplamento: </summary>
           <ul style="text-align:left; margin-top:10px;">
             <li>
               <details>
@@ -312,7 +313,7 @@ Skills: Enumeração serviços, hard-coded creds, root direto.
             </li>
             <li>
               <details>
-                <summary>Defesa de Rede</summary>
+                <summary>Defesa de Redes</summary>
                 <ul>
                   <li>Usar conceitos de cibersegurança para documentar uma postura de segurança de rede.</li>
                   <li>Configurar medidas de segurança em dispositivos de rede e em endpoints Linux e Windows.</li>
@@ -407,9 +408,12 @@ Skills: Enumeração serviços, hard-coded creds, root direto.
       <div style="background:#0d1117; border:1px solid #30363d; border-radius:10px; padding:15px; text-align:center; min-height:220px;">
         <img src="https://media.licdn.com/dms/image/v2/D4D0BAQEIqp2hOKmaUg/company-logo_200_200/company-logo_200_200/0/1687265100897/uniamericaua_logo?e=1773273600&v=beta&t=GvVq9hWpjD-hRVMGoqcHtvQ0M4AHYm9E4FC1u8d9Knk" width="80px" alt="Uniamérica Logo"><br>
         <strong>Centro Universitário União das Américas</strong><br>
-        <img src="https://img.shields.io/badge/CS50-Cybersecurity-8AE675?style=flat-square&logo=harvard&logoColor=white" alt="Harvard Badge">
+        <img src="https://img.shields.io/badge/União das Américas-Cybersecurity Essentials-8AE675?style=flat-square&logo=harvard&logoColor=white" alt="União das Américas Cybersecurity Essentials Badge"><br>
+        <img src="https://img.shields.io/badge/União das Américas-Networking Essentials-8AE675?style=flat-square&logo=harvard&logoColor=white" alt="União das Américas Networking Essentials Badge"><br>
+        <img src="https://img.shields.io/badge/União das Américas-Endpoint Security-8AE675?style=flat-square&logo=harvard&logoColor=white" alt="União das Américas Endpoint Security Badge"><br>
+        <img src="https://img.shields.io/badge/União das Américas-Network Defense-8AE675?style=flat-square&logo=harvard&logoColor=white" alt="União das Américas Network Defense Badge"><br>
         <details>
-          <summary>Ver certificações </summary>
+          <summary>Contemplamento: </summary>
           <ul style="text-align:left; margin-top:10px;">
             <li>
               <details>
@@ -480,9 +484,9 @@ Skills: Enumeração serviços, hard-coded creds, root direto.
       <div style="background:#0d1117; border:1px solid #30363d; border-radius:10px; padding:15px; text-align:center; min-height:220px;">
         <img src="https://media.licdn.com/dms/image/v2/D4D0BAQEM_1J-9HJ-qg/company-logo_200_200/B4DZxs03T5G0AI-/0/1771352323859/tryhackme_logo?e=1773273600&v=beta&t=aQqaiPMfQ9o2_E2GWoubak3uDCaOPeN4yPJbD1Xgkqo" width="80px" alt="TryHackMe Logo"><br>
         <strong>TryHackMe</strong><br>
-        <img src="https://img.shields.io/badge/CS50-Cybersecurity-0E224D?style=flat-square&logo=harvard&logoColor=white" alt="Harvard Badge">
+        <img src="https://img.shields.io/badge/TryHackMe-Pre Security (New Path)-0E224D?style=flat-square&logo=TryHackMe&logoColor=white" alt="TryHackMe Badge">
         <details>
-          <summary>Ver certificações </summary>
+          <summary>Contemplamento: </summary>
           <ul style="text-align:left; margin-top:10px;">
             <li>
               <details>
@@ -504,9 +508,9 @@ Skills: Enumeração serviços, hard-coded creds, root direto.
       <div style="background:#0d1117; border:1px solid #30363d; border-radius:10px; padding:15px; text-align:center; min-height:220px;">
         <img src="https://media.licdn.com/dms/image/v2/D4D0BAQGWrQt1XOEiPw/company-logo_200_200/B4DZbGkZaBGwAI-/0/1747088152588/fiap_logo?e=1773273600&v=beta&t=igjws8Q6_Cjy_d1iQvOm7RO_lf3x3ROn-kLKCoWu3iM" width="80px" alt="FIAP Logo"><br>
         <strong>FIAP</strong><br>
-        <img src="https://img.shields.io/badge/CS50-Cybersecurity-70191E?style=flat-square&logo=harvard&logoColor=white" alt="Harvard Badge">
+        <img src="https://img.shields.io/badge/FIAP-Fiap Connect Summit-70191E?style=flat-square&logo=FIAP&logoColor=white" alt="FIAP Badge"><br>
         <details>
-          <summary>Ver certificações </summary>
+          <summary>Contemplamento: </summary>
           <ul style="text-align:left; margin-top:10px;">
             <li>
               <details>
@@ -522,8 +526,6 @@ Skills: Enumeração serviços, hard-coded creds, root direto.
     </td>
   </tr>
 </table>
-
-</details>
 
 
 <br>
