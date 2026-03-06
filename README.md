@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://file.loading.io/color/feature/thumb/Blues-8.png?" width="1080px" height ="15px"alt="Dark Terminal Background" style="filter: brightness(0.8);">
+  <img src="https://file.loading.io/color/feature/thumb/Blues-8.png?" width="100%" height ="15px"alt="Dark Terminal Background" style="filter: brightness(0.8);">
 </div>
 
 <div>
@@ -9,7 +9,7 @@
     />
 </div>
 <div align="center">
-  <img src="https://file.loading.io/color/feature/thumb/Blues-8.png?" width="1080px" height ="15px"alt="Dark Terminal Background" style="filter: brightness(0.8);">
+  <img src="https://file.loading.io/color/feature/thumb/Blues-8.png?" width="100%" height ="15px"alt="Dark Terminal Background" style="filter: brightness(0.8);">
 </div>
 <br>
 <br>
@@ -33,7 +33,7 @@ Desenvolvedor de Software com foco em Segurança Ofensiva e Governança. Unindo 
 
 <br>
 <div align="center">
-  <img src="https://file.loading.io/color/feature/thumb/Blues-8.png?" width="1080px" height ="15px"alt="Dark Terminal Background" style="filter: brightness(0.8);">
+  <img src="https://file.loading.io/color/feature/thumb/Blues-8.png?" width="100%" height ="15px"alt="Dark Terminal Background" style="filter: brightness(0.8);">
 </div>
 
   
@@ -52,7 +52,7 @@ Desenvolvedor de Software com foco em Segurança Ofensiva e Governança. Unindo 
 <br>
 <br>
 <div align="center">
-  <img src="https://file.loading.io/color/feature/thumb/Blues-8.png?" width="1080px" height ="15px"alt="Dark Terminal Background" style="filter: brightness(0.8);">
+  <img src="https://file.loading.io/color/feature/thumb/Blues-8.png?" width="100%" height ="15px"alt="Dark Terminal Background" style="filter: brightness(0.8);">
 </div>
 
 ## Projetos & Write-ups em Destaque
@@ -78,7 +78,7 @@ Skills: Enumeração serviços, hard-coded creds, root direto.
 <br>
 <br>
 <div align="center">
-  <img src="https://file.loading.io/color/feature/thumb/Blues-8.png?" width="1080px" height ="15px"alt="Dark Terminal Background" style="filter: brightness(0.8);">
+  <img src="https://file.loading.io/color/feature/thumb/Blues-8.png?" width="100%" height ="15px"alt="Dark Terminal Background" style="filter: brightness(0.8);">
 </div>
 
 
@@ -103,7 +103,7 @@ Skills: Enumeração serviços, hard-coded creds, root direto.
 <br>
 <br>
 <div align="center">
-  <img src="https://file.loading.io/color/feature/thumb/Blues-8.png?" width="1080px" height ="15px"alt="Dark Terminal Background" style="filter: brightness(0.8);">
+  <img src="https://file.loading.io/color/feature/thumb/Blues-8.png?" width="100%" height ="15px"alt="Dark Terminal Background" style="filter: brightness(0.8);">
 </div>
 
 
@@ -121,7 +121,7 @@ Skills: Enumeração serviços, hard-coded creds, root direto.
 <br>
 <br>
 <div align="center">
-  <img src="https://file.loading.io/color/feature/thumb/Blues-8.png?" width="1080px" height ="15px"alt="Dark Terminal Background" style="filter: brightness(0.8);">
+  <img src="https://file.loading.io/color/feature/thumb/Blues-8.png?" width="100%" height ="15px"alt="Dark Terminal Background" style="filter: brightness(0.8);">
 </div>
 
 ## Certificações e Badges de Segurança
@@ -531,7 +531,7 @@ Skills: Enumeração serviços, hard-coded creds, root direto.
 <br>
 <br>
 <div align="center">
-  <img src="https://file.loading.io/color/feature/thumb/Blues-8.png?" width="1080px" height ="15px"alt="Dark Terminal Background" style="filter: brightness(0.8);">
+  <img src="https://file.loading.io/color/feature/thumb/Blues-8.png?" width="100%" height ="15px"alt="Dark Terminal Background" style="filter: brightness(0.8);">
 </div>
 
 ## Status Atual e Foco
@@ -572,7 +572,7 @@ Skills: Enumeração serviços, hard-coded creds, root direto.
 <br>
 <br>
 <div align="center">
-  <img src="https://file.loading.io/color/feature/thumb/Blues-8.png?" width="1080px" height ="15px"alt="Dark Terminal Background" style="filter: brightness(0.8);">
+  <img src="https://file.loading.io/color/feature/thumb/Blues-8.png?" width="100%" height ="15px"alt="Dark Terminal Background" style="filter: brightness(0.8);">
 </div>
 
 ## Conecte-se Comigo
@@ -608,7 +608,7 @@ Skills: Enumeração serviços, hard-coded creds, root direto.
 
 <div align="center">
 <div align="center">
-  <img src="https://file.loading.io/color/feature/thumb/Blues-8.png?" width="1080px" height ="15px"alt="Dark Terminal Background" style="filter: brightness(0.8);">
+  <img src="https://file.loading.io/color/feature/thumb/Blues-8.png?" width="100%" height ="15px"alt="Dark Terminal Background" style="filter: brightness(0.8);">
 </div>
 
 #### Quando se pensa como quem observa, você descobre se o esforço de escalar o seu muro vale a recompensa que está lá dentro.
