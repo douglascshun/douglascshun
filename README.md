@@ -638,7 +638,8 @@ Skills: Enumeração serviços, hard-coded creds, root direto.
 ```mermaid
 %%{ init: { 
   'theme': 'dark', 
-  'themeVariables': { 
+  'themeVariables': {
+    'background': '#0d1117',
     'sectionBkgColor': '#161b22', 
     'altSectionBkgColor': '#0d1117', 
     'doneTaskBkgColor': '#00c853', 
