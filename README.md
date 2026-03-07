@@ -637,18 +637,15 @@ Skills: Enumeração serviços, hard-coded creds, root direto.
 
 ```mermaid
 %%{ init: { 
-  'theme': 'dark', 
-  'themeVariables': {
-    'background': '#0d1117',
-    'sectionBkgColor': '#161b22', 
-    'altSectionBkgColor': '#0d1117', 
-    'doneTaskBkgColor': '#00c853', 
-    'doneTaskBorderColor': '#00e676',
-    'critBkgColor': '#ff1744', 
+  'theme': 'base',   
+  'themeVariables': { 
+    'primaryColor': '#1987F0',             
+    'primaryTextColor': '#1987F0',         
+    'sectionBkgColor': '#0E00B7',       
+    'altSectionBkgColor': '#1111',       
+    'doneTaskBorderColor': '#2da44e',
     'critBorderColor': '#d50000',
-    'taskTextColor': '#ffffff',
-    'taskBorderColor': '#39ff14',
-    'gridColor': '#30363d'
+    'todayMarkerColor': '#aaaaaaaa'          
   } 
 } }%%
 gantt
@@ -697,7 +694,9 @@ gantt
     Dispositivos de rede e suas configurações                            :done, 2025-06-02, 1d
     Introdução a Cibersegurança                                          :done, 2025-04-22, 1d
     Linux Unhatched                                                      :done, 2025-04-16, 1d
-    EVENTO - Learn-A-Thon 2024                                           :done, 2024-10, 1d
+
+    section Eventos 
+    Cisco - Learn -A- Thon 2024                                          :done, 2024-10, 1d
 
 
     section Cybrary
