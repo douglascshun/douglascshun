@@ -88,21 +88,9 @@ Skills: Enumeração serviços, hard-coded creds, root direto.
 
 
 ## Contibuições
-<picture>
-  <source 
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    style="width: 10100px;"
-    alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-  />
-</picture>
+
+<p align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=douglascshun&bg_color=000000&color=1987F0&line=ffffff&point=ffffff&area=true&hide_border=true"/></p>
+
 
 
 <br>
@@ -635,6 +623,7 @@ Skills: Enumeração serviços, hard-coded creds, root direto.
 </table>
 
 
+
 ```mermaid
 %%{ init: { 
   'theme': 'base',   
@@ -642,10 +631,10 @@ Skills: Enumeração serviços, hard-coded creds, root direto.
     'primaryColor': '#1987F0',             
     'primaryTextColor': '#1987F0',         
     'sectionBkgColor': '#0E00B7',       
-    'altSectionBkgColor': '#1111',       
+    'altSectionBkgColor': '#000000',       
     'doneTaskBorderColor': '#2da44e',
     'critBorderColor': '#d50000',
-    'todayMarkerColor': '#aaaaaaaa'          
+    'todayMarkerColor': '#000000'          
   } 
 } }%%
 gantt
@@ -705,7 +694,6 @@ gantt
     Cyber Kill Chains                                                    :done, 2024-09-26, 1d
     Offensive Security Operations                                        :done, 2024-09-23, 1d
 ```
-
 
 <br>
 <br>
