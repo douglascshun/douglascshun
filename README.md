@@ -115,7 +115,7 @@ Skills: Enumeração serviços, hard-coded creds, root direto.
       <td valign="left">
           <img
             align="left"
-            src="https://media.licdn.com/dms/image/v2/D4D0BAQEIqp2hOKmaUg/company-logo_200_200/company-logo_200_200/0/1687265100897/uniamericaua_logo?e=1773273600&v=beta&t=GvVq9hWpjD-hRVMGoqcHtvQ0M4AHYm9E4FC1u8d9Knk" width="100px" alt="Uniamérica Logo"
+            src="https://media.licdn.com/dms/image/v2/D4D0BAQEIqp2hOKmaUg/company-logo_200_200/company-logo_200_200/0/1687265100897/uniamericaua_logo?e=1775088000&v=beta&t=s8qzJ_l9IVyarGOGa_sbABkh9_5FsIMUqZ0t2cT532k" width="100px" alt="Uniamérica Logo"
         </ul>
       </td>
       <td valign="center">
@@ -140,7 +140,7 @@ Skills: Enumeração serviços, hard-coded creds, root direto.
       <td valign="left">
           <img
             align="left"
-            src="https://media.licdn.com/dms/image/v2/D4D0BAQEIqp2hOKmaUg/company-logo_200_200/company-logo_200_200/0/1687265100897/uniamericaua_logo?e=1773273600&v=beta&t=GvVq9hWpjD-hRVMGoqcHtvQ0M4AHYm9E4FC1u8d9Knk" width="100px" alt="Uniamérica Logo"
+            src="https://media.licdn.com/dms/image/v2/D4D0BAQEIqp2hOKmaUg/company-logo_200_200/company-logo_200_200/0/1687265100897/uniamericaua_logo?e=1775088000&v=beta&t=s8qzJ_l9IVyarGOGa_sbABkh9_5FsIMUqZ0t2cT532k" width="100px" alt="Uniamérica Logo"
         </ul>
       </td>
       <td valign="center">
@@ -279,7 +279,7 @@ Skills: Enumeração serviços, hard-coded creds, root direto.
     <!-- Card CISA -->
     <td style="width:33%; vertical-align:center; padding:3px;">
       <div style="background:#0d1117; border:1px solid #30363d; border-radius:3px; padding:3px; text-align:center; min-height:220px;">
-        <img src="https://media.licdn.com/dms/image/v2/C560BAQHqZkwy_9qfLg/company-logo_200_200/company-logo_200_200/0/1657640157247/cisagov_logo?e=1773273600&v=beta&t=nkBE5vhJCE6zi_nGw_WCSiDNhLa8N_pQfLgSCb0LH_0" width="100px" alt="CISA Logo"><br>
+        <img src="https://media.licdn.com/dms/image/v2/C560BAQHqZkwy_9qfLg/company-logo_200_200/company-logo_200_200/0/1657640157247/cisagov_logo?e=1775088000&v=beta&t=fu7it35oBj18ztDiTcu6RIloE9q0U55HG1tqQjFi-sc" width="100px" alt="CISA Logo"><br>
         <strong>CISA (Cybersecurity & Infrastructure Security Agency)</strong><br>
         <img src="https://img.shields.io/badge/CISA-210W 02-informational?style=flat-square&logo=cisa&logoColor=white" alt="CISA 210w 02 Badge"><br>
         <img src="https://img.shields.io/badge/CISA-210W 06-informational?style=flat-square&logo=cisa&logoColor=white" alt="CISA 210w 06 Badge"><br>
@@ -318,7 +318,7 @@ Skills: Enumeração serviços, hard-coded creds, root direto.
     <!-- Card IME -->
     <td style="width:33%; vertical-align:center; padding:3px;">
       <div style="background:#0d1117; border:1px solid #30363d; border-radius:3px; padding:3px; text-align:center; min-height:220px;">
-        <img src="https://media.licdn.com/dms/image/v2/C4E0BAQHgpYFIyzj3Ug/company-logo_200_200/company-logo_200_200/0/1631332886894?e=1773273600&v=beta&t=Zecqs9R1PauHavEK9CFo2YJxB-PXh1damIsTnKERsF4" width="100px" alt="IME Logo"><br>
+        <img src="https://media.licdn.com/dms/image/v2/C4E0BAQHgpYFIyzj3Ug/company-logo_200_200/company-logo_200_200/0/1631332886894?e=1775088000&v=beta&t=5HJ_NOp8_M0J8mzATj_qS53T57G2V3S5DR1P-h1pYw0" width="100px" alt="IME Logo"><br>
         <strong>IME (Instituto Militar de Engenharia)</strong><br>
         <img src="https://img.shields.io/badge/IME-Gerenciamento de Ameaças Cibernéticas-gold?style=flat-square&logo=ime&logoColor=white" alt="IME Badge"><br>
         <details>
@@ -342,7 +342,7 @@ Skills: Enumeração serviços, hard-coded creds, root direto.
     <!-- Card NIST -->
     <td style="width:33%; vertical-align:center; padding:3px;">
       <div style="background:#0d1117; border:1px solid #30363d; border-radius:3px; padding:3px; text-align:center; min-height:220px;">
-        <img src="https://media.licdn.com/dms/image/v2/C4D0BAQFoqF4hVw8g0Q/company-logo_200_200/company-logo_200_200/0/1630531707341/nist_logo?e=1773273600&v=beta&t=p-WNyui_JOftbhGIjcBKHV7wVMGmjyjIOmwMD1KdpJw" width="100px" alt="NIST Logo"><br>
+        <img src="https://media.licdn.com/dms/image/v2/C4D0BAQFoqF4hVw8g0Q/company-logo_200_200/company-logo_200_200/0/1630531707341/nist_logo?e=1775088000&v=beta&t=usqREiL8dnGYkONUwuYrMHGt7Rb3S5g3HFkekFj74wo" width="100px" alt="NIST Logo"><br>
         <strong>NIST (National Institute of Standards and Technology)</strong><br>
         <img src="https://img.shields.io/badge/NIST-Risk Management Structure-white?style=flat-square&logo=nist&logoColor=white" alt="Nist Badge"><br>
         <details>
@@ -363,7 +363,7 @@ Skills: Enumeração serviços, hard-coded creds, root direto.
     <!-- Card Cisco -->
     <td style="width:33%; vertical-align:center; padding:3px;">
       <div style="background:#0d1117; border:1px solid #30363d; border-radius:3px; padding:3px; text-align:center; min-height:220px;">
-        <img src="https://media.licdn.com/dms/image/v2/D4D0BAQEkiQ8pB1hYow/company-logo_200_200/B4DZcSgOD1HMAM-/0/1748362125886/cisco_networking_academy1_logo?e=1773273600&v=beta&t=kuj77nl1XojNMnJx08KtOjB02Jf2Wla6SDd1IYg3rvo" width="100px" alt="Cisco Logo"><br>
+        <img src="https://media.licdn.com/dms/image/v2/D560BAQFYnR_Zrm87Dg/company-logo_200_200/B56ZnMyVr4HUAI-/0/1760077372453/cisco_logo?e=1775088000&v=beta&t=lZCL5qs9DeP_eTPjuZ97BsK1pDAPULJNyUH5X0ItnVE" width="100px" alt="Cisco Logo"><br>
                 <strong>Cisco Networking Academy</strong><br>
         <img src="https://img.shields.io/badge/Cisco-Hacker Ético-01163B?style=flat-square&logo=cisco&logoColor=white" alt="cisco Hacker Ético Badge"><br>
         <img src="https://img.shields.io/badge/Cisco-Analista Jr em Cybersecurity-01163B?style=flat-square&logo=cisco&logoColor=white" alt="cisco Analista Jr em Cybersecurity Badge"><br>
@@ -501,7 +501,7 @@ Skills: Enumeração serviços, hard-coded creds, root direto.
     <!-- Card Uniamérica -->
     <td style="width:33%; vertical-align:center; padding:3px;">
       <div style="background:#0d1117; border:1px solid #30363d; border-radius:3px; padding:3px; text-align:center; min-height:220px;">
-        <img src="https://media.licdn.com/dms/image/v2/D4D0BAQEIqp2hOKmaUg/company-logo_200_200/company-logo_200_200/0/1687265100897/uniamericaua_logo?e=1773273600&v=beta&t=GvVq9hWpjD-hRVMGoqcHtvQ0M4AHYm9E4FC1u8d9Knk" width="100px" alt="Uniamérica Logo"><br>
+        <img src="https://media.licdn.com/dms/image/v2/D4D0BAQEIqp2hOKmaUg/company-logo_200_200/company-logo_200_200/0/1687265100897/uniamericaua_logo?e=1775088000&v=beta&t=s8qzJ_l9IVyarGOGa_sbABkh9_5FsIMUqZ0t2cT532k" width="100px" alt="Uniamérica Logo"><br>
         <strong>Centro Universitário União das Américas</strong><br>
         <img src="https://img.shields.io/badge/União das Américas-Cybersecurity Essentials-8AE675?style=flat-square&logo=harvard&logoColor=white" alt="União das Américas Cybersecurity Essentials Badge"><br>
         <img src="https://img.shields.io/badge/União das Américas-Networking Essentials-8AE675?style=flat-square&logo=harvard&logoColor=white" alt="União das Américas Networking Essentials Badge"><br>
@@ -577,7 +577,7 @@ Skills: Enumeração serviços, hard-coded creds, root direto.
     <!-- Card TryHackMe -->
     <td style="width:33%; vertical-align:center; padding:3px;">
       <div style="background:#0d1117; border:1px solid #30363d; border-radius:3px; padding:3px; text-align:center; min-height:220px;">
-        <img src="https://media.licdn.com/dms/image/v2/D4D0BAQEM_1J-9HJ-qg/company-logo_200_200/B4DZxs03T5G0AI-/0/1771352323859/tryhackme_logo?e=1773273600&v=beta&t=aQqaiPMfQ9o2_E2GWoubak3uDCaOPeN4yPJbD1Xgkqo" width="100px" alt="TryHackMe Logo"><br>
+        <img src="https://media.licdn.com/dms/image/v2/D4D0BAQEM_1J-9HJ-qg/company-logo_200_200/B4DZxs03T5G0AI-/0/1771352323859/tryhackme_logo?e=1775088000&v=beta&t=M6F8TvnI51zceTTEA5ZbJ6zpzlWGGfHphnvVSgJEw0s" width="100px" alt="TryHackMe Logo"><br>
         <strong>TryHackMe</strong><br>
         <img src="https://img.shields.io/badge/TryHackMe-Pre Security (New Path)-0E224D?style=flat-square&logo=TryHackMe&logoColor=white" alt="TryHackMe Badge">
         <details>
@@ -601,7 +601,7 @@ Skills: Enumeração serviços, hard-coded creds, root direto.
     <!-- Card FIAP -->
     <td style="width:33%; vertical-align:center; padding:3px;">
       <div style="background:#0d1117; border:1px solid #30363d; border-radius:3px; padding:3px; text-align:center; min-height:220px;">
-        <img src="https://media.licdn.com/dms/image/v2/D4D0BAQGWrQt1XOEiPw/company-logo_200_200/B4DZbGkZaBGwAI-/0/1747088152588/fiap_logo?e=1773273600&v=beta&t=igjws8Q6_Cjy_d1iQvOm7RO_lf3x3ROn-kLKCoWu3iM" width="100px" alt="FIAP Logo"><br>
+        <img src="https://media.licdn.com/dms/image/v2/D4D0BAQGWrQt1XOEiPw/company-logo_200_200/B4DZbGkZaBGwAI-/0/1747088152588/fiap_logo?e=1775088000&v=beta&t=-Dhy_9xIGOAB10YBoyT2PN8rdpkeD7DlPwzd6vMvexU" width="100px" alt="FIAP Logo"><br>
         <strong>FIAP</strong><br>
         <img src="https://img.shields.io/badge/FIAP-Fiap Connect Summit-70191E?style=flat-square&logo=FIAP&logoColor=white" alt="FIAP Badge"><br>
         <details>
