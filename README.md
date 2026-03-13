@@ -507,6 +507,7 @@ Skills: Enumeração serviços, hard-coded creds, root direto.
         <img src="https://img.shields.io/badge/União das Américas-Networking Essentials-8AE675?style=flat-square&logo=harvard&logoColor=white" alt="União das Américas Networking Essentials Badge"><br>
         <img src="https://img.shields.io/badge/União das Américas-Endpoint Security-8AE675?style=flat-square&logo=harvard&logoColor=white" alt="União das Américas Endpoint Security Badge"><br>
         <img src="https://img.shields.io/badge/União das Américas-Network Defense-8AE675?style=flat-square&logo=harvard&logoColor=white" alt="União das Américas Network Defense Badge"><br>
+        <img src="https://img.shields.io/badge/União das Américas-CyberOps-8AE675?style=flat-square&logo=harvard&logoColor=white" alt="União das Américas CyberOps Badge"><br>
         <details>
           <summary>Contemplamento: </summary>
           <ul style="text-align:left; margin-top:3px;">
@@ -567,6 +568,21 @@ Skills: Enumeração serviços, hard-coded creds, root direto.
                   <li>Segurança na nuvem</li>
                   <li>Criptografia</li>
                   <li>Estratégica de cibersegurança</li>
+                </ul>
+              </details>
+            </li>
+             <li>
+              <details>
+                <summary>CyberOps</summary>
+                <ul>
+                  <li>Arquitetura de Segurança do Linux</li>
+                  <li>Arquitetura de Segurança do Windows</li>
+                  <li>Infraestrutura de Segurança em Rede</li>
+                  <li>Abordagens de Defesa de segurança em rede</li>
+                  <li>Avaliação de Vulnerabilidade</li>
+                  <li>Monitoramento da Segurança da Informação</li>
+                  <li>Resposta a incidentes</li>
+                  <li>Computação forense</li> 
                 </ul>
               </details>
             </li>
@@ -641,6 +657,9 @@ gantt
     title Jornada em Cybersecurity & Engenharia | Douglas Cshunderlick
     dateFormat  YYYY-MM-DD
     axisFormat %Y-%m
+
+    section Universidade União das Américas  
+    CyberOps                                                             :done, 2026-03-12, 1d
 
     section MIT (Massachusetts Institute of Technology)
     Introduction to Engineering Concepts                                 :crit, 2026-03-04, 1d
