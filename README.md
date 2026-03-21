@@ -228,7 +228,7 @@ Skills: Enumeração serviços, hard-coded creds, root direto.
     <!-- Card Harvard -->
     <td style="width:33%; vertical-align:center; padding:2px;">
       <div style="background:#0d1117; border:1px solid #30363d; border-radius:2px; padding:2px; text-align:left; min-height:220px;">
-        <img src="https://media.licdn.com/dms/image/v2/C4E0BAQFReqN0yZFH6w/company-logo_100_100/company-logo_100_100/0/1643738366598/harvardx_logo?e=1773878400&v=beta&t=aOtbqsnkCS_76RmwQOgxMIdtPXJuOrIFEUsJ-07VSX0" width="100px" alt="Harvard Logo"><br>
+        <img src="https://media.licdn.com/dms/image/v2/C4E0BAQF5t62bcL0e9g/company-logo_200_200/company-logo_200_200/0/1631318058235?e=1775692800&v=beta&t=yxrtPQteP07vhdG8FQ_3Vbh5n1RCRd4FZ9ZnOpJBRXU" width="100px" alt="Harvard Logo"><br>
         <strong>Harvard</strong><br>
         <img src="https://img.shields.io/badge/Harvard-CS50-red?style=flat-square&logo=harvard&logoColor=white" alt="Harvard Badge"><br>
         <details>
