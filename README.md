@@ -658,6 +658,10 @@ gantt
     dateFormat  YYYY-MM-DD
     axisFormat %Y-%m
 
+    
+    section Universidade União das Américas  
+    Network Security                                                     :done, 2026-03-22, 1d
+    
     section Universidade União das Américas  
     CyberOps                                                             :done, 2026-03-12, 1d
 
