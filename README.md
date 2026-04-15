@@ -658,22 +658,26 @@ gantt
     dateFormat  YYYY-MM-DD
     axisFormat %Y-%m
 
-    section Universidade União das Américas       
+    section Universidade União das Américas           
+    Computer Security Incident Response Teams                            :done, 2026-04-15, 1d
+
+
+    section Universidade União das Américas          
     IoT Security                                                         :done, 2026-04-02, 1d
 
-    section Universidade União das Américas   
+    section Universidade União das Américas         
     Cloud Security                                                       :done, 2026-03-26, 1d
 
-    section Universidade União das Américas  
+    section Universidade União das Américas        
     Network Security                                                     :done, 2026-03-22, 1d
     
-    section Universidade União das Américas  
+    section Universidade União das Américas       
     CyberOps                                                             :done, 2026-03-12, 1d
 
     section MIT (Massachusetts Institute of Technology)
     Introduction to Engineering Concepts                                 :crit, 2026-03-04, 1d
 
-    section Universidade União das Ameŕicas 
+    section Universidade União das Ameŕicas       
     Cyber Thert Management                                               :done, 2026-02-27, 1d
 
     section Harvard
@@ -685,17 +689,26 @@ gantt
     section TryHackMe
     Pre Security (NewPath)                                               :done, 2026-02-21, 1d 
     
-    section Universidade União das Américas
+    section Universidade União das Américas      
     Network Defense                                                      :done, 2026-02-17, 1d
+    
+    section Universidade União das Américas     
     Endpoint Security                                                    :done, 2026-02-11, 1d
+    
+    section Universidade União das Américas    
     Networking Essentials                                                :done, 2026-02-03, 1d
+
+    section Universidade União das Américas   
     Cybersecurity Essentials                                             :done, 2026-01-19, 1d
 
-    section CISA (cybersecurity and Infrastructure Security Agency)
+    section CISA (cybersecurity and Infrastructure Security Agency)  
     Influência dos componentes de TI em sistemas de controle industrial  :done, 2025-10-13, 1d
+
+
+    section CISA (cybersecurity and Infrastructure Security Agency)
     Ameaças à segurança cibernética de sistemas de controle industrial   :done, 2025-10-11, 1d  
 
-    section Eventos
+    section Eventos 
     FIAP - Connect Summit                                                :done, 2025-10, 1d
 
     section Cisco Networking Academy  
@@ -704,22 +717,38 @@ gantt
     section IME (Instituto Militar de Engenharia)
     Gerenciamento de Ameaças Cibernéticas                                :done, 2025-07-14, 1d
 
-    section Cisco Networking Academy
+    section Cisco Networking Academy              
     Cyber Threat Management                                              :done, 2025-06-14, 1d
+
+    section Cisco Networking Academy          
     Analista Jr em cibersegurança                                        :crit, 2025-06-11, 1d
+
+    section Cisco Networking Academy        
     Defesa de rede                                                       :done, 2025-06-11, 1d
+
+    section Cisco Networking Academy    
     Dispositivos de rede e suas configurações                            :done, 2025-06-02, 1d
+
+    section Cisco Networking Academy 
     Introdução a Cibersegurança                                          :done, 2025-04-22, 1d
+
+    section Cisco Networking Academy
     Linux Unhatched                                                      :done, 2025-04-16, 1d
 
-    section Eventos 
+    section Eventos  
     Cisco - Learn -A- Thon 2024                                          :done, 2024-10, 1d
 
 
-    section Cybrary
+    section Cybrary   
     OSINT                                                                :done, 2024-09-28, 1d
+
+    section Cybrary  
     Reconnaissance and Enumeration Basics                                :done, 2024-09-27, 1d
+
+    section Cybrary 
     Cyber Kill Chains                                                    :done, 2024-09-26, 1d
+
+    section Cybrary
     Offensive Security Operations                                        :done, 2024-09-23, 1d
 ```
 
