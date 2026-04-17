@@ -2,7 +2,7 @@
   <img src="https://file.loading.io/color/feature/thumb/Blues-8.png?" width="100%" height ="10px"alt="Dark Terminal Background" style="filter: brightness(0.8);">
 </div>
 
-<br>
+<br> 
 
 <div>
   <img 
