@@ -165,7 +165,7 @@ Skills: Enumeração serviços, hard-coded creds, root direto.
       <td valign="left">
           <img
             align="left"
-            src="https://media.licdn.com/dms/image/v2/D4D0BAQGQCf7AXLv70w/company-logo_200_200/company-logo_200_200/0/1733236440411/universidadecruzeirodosul_logo?e=1776297600&v=beta&t=4P5IcD-NP59KsudrtBwjvWLUMhAXzdovMQyfyBOmYWA" width="100px" alt="Crzeiro do Sul Logo"
+            src="https://media.licdn.com/dms/image/v2/D4D0BAQGQCf7AXLv70w/company-logo_200_200/company-logo_200_200/0/1733236440411/universidadecruzeirodosul_logo?e=1778112000&v=beta&t=AUXhsU3a9hurSOdh9cQXgHMNo3nUZqVJCX58m5bRuX0" width="100px" alt="Crzeiro do Sul Logo"
         </ul>
       </td>
       <td valign="center">
@@ -190,7 +190,7 @@ Skills: Enumeração serviços, hard-coded creds, root direto.
       <td valign="left">
           <img
             align="left"
-            src="https://media.licdn.com/dms/image/v2/D5607AQHUiRj8013gNg/group-logo_image-shrink_92x92/group-logo_image-shrink_92x92/0/1692249169762?e=1775318400&v=beta&t=v1_XWmghR8uYX6ouyPiJuQy7KY-aCAADaDFINx8auT4" width="100px" alt="IFSP Logo"
+            src="https://media.licdn.com/dms/image/v2/C5607AQEJBH_4TscvNA/group-logo_image-shrink_92x92/group-logo_image-shrink_92x92/0/1631412212251?e=1777248000&v=beta&t=SVT5ohmKtOgS_JOnCgkNZ9a5nq7S7CezqLw_j41808U" width="100px" alt="IFSP Logo"
         </ul>
       </td>
       <td valign="center">
@@ -228,7 +228,7 @@ Skills: Enumeração serviços, hard-coded creds, root direto.
     <!-- Card Harvard -->
     <td style="width:33%; vertical-align:center; padding:2px;">
       <div style="background:#0d1117; border:1px solid #30363d; border-radius:2px; padding:2px; text-align:left; min-height:220px;">
-        <img src="https://media.licdn.com/dms/image/v2/C4E0BAQF5t62bcL0e9g/company-logo_200_200/company-logo_200_200/0/1631318058235?e=1775692800&v=beta&t=yxrtPQteP07vhdG8FQ_3Vbh5n1RCRd4FZ9ZnOpJBRXU" width="100px" alt="Harvard Logo"><br>
+        <img src="https://media.licdn.com/dms/image/v2/C4E0BAQF5t62bcL0e9g/company-logo_200_200/company-logo_200_200/0/1631318058235?e=1778112000&v=beta&t=2QUA5MgfqVukdgHVKjp9FfvZm9U2fmiTdOkSLXth7qM" width="100px" alt="Harvard Logo"><br>
         <strong>Harvard</strong><br>
         <img src="https://img.shields.io/badge/Harvard-CS50-red?style=flat-square&logo=harvard&logoColor=white" alt="Harvard Badge"><br>
         <details>
@@ -253,7 +253,7 @@ Skills: Enumeração serviços, hard-coded creds, root direto.
     <!-- Card MIT -->
     <td style="width:33%; vertical-align:center; padding:2px;">
       <div style="background:#0d1117; border:1px solid #30363d; border-radius:2px; padding:2px; text-align:left; min-height:220px;">
-        <img src="https://media.licdn.com/dms/image/v2/D560BAQH-UXRfIDIKug/company-logo_200_200/company-logo_200_200/0/1689799729035/mit_logo?e=1776297600&v=beta&t=kzw3kbfGNrogS_Z6U82mO0SU0uNf-RLoVtUMN8OEyWw" width="100px" alt="MIT Logo"><br>
+        <img src="https://media.licdn.com/dms/image/v2/D560BAQH-UXRfIDIKug/company-logo_200_200/company-logo_200_200/0/1689799729035/mit_logo?e=1778112000&v=beta&t=uFokNsbAQt-m6KnKGlCKHLzFHRubXe9NAhJHyeOtBes" width="100px" alt="MIT Logo"><br>
         <strong>MIT (Massachusetts Institute of Technology)</strong><br>
         <img src="https://img.shields.io/badge/MIT-Introduction to Engineering Concepts-black?style=flat-square&logo=mit&logoColor=white" alt="MIT Badge"><br>
         <details>
