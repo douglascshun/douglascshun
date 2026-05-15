@@ -658,6 +658,9 @@ gantt
     dateFormat  YYYY-MM-DD
     axisFormat %Y-%m
 
+    section Universidade União das Américas             
+    Data Mapping and Privacy Goverance                                   :done, 2026-05-15, 1d
+
     section Universidade União das Américas            
     Privacy and Data Protecion                                           :done, 2026-05-11, 1d
 
