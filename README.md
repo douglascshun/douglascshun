@@ -48,7 +48,7 @@ Desenvolvedor de Software com foco em Segurança Ofensiva e Governança. Unindo 
 <div>
   <img 
     style="width: 10100px;" 
-    src="https://skillicons.dev/icons?i=kali,linux,windows,py,php,bash,powershell,vim,vscode,obsidian&theme=dark"
+    src="https://skillicons.dev/icons?i=apple,kali,linux,windows,py,js,typescript,php,figma,bash,powershell,vim,vscode,obsidian&theme=dark"
     />
 </div>
 
