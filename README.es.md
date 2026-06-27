@@ -1,8 +1,8 @@
 <!-- ══════════════════════ IDIOMAS / LANGUAGES ══════════════════════ -->
 <div align="center">
-<a href="README.md"><img src="https://img.shields.io/badge/Português-1987F0?style=for-the-badge" alt="Português"/></a>
+<a href="README.md"><img src="https://img.shields.io/badge/Português-555555?style=for-the-badge" alt="Português"/></a>
 <a href="README.en.md"><img src="https://img.shields.io/badge/English-555555?style=for-the-badge" alt="English"/></a>
-<a href="README.es.md"><img src="https://img.shields.io/badge/Español-555555?style=for-the-badge" alt="Español"/></a>
+<a href="README.es.md"><img src="https://img.shields.io/badge/Español-1987F0?style=for-the-badge" alt="Español"/></a>
 </div>
 
 <br/>
@@ -35,35 +35,35 @@
 <table>
 <tr>
 <td valign="top" width="30%">
-  Sobre
+  Acerca de
 <div align="center">
   <img src="https://64.media.tumblr.com/f444263be6597f8981d2b9cf3d0c7408/f74decdc69e61f0a-9a/s400x600/a157756e4c56be0e5e51a9e4c79ba781a451e94a.gifv" width="100%" height ="2px"alt="Dark Terminal Background" style="filter: brightness(0.8);">
 </div>
-Desenvolvedor de Software com foco em Segurança Ofensiva e Governança.
-Uno a base técnica em desenvolvimento à mentalidade de atacante para criar
-sistemas resilientes desde o código.
+Desarrollador de Software enfocado en Seguridad Ofensiva y Gobernanza.
+Uno la base técnica en desarrollo a la mentalidad de atacante para crear
+sistemas resilientes desde el código.
 
-Atualmente Top 6% no ranking global do TryHackMe, com prática constante
-em pentests autorizados, análise de vulnerabilidades e desenvolvimento de
-ferramentas customizadas para automação de segurança.
+Actualmente Top 6% en el ranking global de TryHackMe, con práctica constante
+en pentests autorizados, análisis de vulnerabilidades y desarrollo de
+herramientas personalizadas para automatización de seguridad.
 
 <!-- ══════════════════════════ NAVEGAÇÃO ══════════════════════════ -->
 
 <div align="left">
-Atalhos
+Atajos
 </div>
 <div align="center">
   <img src="https://64.media.tumblr.com/f444263be6597f8981d2b9cf3d0c7408/f74decdc69e61f0a-9a/s400x600/a157756e4c56be0e5e51a9e4c79ba781a451e94a.gifv" width="100%" height ="2px"alt="Dark Terminal Background" style="filter: brightness(0.8);">
 </div>
   <br>
-<a href="#sobre"><img src="https://img.shields.io/badge/▸_SOBRE-1987F0?style=for-the-badge&logoColor=white" alt="sobre"/></a>
-<a href="#Tecnologias"><img src="https://img.shields.io/badge/▸_TÉCNOLOGIAS-000000?style=for-the-badge" alt="Tecnologias"/></a>
-<a href="#projetos"><img src="https://img.shields.io/badge/▸_PROJETOS-1987F0?style=for-the-badge" alt="Projetos"/></a>
-<a href="#contribuicoes"><img src="https://img.shields.io/badge/▸_Contribuíções-000000?style=for-the-badge" alt="contribuicoes"/></a>
-<a href="#certificacoes"><img src="https://img.shields.io/badge/▸_CERTIFICAÇÕES-1987F0?style=for-the-badge" alt="certificacoes"/></a>
-<a href="#formacao"><img src="https://img.shields.io/badge/▸_FORMAÇÃO-000000?style=for-the-badge" alt="formacao"/>
-<a href="#jornada"><img src="https://img.shields.io/badge/▸_JORNADA-1987F0?style=for-the-badge" alt="jornada"/></a>
-<a href="#contato"><img src="https://img.shields.io/badge/▸_CONTATO-000000?style=for-the-badge" alt="contato"/></a>
+<a href="#sobre"><img src="https://img.shields.io/badge/▸_ACERCA-1987F0?style=for-the-badge&logoColor=white" alt="sobre"/></a>
+<a href="#Tecnologias"><img src="https://img.shields.io/badge/▸_TECNOLOGÍAS-000000?style=for-the-badge" alt="Tecnologias"/></a>
+<a href="#projetos"><img src="https://img.shields.io/badge/▸_PROYECTOS-1987F0?style=for-the-badge" alt="Projetos"/></a>
+<a href="#contribuicoes"><img src="https://img.shields.io/badge/▸_CONTRIBUCIONES-000000?style=for-the-badge" alt="contribuicoes"/></a>
+<a href="#certificacoes"><img src="https://img.shields.io/badge/▸_CERTIFICACIONES-1987F0?style=for-the-badge" alt="certificacoes"/></a>
+<a href="#formacao"><img src="https://img.shields.io/badge/▸_FORMACIÓN-000000?style=for-the-badge" alt="formacao"/>
+<a href="#jornada"><img src="https://img.shields.io/badge/▸_TRAYECTORIA-1987F0?style=for-the-badge" alt="jornada"/></a>
+<a href="#contato"><img src="https://img.shields.io/badge/▸_CONTACTO-000000?style=for-the-badge" alt="contato"/></a>
 
 </div>
 
@@ -80,7 +80,7 @@ Atalhos
 
 
 <pre>
-  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=28&duration=2000&pause=100&left=true&vCenter=true&width=500&lines=;_;;_;%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88;Initializing+system...;;%3E+Acesso+concedido+.++.++.+;%3E+Bem+vindo+ao+mainframe;%3E+Sou+Douglas+Cshunderlick;%3E+Penso+como+atacante%2C+construo+como+defensor;%3E+Seguran%C3%A7a+desde+o+c%C3%B3digo%2C+n%C3%A3o+como+remendo;%3E+Pentester+%7C+AppSec+%7C+Secure+Development;%3E+Top+6%25+mundial+no+TryHackMe;%3E;%3E+See+u;Reboot;%3E+" 
+  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=28&duration=2000&pause=100&left=true&vCenter=true&width=500&lines=;_;;_;%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88;Inicializando+sistema...;;%3E+Acceso+concedido+.++.++.+;%3E+Bienvenido+al+mainframe;%3E+Soy+Douglas+Cshunderlick;%3E+Pienso+como+atacante%2C+construyo+como+defensor;%3E+Seguridad+desde+el+c%C3%B3digo%2C+no+como+parche;%3E+Pentester+%7C+AppSec+%7C+Secure+Development;%3E+Top+6%25+mundial+en+TryHackMe;%3E;%3E+See+u;Reboot;%3E+" 
     style="width: 720px;" 
     alt="Typing SVG">
 </pre>
@@ -94,7 +94,7 @@ Atalhos
 
 <!-- ══════════════════════════ TECNOLOGIAS ══════════════════════════ -->
 
-## Tecnologias que utilizo
+## Tecnologías que utilizo
 
 <a id="Tecnologias"></a>
 
@@ -108,7 +108,7 @@ Atalhos
 <tr>
 <td valign="top" width="33%" align="center">
 
-**Recon & Enumeração**
+**Recon y Enumeración**
 
 <div align="center">
   <img src="https://64.media.tumblr.com/f444263be6597f8981d2b9cf3d0c7408/f74decdc69e61f0a-9a/s400x600/a157756e4c56be0e5e51a9e4c79ba781a451e94a.gifv" width="100%" height ="2px"alt="Dark Terminal Background" style="filter: brightness(0.8);">
@@ -122,7 +122,7 @@ Atalhos
 </td>
 <td valign="top" width="33%" align="center">
 
-**Exploração & Análise**
+**Explotación y Análisis**
 
 <div align="center">
   <img src="https://64.media.tumblr.com/f444263be6597f8981d2b9cf3d0c7408/f74decdc69e61f0a-9a/s400x600/a157756e4c56be0e5e51a9e4c79ba781a451e94a.gifv" width="100%" height ="2px"alt="Dark Terminal Background" style="filter: brightness(0.8);">
@@ -161,27 +161,27 @@ Atalhos
 
 <!-- ══════════════════════════ PROJETOS ══════════════════════════ -->
 
-## Projetos & Write-ups em Destaque
+## Proyectos y Write-ups Destacados
 
 <a id="Projetos"></a>
 
->Portfólio prático de pentests em ambientes autorizados (HTB, TryHackMe, labs e projetos próprios). 
-Todos com relatórios detalhados.
+>Portafolio práctico de pentests en entornos autorizados (HTB, TryHackMe, labs y proyectos propios). 
+Todos con informes detallados.
 <br>
 
 - [**MBA em Segurança da Informação**](https://github.com/douglascshun/PosSegurancaDaInformacao)<br>
-Repositório central de estudos, resumos técnicos e documentação prática.  
-Skills: Este repositório foi estruturado para consolidar o conhecimento adquirido ao longo do MBA, servindo como uma base de consulta rápida para aplicação no dia a dia profissional e revisões acadêmicas.
+Repositorio central de estudios, resúmenes técnicos y documentación práctica.  
+Skills: Este repositorio fue estructurado para consolidar el conocimiento adquirido a lo largo del MBA, sirviendo como una base de consulta rápida para aplicación en el día a día profesional y revisiones académicas.
 <br>
 
 - [**TryHackMe Poster**](https://github.com/douglascshun/cybersec-portfolio/tree/main/Relatorios/relatorioPosterTHM#readme)<br>
-Exploração via PostgreSQL CVE-2019-9193 + priv esc sudo<br>
+Explotación vía PostgreSQL CVE-2019-9193 + priv esc sudo<br>
 Skills: Nmap, credential stuffing, sudo misconfig, PoC RCE.
 <br>
 
 - [**HTB Meow**](https://github.com/douglascshun/cybersec-portfolio/tree/main/Relatorios/relatorioMeowHTB#readme)<br>
-Bypass root via Telnet + Alpine misconfig<br>
-Skills: Enumeração serviços, hard-coded creds, root direto.
+Bypass root vía Telnet + Alpine misconfig<br>
+Skills: Enumeración servicios, hard-coded creds, root directo.
 
 
 <br>
@@ -193,7 +193,7 @@ Skills: Enumeração serviços, hard-coded creds, root direto.
 
 <!-- ══════════════════════════ PROJETOS ══════════════════════════ -->
 
-## Contibuições
+## Contribuciones
 <a id="contribuicoes"></a>
 
 <p align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=douglascshun&bg_color=000000&color=1987F0&line=ffffff&point=ffffff&area=true&hide_border=true"/></p>
@@ -207,13 +207,13 @@ Skills: Enumeração serviços, hard-coded creds, root direto.
 </div>
 
 <!-- ══════════════════════════ FORMAÇÂO ══════════════════════════ -->
-## Formação Acadêmica
+## Formación Académica
 <a id="formacao"></a>
 
 <table>
 <thead>
 <tr>
-<th align="left">Instituição</th>
+<th align="left">Institución</th>
 <th align="left">Curso</th>
 <th align="left">Período</th>
 </tr>
@@ -222,22 +222,22 @@ Skills: Enumeração serviços, hard-coded creds, root direto.
 <tr>
 <td><img src="assets/logos/uniamerica.png" height="26" align="center" alt="Uniamérica"/> <strong>União das Américas</strong></td>
 <td>MBA em Segurança da Informação</td>
-<td>Nov 2025 – Nov 2026 <sub>(previsão)</sub></td>
+<td>Nov 2025 – Nov 2026 <sub>(previsto)</sub></td>
 </tr>
 <tr>
 <td><img src="assets/logos/uniamerica.png" height="26" align="center" alt="Uniamérica"/> <strong>União das Américas</strong></td>
 <td>Pós-graduação em Engenharia de Software</td>
-<td>Nov 2025 – Nov 2026 <sub>(previsão)</sub></td>
+<td>Nov 2025 – Nov 2026 <sub>(previsto)</sub></td>
 </tr>
 <tr>
 <td><img src="assets/logos/cruzeirodosul.png" height="26" align="center" alt="Cruzeiro do Sul"/> <strong>Universidade Cruzeiro do Sul</strong></td>
 <td>Análise e Desenvolvimento de Sistemas</td>
-<td>Jan 2023 – Dez 2025 <sub>(concluído)</sub></td>
+<td>Jan 2023 – Dez 2025 <sub>(completado)</sub></td>
 </tr>
 <tr>
 <td><img src="assets/logos/ifsp.png" height="26" align="center" alt="IFSP"/> <strong>IFSP</strong></td>
 <td>Técnico em Administração</td>
-<td>2019 – 2020 <sub>(concluído)</sub></td>
+<td>2019 – 2020 <sub>(completado)</sub></td>
 </tr>
 </tbody>
 </table>
@@ -250,7 +250,7 @@ Skills: Enumeração serviços, hard-coded creds, root direto.
 
 
 <!-- ══════════════════════════ certificações ══════════════════════════ -->
-## Certificações & Badges
+## Certificaciones & Badges
 <a id="certificacoes"></a>
 
 <table>
@@ -265,15 +265,15 @@ Skills: Enumeração serviços, hard-coded creds, root direto.
 <img src="https://img.shields.io/badge/CS50-Cybersecurity-A51C30?style=flat-square" alt="cs50"/>
 
 <details>
-<summary>Ver competências</summary>
+<summary>Ver competencias</summary>
 <div align="left">
 
 CS50's Introduction to Cybersecurity:
-- Garantindo a segurança das contas
-- Protegendo Dados
-- Garantindo a segurança dos sistemas
-- Protegendo Software
-- Preservando a Privacidade
+- Garantizando la seguridad de las cuentas
+- Protegiendo Datos
+- Garantizando la seguridad de los sistemas
+- Protegiendo Software
+- Preservando la Privacidad
 
 </div>
 </details>
@@ -288,16 +288,16 @@ CS50's Introduction to Cybersecurity:
 <img src="https://img.shields.io/badge/Introduction_to-Engineering_Concepts-750014?style=flat-square" alt="mit"/>
 
 <details>
-<summary>Ver competências</summary>
+<summary>Ver competencias</summary>
 <div align="left">
 
 Introduction to Engineering Concepts:
-- Lab de filtração inspirado no estudo do MIT LL sobre a propagação da COVID no transporte público de NY (Biotecnologia e Sistemas Humanos).
-- Lab de etiquetas Bluetooth derivado do projeto Privacy Automated Contact Tracing — PACT (Cyber Security & Information Sciences).
-- Lab de xadrez Clausewitzian, de um estudo de guerra adaptativa multidomínio gamificado do MIT LL (Homeland Protection).
-- Compreensão geral da engenharia e suas aplicações em áreas relacionadas.
-- Familiaridade com o processo de engenharia.
-- Aplicação do processo de engenharia para resolver problemas reais.
+- Lab de filtración inspirado en el estudio del MIT LL sobre la propagación del COVID en el transporte público de NY (Biotecnología y Sistemas Humanos).
+- Lab de etiquetas Bluetooth derivado del proyecto Privacy Automated Contact Tracing — PACT (Cyber Security & Information Sciences).
+- Lab de ajedrez Clausewitzian, de un estudio de guerra adaptativa multidominio gamificado del MIT LL (Homeland Protection).
+- Comprensión general de la ingeniería y sus aplicaciones en áreas relacionadas.
+- Familiaridad con el proceso de ingeniería.
+- Aplicación del proceso de ingeniería para resolver problemas reales.
 
 </div>
 </details>
@@ -313,20 +313,20 @@ Introduction to Engineering Concepts:
 <img src="https://img.shields.io/badge/210W-06-005288?style=flat-square" alt="cisa06"/>
 
 <details>
-<summary>Ver competências</summary>
+<summary>Ver competencias</summary>
 <div align="left">
 
-210W-02 — Influência dos componentes de TI em ICS:
-- Convergência TI/TO: modernização troca sistemas isolados por digitais conectados.
-- Componentes de TI trazem vulnerabilidades ao chão de fábrica.
-- Monitoramento e SCADA processam grandes volumes de dados.
-- IoT e análise de dados reduzem custos e aumentam produtividade.
+210W-02 — Influencia de los componentes de TI en ICS:
+- Convergencia TI/TO: la modernización cambia sistemas aislados por digitales conectados.
+- Los componentes de TI traen vulnerabilidades a la planta de producción.
+- El monitoreo y SCADA procesan grandes volúmenes de datos.
+- IoT y análisis de datos reducen costos y aumentan la productividad.
 
-210W-06 — Ameaças cibernéticas a ICS:
-- Atributos da ameaça humana e categorias de agentes.
-- Curva de risco e tendências de ameaças para ICS.
-- Ameaças internas intencionais vs. não intencionais.
-- Ferramentas e técnicas de ataque.
+210W-06 — Amenazas cibernéticas a ICS:
+- Atributos de la amenaza humana y categorías de agentes.
+- Curva de riesgo y tendencias de amenazas para ICS.
+- Amenazas internas intencionales vs. no intencionales.
+- Herramientas y técnicas de ataque.
 
 </div>
 </details>
@@ -345,14 +345,14 @@ Introduction to Engineering Concepts:
 <img src="https://img.shields.io/badge/Gestão_de-Ameaças_Cibernéticas-FFD700?style=flat-square" alt="ime"/>
 
 <details>
-<summary>Ver competências</summary>
+<summary>Ver competencias</summary>
 <div align="left">
 
-Gerenciamento de Ameaças Cibernéticas:
-- Conformidade com frameworks de compliance.
-- Avaliação de vulnerabilidade de redes e sistemas.
-- Plano de gestão de riscos e resposta a incidentes.
-- Investigações forenses de incidentes de segurança.
+Gestión de Amenazas Cibernéticas:
+- Conformidad con frameworks de compliance.
+- Evaluación de vulnerabilidad de redes y sistemas.
+- Plan de gestión de riesgos y respuesta a incidentes.
+- Investigaciones forenses de incidentes de seguridad.
 
 </div>
 </details>
@@ -367,11 +367,11 @@ Gerenciamento de Ameaças Cibernéticas:
 <img src="https://img.shields.io/badge/Risk_Management-Framework_v2-004B87?style=flat-square" alt="nist-rmf"/>
 
 <details>
-<summary>Ver competências</summary>
+<summary>Ver competencias</summary>
 <div align="left">
 
 NIST RMF Course V2:
-- A Estrutura de Gestão de Riscos (RMF) do NIST é um processo de 7 etapas — abrangente, flexível, repetível e mensurável — para gerenciar riscos de segurança da informação e privacidade, alinhado aos padrões NIST e aos requisitos da FISMA.
+- El Marco de Gestión de Riesgos (RMF) del NIST es un proceso de 7 etapas — integral, flexible, repetible y medible — para gestionar riesgos de seguridad de la información y privacidad, alineado con los estándares NIST y los requisitos de la FISMA.
 
 </div>
 </details>
@@ -392,102 +392,102 @@ NIST RMF Course V2:
 <img src="https://img.shields.io/badge/Linux_Unhatched-01163B?style=flat-square&logo=cisco&logoColor=white" alt="c7"/>
 
 <details>
-<summary>Ver competências</summary>
+<summary>Ver competencias</summary>
 <div align="left">
 
 <details>
 <summary>Hacker Ético</summary>
 
-- Importância do hacking ético metodológico e do pentest.
-- Criar documentos preliminares para testes de invasão.
-- Coleta de informações e varredura de vulnerabilidades.
-- Como ataques de engenharia social são bem-sucedidos.
-- Explorar vulnerabilidades em redes cabeadas e sem fio.
-- Explorar vulnerabilidades baseadas em aplicações.
-- Explorar vulnerabilidades em nuvem, dispositivos móveis e IoT.
-- Realizar atividades de pós-exploração.
-- Criar um relatório de teste de invasão.
-- Classificar ferramentas de pentesting por caso de uso.
+- Importancia del hacking ético metodológico y del pentest.
+- Crear documentos preliminares para pruebas de intrusión.
+- Recolección de información y escaneo de vulnerabilidades.
+- Cómo los ataques de ingeniería social tienen éxito.
+- Explotar vulnerabilidades en redes cableadas e inalámbricas.
+- Explotar vulnerabilidades basadas en aplicaciones.
+- Explotar vulnerabilidades en nube, dispositivos móviles e IoT.
+- Realizar actividades de post-explotación.
+- Crear un informe de prueba de intrusión.
+- Clasificar herramientas de pentesting por caso de uso.
 
 </details>
 <details>
 <summary>Analista Júnior em Cyber Segurança</summary>
 
-- Recomendar controles de cibersegurança.
-- Mitigar ameaças à segurança de rede e de sistemas.
-- Avaliar a postura de segurança com ferramentas de avaliação.
-- Recomendar atividades de gestão de incidentes.
-- Atuar como profissional de segurança de rede.
+- Recomendar controles de ciberseguridad.
+- Mitigar amenazas a la seguridad de red y de sistemas.
+- Evaluar la postura de seguridad con herramientas de evaluación.
+- Recomendar actividades de gestión de incidentes.
+- Actuar como profesional de seguridad de red.
 
 </details>
 <details>
 <summary>Defesa de Redes</summary>
 
-- Documentar uma postura de segurança de rede.
-- Configurar segurança em dispositivos e endpoints Linux/Windows.
-- Implementar gestão do ciclo de vida de identidade.
-- Configurar um firewall de rede simulado.
-- Recomendar medidas de segurança em nuvem.
-- Proteção de dados em transporte e armazenamento.
-- Uso de PKI para aumentar a segurança dos dados.
-- Implementar ambientes de computação virtual.
+- Documentar una postura de seguridad de red.
+- Configurar seguridad en dispositivos y endpoints Linux/Windows.
+- Implementar gestión del ciclo de vida de identidad.
+- Configurar un firewall de red simulado.
+- Recomendar medidas de seguridad en nube.
+- Protección de datos en tránsito y almacenamiento.
+- Uso de PKI para aumentar la seguridad de los datos.
+- Implementar entornos de computación virtual.
 
 </details>
 <details>
 <summary>Dispositivos de Rede e Configuração Inicial</summary>
 
-- Componentes de um design de rede hierárquico.
-- Conversões entre decimal, binário e hexadecimal.
-- Operação do Ethernet em rede comutada.
-- Cálculo de sub-rede IPv4.
-- Funcionamento de ARP, DNS e DHCP.
-- Protocolos da camada de transporte.
-- Cisco IOS e construção de rede com dispositivos Cisco.
+- Componentes de un diseño de red jerárquico.
+- Conversiones entre decimal, binario y hexadecimal.
+- Operación de Ethernet en red conmutada.
+- Cálculo de subred IPv4.
+- Funcionamiento de ARP, DNS y DHCP.
+- Protocolos de la capa de transporte.
+- Cisco IOS y construcción de red con dispositivos Cisco.
 
 </details>
 <details>
 <summary>Segurança em Endpoint</summary>
 
-- Desafios únicos por tipo de dado.
-- Mitigação de ameaças de rede comuns e emergentes.
-- Configurar rede simulada conforme requisitos.
-- Analisar malware extraído de capturas de pacotes.
-- Avaliar a segurança de endpoints.
+- Desafíos únicos por tipo de dato.
+- Mitigación de amenazas de red comunes y emergentes.
+- Configurar red simulada según requisitos.
+- Analizar malware extraído de capturas de paquetes.
+- Evaluar la seguridad de endpoints.
 
 </details>
 <details>
 <summary>Networking Basics</summary>
 
-- Conceitos de comunicação, tipos, componentes e conexões.
-- Padrões e protocolos nas comunicações de rede.
-- Comunicação em redes Ethernet.
-- Endereçamento IPv4 e IPv6.
-- Como roteadores conectam redes.
-- Ferramentas de troubleshooting de conectividade.
-- Configurar roteador e cliente sem fio com segurança.
+- Conceptos de comunicación, tipos, componentes y conexiones.
+- Estándares y protocolos en las comunicaciones de red.
+- Comunicación en redes Ethernet.
+- Direccionamiento IPv4 e IPv6.
+- Cómo los routers conectan redes.
+- Herramientas de troubleshooting de conectividad.
+- Configurar router y cliente inalámbrico con seguridad.
 
 </details>
 <details>
 <summary>Introdução a Cybersecurity</summary>
 
-- Básico de segurança online e seu impacto.
-- Ameaças, ataques e vulnerabilidades comuns.
-- Como se proteger online.
-- Como organizações protegem suas operações.
-- Opções de carreira em cibersegurança.
+- Básico de seguridad online y su impacto.
+- Amenazas, ataques y vulnerabilidades comunes.
+- Cómo protegerse online.
+- Cómo las organizaciones protegen sus operaciones.
+- Opciones de carrera en ciberseguridad.
 
 </details>
 <details>
 <summary>Linux Unhatched</summary>
 
-- Fundamentos da linha de comando Linux.
-- Navegação por diretórios e listagem de arquivos.
-- Criar, mover e excluir arquivos/diretórios.
-- Pesquisar e extrair dados de arquivos.
-- Transformar comandos repetitivos em scripts.
-- Onde informações são armazenadas no Linux.
-- Consultar configurações de rede.
-- Gerenciar usuários, permissões e propriedade.
+- Fundamentos de la línea de comandos Linux.
+- Navegación por directorios y listado de archivos.
+- Crear, mover y eliminar archivos/directorios.
+- Buscar y extraer datos de archivos.
+- Transformar comandos repetitivos en scripts.
+- Dónde se almacena la información en Linux.
+- Consultar configuraciones de red.
+- Gestionar usuarios, permisos y propiedad.
 
 </details>
 
@@ -512,67 +512,67 @@ NIST RMF Course V2:
 <img src="https://img.shields.io/badge/CyberOps-8AE675?style=flat-square" alt="u5"/>
 
 <details>
-<summary>Ver competências</summary>
+<summary>Ver competencias</summary>
 <div align="left">
 
 <details>
 <summary>Cybersecurity Essentials</summary>
 
-- Conceitos de Segurança Cibernética
-- Ameaças, Ataques e Vulnerabilidades
-- Medidas de Segurança
-- Controles para Redes, Servidores e Aplicativos
-- Políticas de Segurança
-- Disponibilidade e Sigilo dos Dados
+- Conceptos de Seguridad Cibernética
+- Amenazas, Ataques y Vulnerabilidades
+- Medidas de Seguridad
+- Controles para Redes, Servidores y Aplicaciones
+- Políticas de Seguridad
+- Disponibilidad y Confidencialidad de los Datos
 - Cisco Packet Tracer
-- Pensamento Crítico
+- Pensamiento Crítico
 
 </details>
 <details>
 <summary>Networking Essentials</summary>
 
-- Comunicação de Dados
-- Conceitos básicos de redes
-- Componentes e Modelos de Rede
-- Protocolos de Comunicação
-- Arquitetura de protocolo IP
-- Camada de aplicação
-- Gerenciamento de rede
+- Comunicación de Datos
+- Conceptos básicos de redes
+- Componentes y Modelos de Red
+- Protocolos de Comunicación
+- Arquitectura de protocolo IP
+- Capa de aplicación
+- Gestión de red
 
 </details>
 <details>
 <summary>Endpoint Security</summary>
 
-- Ameaças e ciberataques aos endpoints
-- Proteção de Arquivos
-- Ferramentas de proteção de estações
-- Segurança Endpoint Windows e Linux
-- Proteção de serviços de nuvem
-- Proteção de dispositivos móveis
+- Amenazas y ciberataques a los endpoints
+- Protección de Archivos
+- Herramientas de protección de estaciones
+- Seguridad Endpoint Windows y Linux
+- Protección de servicios de nube
+- Protección de dispositivos móviles
 - IoT Security
 
 </details>
 <details>
 <summary>Network Defense</summary>
 
-- Monitoramento e defesa de redes
-- Técnicas de proteção de redes
-- Controle de acesso e Firewalls
-- Segurança na nuvem
-- Criptografia
-- Estratégia de cibersegurança
+- Monitoreo y defensa de redes
+- Técnicas de protección de redes
+- Control de acceso y Firewalls
+- Seguridad en la nube
+- Criptografía
+- Estrategia de ciberseguridad
 
 </details>
 <details>
 <summary>CyberOps</summary>
 
-- Arquitetura de Segurança Linux e Windows
-- Infraestrutura de Segurança em Rede
-- Defesa de segurança em rede
-- Avaliação de Vulnerabilidade
-- Monitoramento da Segurança da Informação
-- Resposta a incidentes
-- Computação forense
+- Arquitectura de Seguridad Linux y Windows
+- Infraestructura de Seguridad en Red
+- Defensa de seguridad en red
+- Evaluación de Vulnerabilidad
+- Monitoreo de la Seguridad de la Información
+- Respuesta a incidentes
+- Computación forense
 
 </details>
 
@@ -589,14 +589,14 @@ NIST RMF Course V2:
 <img src="https://img.shields.io/badge/Pre_Security-New_Path-212C42?style=flat-square&logo=tryhackme&logoColor=white" alt="thm-cert"/>
 
 <details>
-<summary>Ver competências</summary>
+<summary>Ver competencias</summary>
 <div align="left">
 
 Pre Security (New Path):
-- Redes e Web: comunicação e vulnerabilidades de rede.
-- Sistemas: Windows, Linux (CLI) e Cloud.
-- Software: Python, JS e SQL.
-- Defesa/Ataque: mentalidade hacker e a Tríade CIA.
+- Redes y Web: comunicación y vulnerabilidades de red.
+- Sistemas: Windows, Linux (CLI) y Cloud.
+- Software: Python, JS y SQL.
+- Defensa/Ataque: mentalidad hacker y la Tríada CIA.
 
 </div>
 </details>
@@ -611,11 +611,11 @@ Pre Security (New Path):
 <img src="https://img.shields.io/badge/Fiap_Connect-Summit-ED145B?style=flat-square" alt="fiap"/>
 
 <details>
-<summary>Ver competências</summary>
+<summary>Ver competencias</summary>
 <div align="left">
 
 Fiap Connect Summit (evento):
-- Imersão de quatro dias nas áreas de Tecnologia e Negócios.
+- Inmersión de cuatro días en las áreas de Tecnología y Negocios.
 
 </div>
 </details>
@@ -625,7 +625,7 @@ Fiap Connect Summit (evento):
 </table>
 
 <div align="center">
-<sub><a href="https://www.linkedin.com/in/cshunderlick/details/certifications/">Ver todas as credenciais no LinkedIn →</a></sub>
+<sub><a href="https://www.linkedin.com/in/cshunderlick/details/certifications/">Ver todas las credenciales en LinkedIn →</a></sub>
 </div>
 
 <br/>
@@ -636,7 +636,7 @@ Fiap Connect Summit (evento):
 
 <!-- ══════════════════════════ JORNADA ══════════════════════════ -->
 
-## Jornada em Cybersecurity & Engenharia
+## Trayectoria en Ciberseguridad e Ingeniería
 <a id="jornada"></a>
 
 ```mermaid
@@ -765,7 +765,7 @@ gantt
 
 <!-- ══════════════════════════ CONTATO ══════════════════════════ -->
 
-## Conecte-se Comigo
+## Conéctate Conmigo
 <a id="contato"></a>
 <br>
 
@@ -791,4 +791,4 @@ gantt
   <img src="https://64.media.tumblr.com/f444263be6597f8981d2b9cf3d0c7408/f74decdc69e61f0a-9a/s400x600/a157756e4c56be0e5e51a9e4c79ba781a451e94a.gifv" width="100%" height ="2px"alt="Dark Terminal Background" style="filter: brightness(0.8);">
 </div>
 
-#### Quando se pensa como quem observa, você descobre se o esforço de escalar o seu muro vale a recompensa que está lá dentro.
+#### Cuando se piensa como quien observa, descubres si el esfuerzo de escalar tu muro vale la recompensa que está allí dentro.
