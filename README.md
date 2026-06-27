@@ -20,33 +20,41 @@
 </p>
 <br>
 
+
+
 ## Douglas Cshunderlick
 <a id="sobre"></a>
 
 <table>
 <tr>
-<td valign="top" width="58%">
-
-Desenvolvedor de Software com foco em **Segurança Ofensiva e Governança**.
+<td valign="top" width="28%">
+  Sobre
+<div align="center">
+  <img src="https://64.media.tumblr.com/f444263be6597f8981d2b9cf3d0c7408/f74decdc69e61f0a-9a/s400x600/a157756e4c56be0e5e51a9e4c79ba781a451e94a.gifv" width="100%" height ="2px"alt="Dark Terminal Background" style="filter: brightness(0.8);">
+</div>
+Desenvolvedor de Software com foco em Segurança Ofensiva e Governança.
 Uno a base técnica em desenvolvimento à mentalidade de atacante para criar
-**sistemas resilientes desde o código**.
+sistemas resilientes desde o código.
 
-Atualmente **Top 6% no ranking global do TryHackMe**, com prática constante
+Atualmente Top 6% no ranking global do TryHackMe, com prática constante
 em pentests autorizados, análise de vulnerabilidades e desenvolvimento de
 ferramentas customizadas para automação de segurança.
 
-<br/>
-
 <!-- ══════════════════════════ NAVEGAÇÃO ══════════════════════════ -->
 
+<div align="left">
+Atalhos
+</div>
 <div align="center">
-
+  <img src="https://64.media.tumblr.com/f444263be6597f8981d2b9cf3d0c7408/f74decdc69e61f0a-9a/s400x600/a157756e4c56be0e5e51a9e4c79ba781a451e94a.gifv" width="100%" height ="2px"alt="Dark Terminal Background" style="filter: brightness(0.8);">
+</div>
+  <br>
 <a href="#sobre"><img src="https://img.shields.io/badge/▸_SOBRE-1987F0?style=for-the-badge&logoColor=white" alt="sobre"/></a>
 <a href="#Tecnologias"><img src="https://img.shields.io/badge/▸_TÉCNOLOGIAS-000000?style=for-the-badge" alt="Tecnologias"/></a>
-<a href="#projetos"><img src="https://img.shields.io/badge/▸_PROJETOS-1987F0?style=for-the-badge" alt="projetos"/></a>
+<a href="#projetos"><img src="https://img.shields.io/badge/▸_PROJETOS-1987F0?style=for-the-badge" alt="Projetos"/></a>
 <a href="#contribuicoes"><img src="https://img.shields.io/badge/▸_Contribuíções-000000?style=for-the-badge" alt="contribuicoes"/></a>
-<a href="#certificacoes"><img src="https://img.shields.io/badge/▸_CERTIFICAÇÕES-000000?style=for-the-badge" alt="certificacoes"/></a>
-<a href="#formacao"><img src="https://img.shields.io/badge/▸_FORMAÇÃO-1987F0?style=for-the-badge" alt="formacao"/>
+<a href="#certificacoes"><img src="https://img.shields.io/badge/▸_CERTIFICAÇÕES-1987F0?style=for-the-badge" alt="certificacoes"/></a>
+<a href="#formacao"><img src="https://img.shields.io/badge/▸_FORMAÇÃO-000000?style=for-the-badge" alt="formacao"/>
 <a href="#jornada"><img src="https://img.shields.io/badge/▸_JORNADA-1987F0?style=for-the-badge" alt="jornada"/></a>
 <a href="#contato"><img src="https://img.shields.io/badge/▸_CONTATO-000000?style=for-the-badge" alt="contato"/></a>
 
@@ -95,6 +103,10 @@ ferramentas customizadas para automação de segurança.
 
 **Recon & Enumeração**
 
+<div align="center">
+  <img src="https://64.media.tumblr.com/f444263be6597f8981d2b9cf3d0c7408/f74decdc69e61f0a-9a/s400x600/a157756e4c56be0e5e51a9e4c79ba781a451e94a.gifv" width="100%" height ="2px"alt="Dark Terminal Background" style="filter: brightness(0.8);">
+</div>
+
 <img src="https://img.shields.io/badge/Nmap-4682B4?style=flat-square&logo=nmap&logoColor=white" alt="nmap"/>
 <img src="https://img.shields.io/badge/Gobuster-00ADD8?style=flat-square&logo=go&logoColor=white" alt="gobuster"/>
 <img src="https://img.shields.io/badge/Nikto-1A1A1A?style=flat-square" alt="nikto"/>
@@ -104,6 +116,10 @@ ferramentas customizadas para automação de segurança.
 <td valign="top" width="33%" align="center">
 
 **Exploração & Análise**
+
+<div align="center">
+  <img src="https://64.media.tumblr.com/f444263be6597f8981d2b9cf3d0c7408/f74decdc69e61f0a-9a/s400x600/a157756e4c56be0e5e51a9e4c79ba781a451e94a.gifv" width="100%" height ="2px"alt="Dark Terminal Background" style="filter: brightness(0.8);">
+</div>
 
 <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white" alt="burp"/>
 <img src="https://img.shields.io/badge/Metasploit-2596CD?style=flat-square&logo=metasploit&logoColor=white" alt="msf"/>
@@ -117,6 +133,10 @@ ferramentas customizadas para automação de segurança.
 <td valign="top" width="33%" align="center">
 
 **Frameworks & GRC**
+
+<div align="center">
+  <img src="https://64.media.tumblr.com/f444263be6597f8981d2b9cf3d0c7408/f74decdc69e61f0a-9a/s400x600/a157756e4c56be0e5e51a9e4c79ba781a451e94a.gifv" width="100%" height ="2px"alt="Dark Terminal Background" style="filter: brightness(0.8);">
+</div>
 
 <img src="https://img.shields.io/badge/MITRE_ATT%26CK-C7002E?style=flat-square&logo=mitre&logoColor=white" alt="mitre"/>
 <img src="https://img.shields.io/badge/OWASP_Top_10-000000?style=flat-square&logo=owasp&logoColor=white" alt="owasp"/>
@@ -135,7 +155,9 @@ ferramentas customizadas para automação de segurança.
 <!-- ══════════════════════════ PROJETOS ══════════════════════════ -->
 
 ## Projetos & Write-ups em Destaque
+
 <a id="Projetos"></a>
+
 >Portfólio prático de pentests em ambientes autorizados (HTB, TryHackMe, labs e projetos próprios). 
 Todos com relatórios detalhados.
 <br>
@@ -737,7 +759,7 @@ gantt
 <!-- ══════════════════════════ CONTATO ══════════════════════════ -->
 
 ## Conecte-se Comigo
-<a id="jornada"></a>
+<a id="contato"></a>
 <br>
 
 
