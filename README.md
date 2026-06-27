@@ -618,7 +618,7 @@ Fiap Connect Summit (evento):
 </table>
 
 <div align="center">
-<sub><a href="https://www.linkedin.com/in/douglas-cshunderlick/details/certifications/">Ver todas as credenciais no LinkedIn →</a></sub>
+<sub><a href="https://www.linkedin.com/in/cshunderlick/details/certifications/">Ver todas as credenciais no LinkedIn →</a></sub>
 </div>
 
 <br/>
