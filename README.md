@@ -61,7 +61,7 @@ Atalhos
 </div>
 
 </td>
-<td valign="top" width="18%">
+<td valign="top" width="20%">
 
 <img src="https://media.licdn.com/dms/image/v2/D4D03AQFno00lljGrHA/profile-displayphoto-scale_400_400/B4DZ8KbsgqJ4Ag-/0/1782586460884?e=1784160000&v=beta&t=HadMpHv4oKrzdomO_-2oytcUcQTCkJ0RLOx2kUb33d4"/></a>
 
