@@ -1,3 +1,5 @@
+<br/>
+
 <div align="center">
   <img src="https://file.loading.io/color/feature/thumb/Blues-8.png?" width="100%" height ="10px"alt="Dark Terminal Background" style="filter: brightness(0.8);">
 </div>
@@ -17,23 +19,57 @@
   <img src="https://file.loading.io/color/feature/thumb/Blues-8.png?" width="100%" height ="10px"alt="Dark Terminal Background" style="filter: brightness(0.8);">
 </p>
 <br>
-<br>
+
+## Douglas Cshunderlick
+<a id="sobre"></a>
+
+<table>
+<tr>
+<td valign="top" width="58%">
+
+Desenvolvedor de Software com foco em **Segurança Ofensiva e Governança**.
+Uno a base técnica em desenvolvimento à mentalidade de atacante para criar
+**sistemas resilientes desde o código**.
+
+Atualmente **Top 6% no ranking global do TryHackMe**, com prática constante
+em pentests autorizados, análise de vulnerabilidades e desenvolvimento de
+ferramentas customizadas para automação de segurança.
+
+<br/>
+
+<!-- ══════════════════════════ NAVEGAÇÃO ══════════════════════════ -->
+
+<div align="center">
+
+<a href="#sobre"><img src="https://img.shields.io/badge/▸_SOBRE-1987F0?style=for-the-badge&logoColor=white" alt="sobre"/></a>
+<a href="#Tecnologias"><img src="https://img.shields.io/badge/▸_TÉCNOLOGIAS-000000?style=for-the-badge" alt="Tecnologias"/></a>
+<a href="#projetos"><img src="https://img.shields.io/badge/▸_PROJETOS-1987F0?style=for-the-badge" alt="projetos"/></a>
+<a href="#contribuicoes"><img src="https://img.shields.io/badge/▸_Contribuíções-000000?style=for-the-badge" alt="contribuicoes"/></a>
+<a href="#certificacoes"><img src="https://img.shields.io/badge/▸_CERTIFICAÇÕES-000000?style=for-the-badge" alt="certificacoes"/></a>
+<a href="#formacao"><img src="https://img.shields.io/badge/▸_FORMAÇÃO-1987F0?style=for-the-badge" alt="formacao"/>
+<a href="#jornada"><img src="https://img.shields.io/badge/▸_JORNADA-1987F0?style=for-the-badge" alt="jornada"/></a>
+<a href="#contato"><img src="https://img.shields.io/badge/▸_CONTATO-000000?style=for-the-badge" alt="contato"/></a>
+
+</div>
+
+</td>
+<td valign="top" width="18%">
+
+<img src="https://media.licdn.com/dms/image/v2/D4D03AQFno00lljGrHA/profile-displayphoto-scale_400_400/B4DZ8KbsgqJ4Ag-/0/1782586460884?e=1784160000&v=beta&t=HadMpHv4oKrzdomO_-2oytcUcQTCkJ0RLOx2kUb33d4"/></a>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
 
 <pre>
-  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=28&duration=2000&pause=100&left=true&vCenter=true&width=500&lines=;_;;_;%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88;Initializing+system...;;%3E+Acesso+condedido+.++.++.+;%3E+Bem+vindo+ao+mainframe+XD;%3E+Sou+Douglas+Cshunderlick;%3E+Ethical+Hacker+%26+Analista+de+SI;%3E;%3E+See+u;Reboot;%3E+" 
+  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=28&duration=2000&pause=100&left=true&vCenter=true&width=500&lines=;_;;_;%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88;Initializing+system...;;%3E+Acesso+concedido+.++.++.+;%3E+Bem+vindo+ao+mainframe;%3E+Sou+Douglas+Cshunderlick;%3E+Penso+como+atacante%2C+construo+como+defensor;%3E+Seguran%C3%A7a+desde+o+c%C3%B3digo%2C+n%C3%A3o+como+remendo;%3E+Pentester+%7C+AppSec+%7C+Secure+Development;%3E+Top+6%25+mundial+no+TryHackMe;%3E;%3E+See+u;Reboot;%3E+" 
     style="width: 720px;" 
     alt="Typing SVG">
 </pre>
 
-<p align="left">
-  <em>Defesa de Redes • Análise de Ameaças • OSCP prep • Labs HTB / TryHackMe</em>
-</p>
-
-<br>
-
-<p align="left">
-Desenvolvedor de Software com foco em Segurança Ofensiva e Governança. Unindo a base técnica em Analise e Desenvolvimento de Sistemas, com especializações em MBA Engenharia de Software e Pós-Graduação em Segurança da Informação, foco na criação de sistemas resilientes desde o código. Atualmente Top 6% no ranking global do TryHackMe, aplico laboratórios constantes de análise de malware e desenvolvimento de ferramentas customizadas para automação de segurança e análise de vulnerabilidades. 
-</p>
 
 
 <br>
@@ -41,26 +77,65 @@ Desenvolvedor de Software com foco em Segurança Ofensiva e Governança. Unindo 
   <img src="https://64.media.tumblr.com/f444263be6597f8981d2b9cf3d0c7408/f74decdc69e61f0a-9a/s400x600/a157756e4c56be0e5e51a9e4c79ba781a451e94a.gifv" width="100%" height ="2px"alt="Dark Terminal Background" style="filter: brightness(0.8);">
 </div>
 
-  
+<!-- ══════════════════════════ TECNOLOGIAS ══════════════════════════ -->
+
 ## Tecnologias que utilizo
-<br>
 
-<div>
-  <img 
-    style="width: 10100px;" 
-    src="https://skillicons.dev/icons?i=apple,kali,linux,windows,py,js,typescript,php,figma,bash,powershell,vim,vscode,obsidian&theme=dark"
-    />
+<a id="Tecnologias"></a>
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=apple,kali,linux,windows,py,js,typescript,php,bash,powershell,vim,vscode,obsidian&theme=dark" alt="skills"/>
+
 </div>
 
+<table>
+<tr>
+<td valign="top" width="33%" align="center">
 
+**Recon & Enumeração**
 
-<br>
+<img src="https://img.shields.io/badge/Nmap-4682B4?style=flat-square&logo=nmap&logoColor=white" alt="nmap"/>
+<img src="https://img.shields.io/badge/Gobuster-00ADD8?style=flat-square&logo=go&logoColor=white" alt="gobuster"/>
+<img src="https://img.shields.io/badge/Nikto-1A1A1A?style=flat-square" alt="nikto"/>
+<img src="https://img.shields.io/badge/OSINT-512BD4?style=flat-square" alt="osint"/>
+
+</td>
+<td valign="top" width="33%" align="center">
+
+**Exploração & Análise**
+
+<img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white" alt="burp"/>
+<img src="https://img.shields.io/badge/Metasploit-2596CD?style=flat-square&logo=metasploit&logoColor=white" alt="msf"/>
+<img src="https://img.shields.io/badge/SQLMap-D71F00?style=flat-square" alt="sqlmap"/>
+<img src="https://img.shields.io/badge/Nessus-00A3E0?style=flat-square&logo=tenable&logoColor=white" alt="nessus"/>
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" alt="wireshark"/>
+<img src="https://img.shields.io/badge/Hashcat-EE3124?style=flat-square" alt="hashcat"/>
+<img src="https://img.shields.io/badge/Aircrack--ng-000000?style=flat-square" alt="aircrack"/>
+
+</td>
+<td valign="top" width="33%" align="center">
+
+**Frameworks & GRC**
+
+<img src="https://img.shields.io/badge/MITRE_ATT%26CK-C7002E?style=flat-square&logo=mitre&logoColor=white" alt="mitre"/>
+<img src="https://img.shields.io/badge/OWASP_Top_10-000000?style=flat-square&logo=owasp&logoColor=white" alt="owasp"/>
+<img src="https://img.shields.io/badge/Cyber_Kill_Chain-1987F0?style=flat-square" alt="kill-chain"/>
+<img src="https://img.shields.io/badge/ISO_27001-005571?style=flat-square" alt="iso"/>
+<img src="https://img.shields.io/badge/NIST_RMF-004B87?style=flat-square" alt="nist"/>
+<img src="https://img.shields.io/badge/LGPD-2E7D32?style=flat-square" alt="lgpd"/>
+</table>
+
+<br/>
 <br>
 <div align="center">
   <img src="https://64.media.tumblr.com/f444263be6597f8981d2b9cf3d0c7408/f74decdc69e61f0a-9a/s400x600/a157756e4c56be0e5e51a9e4c79ba781a451e94a.gifv" width="100%" height ="2px"alt="Dark Terminal Background" style="filter: brightness(0.8);">
 </div>
+
+<!-- ══════════════════════════ PROJETOS ══════════════════════════ -->
 
 ## Projetos & Write-ups em Destaque
+<a id="Projetos"></a>
 >Portfólio prático de pentests em ambientes autorizados (HTB, TryHackMe, labs e projetos próprios). 
 Todos com relatórios detalhados.
 <br>
@@ -87,7 +162,10 @@ Skills: Enumeração serviços, hard-coded creds, root direto.
 </div>
 
 
+<!-- ══════════════════════════ PROJETOS ══════════════════════════ -->
+
 ## Contibuições
+<a id="contribuicoes"></a>
 
 <p align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=douglascshun&bg_color=000000&color=1987F0&line=ffffff&point=ffffff&area=true&hide_border=true"/></p>
 
@@ -99,118 +177,40 @@ Skills: Enumeração serviços, hard-coded creds, root direto.
   <img src="https://64.media.tumblr.com/f444263be6597f8981d2b9cf3d0c7408/f74decdc69e61f0a-9a/s400x600/a157756e4c56be0e5e51a9e4c79ba781a451e94a.gifv" width="100%" height ="2px"alt="Dark Terminal Background" style="filter: brightness(0.8);">
 </div>
 
-
+<!-- ══════════════════════════ FORMAÇÂO ══════════════════════════ -->
 ## Formação Acadêmica
+<a id="formacao"></a>
+
 <table>
-  <thead>
-    <tr>
-      <th align="left">Brasão</th>
-      <th align="left">Instituição</th>
-      <th align="left">Curso</th>
-      <th align="left">Status / Período</th>
-    </tr>
-  </thead>
-    <tbody>
-    <tr>
-      <td valign="left">
-          <img
-            align="left"
-            src="https://media.licdn.com/dms/image/v2/D4D0BAQEIqp2hOKmaUg/company-logo_100_100/company-logo_100_100/0/1687265100897/uniamericaua_logo?e=1780531200&v=beta&t=fomOqL0RZR_zyg9fKanlcs6XmqsgEB93kLITP51lMrQ" width="100px" alt="Uniamérica Logo"
-        </ul>
-      </td>
-      <td valign="center">
-        <ul>
-          <li><strong>Centro Universitário União das Américas</strong></li>
-        </ul>
-      </td>
-      <td valign="center">
-        <ul>
-          <li>MBA em Segurança da Informação</li>
-        </ul>
-      </td>
-      <td valign="center">
-        <ul>
-          <li>Nov 2025 – Nov 2026 (Previsão)</li>
-        </ul>
-      </td>
-    </tr>
-  </tbody>
-  <tbody>
-    <tr>
-      <td valign="left">
-          <img
-            align="left"
-            src="https://media.licdn.com/dms/image/v2/D4D0BAQEIqp2hOKmaUg/company-logo_100_100/company-logo_100_100/0/1687265100897/uniamericaua_logo?e=1780531200&v=beta&t=fomOqL0RZR_zyg9fKanlcs6XmqsgEB93kLITP51lMrQ" width="100px" alt="Uniamérica Logo"
-        </ul>
-      </td>
-      <td valign="center">
-        <ul>
-          <li><strong>Centro Universitário União das Américas</strong></li>
-        </ul>
-      </td>
-      <td valign="center">
-        <ul>
-          <li>Pós-graduação em Engenharia de Software</li>
-        </ul>
-      </td>
-      <td valign="center">
-        <ul>
-          <li>Nov 2025 – Nov 2026 (Previsão)</li>
-        </ul>
-      </td>
-    </tr>
-  </tbody>
-    <tbody>
-    <tr>
-      <td valign="left">
-          <img
-            align="left"
-            src="https://media.licdn.com/dms/image/v2/D4D0BAQGQCf7AXLv70w/company-logo_100_100/company-logo_100_100/0/1733236440411/universidadecruzeirodosul_logo?e=1780531200&v=beta&t=0eUJYRCYrkZMgDWypjx6EmPlqOhb_IoOi-UULne1jsw" width="100px" alt="Cruzeiro do Sul Logo"
-        </ul>
-      </td>
-      <td valign="center">
-        <ul>
-          <li><strong>Universidade Cruzeiro do Sul</strong></li>
-        </ul>
-      </td>
-      <td valign="center">
-        <ul>
-          <li>Análise e Desenvolvimento de Sistemas</li>
-        </ul>
-      </td>
-      <td valign="center">
-        <ul>
-          <li>Jan 2023 – Dez 2025 (Concluído)</li>
-        </ul>
-      </td>
-    </tr>
-  </tbody>
-  <tbody>
-    <tr>
-      <td valign="left">
-          <img
-            align="left"
-            src="https://media.licdn.com/dms/image/v2/D5607AQHUiRj8013gNg/group-logo_image-shrink_48x48/group-logo_image-shrink_48x48/0/1692249169762?e=1779296400&v=beta&t=2u0ZU_Z5K2BuTzzrtzaX_AXpjF8My1EVr_ZGMMqxfEQ" width="100px" alt="IFSP Logo"
-        </ul>
-      </td>
-      <td valign="center">
-        <ul>
-          <li><strong>Instituto Federal de Educação, Ciência e Tecnologia de São Paulo - IFSP</strong></li>
-        </ul>
-      </td>
-      <td valign="center">
-        <ul>
-          <li>Técnico em Administração</li>
-        </ul>
-      </td>
-      <td valign="center">
-        <ul>
-          <li>2019 – 2020 (Concluído)</li>
-        </ul>
-      </td>
-    </tr>
-  </tbody>
-</table>
+<thead>
+<tr>
+<th align="left">Instituição</th>
+<th align="left">Curso</th>
+<th align="left">Período</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><img src="assets/logos/uniamerica.png" height="26" align="center" alt="Uniamérica"/> <strong>União das Américas</strong></td>
+<td>MBA em Segurança da Informação</td>
+<td>Nov 2025 – Nov 2026 <sub>(previsão)</sub></td>
+</tr>
+<tr>
+<td><img src="assets/logos/uniamerica.png" height="26" align="center" alt="Uniamérica"/> <strong>União das Américas</strong></td>
+<td>Pós-graduação em Engenharia de Software</td>
+<td>Nov 2025 – Nov 2026 <sub>(previsão)</sub></td>
+</tr>
+<tr>
+<td><img src="assets/logos/cruzeirodosul.png" height="26" align="center" alt="Cruzeiro do Sul"/> <strong>Universidade Cruzeiro do Sul</strong></td>
+<td>Análise e Desenvolvimento de Sistemas</td>
+<td>Jan 2023 – Dez 2025 <sub>(concluído)</sub></td>
+</tr>
+<tr>
+<td><img src="assets/logos/ifsp.png" height="26" align="center" alt="IFSP"/> <strong>IFSP</strong></td>
+<td>Técnico em Administração</td>
+<td>2019 – 2020 <sub>(concluído)</sub></td>
+</tr>
+</tbody>
 </table>
 
 <br>
@@ -219,426 +219,396 @@ Skills: Enumeração serviços, hard-coded creds, root direto.
   <img src="https://64.media.tumblr.com/f444263be6597f8981d2b9cf3d0c7408/f74decdc69e61f0a-9a/s400x600/a157756e4c56be0e5e51a9e4c79ba781a451e94a.gifv" width="100%" height ="2px"alt="Dark Terminal Background" style="filter: brightness(0.8);">
 </div>
 
-## Certificações e Badges de Segurança
-<br>
-  
-<table style="width:100%; border:none;">
-  <!-- LINHA 1 -->
-  <tr>
-    <!-- Card Harvard -->
-    <td style="width:33%; vertical-align:center; padding:2px;">
-      <div style="background:#0d1117; border:1px solid #30363d; border-radius:2px; padding:2px; text-align:left; min-height:220px;">
-        <img src="https://media.licdn.com/dms/image/v2/C4E0BAQF5t62bcL0e9g/company-logo_100_100/company-logo_100_100/0/1631318058235?e=1780531200&v=beta&t=mIGUmA06aQsr7SYQf0BA1CSH3dxPI28GSfxhtbU3rUI" width="100px" alt="Harvard Logo"><br>
-        <strong>Harvard</strong><br>
-        <img src="https://img.shields.io/badge/Harvard-CS50-red?style=flat-square&logo=harvard&logoColor=white" alt="Harvard Badge"><br>
-        <details>
-          <summary>Contemplamento: </summary>
-          <ul style="text-align:left; margin-top:2px;">
-            <li>
-              <details>
-                <summary>CS50's Introduction to Cybersecurity</summary>
-                <ul>
-                  <li>Garantindo a segurança das contas</li>
-                  <li>Protegendo Dados</li>
-                  <li>Garantindo a segurança dos sistemas</li>
-                  <li>Protegendo Software</li>
-                  <li>Preservando a Privacidade</li>
-                </ul>
-              </details>
-            </li>
-          </ul>
-        </details>
-      </div>
-    </td>
-    <!-- Card MIT -->
-    <td style="width:33%; vertical-align:center; padding:2px;">
-      <div style="background:#0d1117; border:1px solid #30363d; border-radius:2px; padding:2px; text-align:left; min-height:220px;">
-        <img src="https://media.licdn.com/dms/image/v2/D560BAQH-UXRfIDIKug/company-logo_200_200/company-logo_200_200/0/1689799729035/mit_logo?e=1780531200&v=beta&t=etCSKU4_joRMDlOefWo_D94W0uRZ5QIa-CiB_KEeh2o" width="100px" alt="MIT Logo"><br>
-        <strong>MIT (Massachusetts Institute of Technology)</strong><br>
-        <img src="https://img.shields.io/badge/MIT-Introduction to Engineering Concepts-black?style=flat-square&logo=mit&logoColor=white" alt="MIT Badge"><br>
-        <details>
-          <summary>Contemplamento: </summary>
-          <ul style="text-align:left; margin-top:2px;">
-            <li>
-              <details>
-                <summary>Introduction to Engineering Concepts</summary>
-                <ul>
-                  <li>Experiência em Laboratório de filtração inspirado no estudo do MIT LL com Segurança Interna sobre a propagação da COVID no sistema de transporte público de Nova York (Biotecnologia e Sistemas Humanos).</li>
-                  <li>Experiência em Laboratório de etiquetas Bluetooth derivado do projeto Privacy Automated Contact Tracing (PACT) (Cyber Security & Information Sciences).</li>
-                  <li>Experiência com o laboratório de xadrez Clausewitzian, foi adotado a partir de um estudo de guerra adaptativa multidomínio gamificado do MIT LL (Homeland Protection).</li>
-                  <li>Capacidade desenvolvida, compreensão geral da engenharia e as muitas maneiras pelas quais a engenharia é aplicada para formar áreas relacionadas.</li>
-                  <li>Capacidade desenvolvida, familiaridade com o processo de engenharia.</li>
-                  <li>Capacidade de aplicar o processo de engenharia para resolver problemas atuais e relevantes que lhe interessam.</li>
-                </ul>
-              </details>
-            </li>
-          </ul>
-        </details>
-      </div>
-    </td>
-    <!-- Card CISA -->
-    <td style="width:33%; vertical-align:center; padding:2px;">
-      <div style="background:#0d1117; border:1px solid #30363d; border-radius:2px; padding:2px; text-align:center; min-height:220px;">
-        <img src="https://media.licdn.com/dms/image/v2/C560BAQHqZkwy_9qfLg/company-logo_200_200/company-logo_200_200/0/1657640157247/cisagov_logo?e=1780531200&v=beta&t=DDLqnRR4G9_77hTl6ArmYGZzlrM9hU9AzmSDz_Qn7O8" width="100px" alt="CISA Logo"><br>
-        <strong>CISA (Cybersecurity & Infrastructure Security Agency)</strong><br>
-        <img src="https://img.shields.io/badge/CISA-210W 02-informational?style=flat-square&logo=cisa&logoColor=white" alt="CISA 210w 02 Badge"><br>
-        <img src="https://img.shields.io/badge/CISA-210W 06-informational?style=flat-square&logo=cisa&logoColor=white" alt="CISA 210w 06 Badge"><br>
-        <details>
-          <summary>Contemplamento: </summary>
-          <ul style="text-align:left; margin-top:2px;">
-            <li>
-              <details>
-                <summary>210W-02 Influência dos componentes de TI em sistemas de controle industrial</summary>
-                <ul>
-                  <li>Convergência TI/TO: A modernização troca sistemas analógicos e isolados por digitais conectados.</li>
-                  <li>Segurança Cibernética: Introdução de componentes de TI traz vulnerabilidades para o chão de fábrica.</li>
-                  <li>Monitoramento e SCADA: Softwares de TI permitem processar grandes volumes de dados.</li>
-                  <li>Eficiência Operacional: IoT e análise de dados reduzem custos e aumentam a produtividade.</li>
-                </ul>
-              </details>
-            </li>
-            <li>
-              <details>
-                <summary>210W-06 Ameaças à segurança cibernética de sistemas de controle industrial</summary>
-                <ul>
-                  <li>Atributos da ameaça humana e categorias de agentes.</li>
-                  <li>Curva de risco e tendências de ameaças para ICS.</li>
-                  <li>Ameaças internas intencionais vs. não intencionais.</li>
-                  <li>Ferramentas e técnicas de ataque.</li>
-                </ul>
-              </details>
-            </li>
-          </ul>
-        </details>
-      </div>
-    </td>
-  </tr>
-  <!-- LINHA 2 -->
-  <tr>
-    <!-- Card IME -->
-    <td style="width:33%; vertical-align:center; padding:2px;">
-      <div style="background:#0d1117; border:1px solid #30363d; border-radius:2px; padding:2px; text-align:center; min-height:220px;">
-        <img src="https://media.licdn.com/dms/image/v2/C4E0BAQHgpYFIyzj3Ug/company-logo_200_200/company-logo_200_200/0/1631332886894?e=1780531200&v=beta&t=sUfY-ep4vsowlxw3K-8hxoDW_rKl5ZG2f6cGQ-6PCgM" width="100px" alt="IME Logo"><br>
-        <strong>IME (Instituto Militar de Engenharia)</strong><br>
-        <img src="https://img.shields.io/badge/IME-Gerenciamento de Ameaças Cibernéticas-gold?style=flat-square&logo=ime&logoColor=white" alt="IME Badge"><br>
-        <details>
-          <summary>Contemplamento: </summary>
-          <ul style="text-align:left; margin-top:2px;">
-            <li>
-              <details>
-                <summary>Gerenciamento de Ameaças Cibernéticas</summary>
-                <ul>
-                  <li>Conformidade com frameworks de compliance.</li>
-                  <li>Avaliação de vulnerabilidade de redes e sistemas.</li>
-                  <li>Plano de gestão de riscos e resposta a incidentes.</li>
-                  <li>Investigações forenses de incidentes de segurança.</li>
-                </ul>
-              </details>
-            </li>
-          </ul>
-        </details>
-      </div>
-    </td>
-    <!-- Card NIST -->
-    <td style="width:33%; vertical-align:center; padding:2px;">
-      <div style="background:#0d1117; border:1px solid #30363d; border-radius:2px; padding:2px; text-align:center; min-height:220px;">
-        <img src="https://media.licdn.com/dms/image/v2/C4D0BAQFoqF4hVw8g0Q/company-logo_200_200/company-logo_200_200/0/1630531707341/nist_logo?e=1780531200&v=beta&t=ECuBT4FyDmDn7yhdo_p2H08iRceLFXMQaSNzJmnSHBk" width="100px" alt="NIST Logo"><br>
-        <strong>NIST (National Institute of Standards and Technology)</strong><br>
-        <img src="https://img.shields.io/badge/NIST-Risk Management Structure-white?style=flat-square&logo=nist&logoColor=white" alt="Nist Badge"><br>
-        <details>
-          <summary>Contemplamento: </summary>
-          <ul style="text-align:left; margin-top:2px;">
-            <li>
-              <details>
-                <summary>NIST RMF Course V2</summary>
-                <ul>
-                  <li>A Estrutura de Gestão de Riscos (RMF) do NIST fornece um processo abrangente, flexível, repetível e mensurável de 7 etapas que qualquer organização pode usar para gerenciar os riscos de segurança da informação e privacidade para organizações e sistemas, e inclui links para um conjunto de padrões e diretrizes do NIST para apoiar a implementação de programas de gestão de riscos que atendam aos requisitos da Lei Federal dos EUA de Modernização da Segurança da Informação (FISMA).</li>
-                </ul>
-              </details>
-            </li>
-          </ul>
-        </details>
-      </div>
-    </td>
-    <!-- Card Cisco -->
-    <td style="width:33%; vertical-align:center; padding:2px;">
-      <div style="background:#0d1117; border:1px solid #30363d; border-radius:2px; padding:2px; text-align:center; min-height:220px;">
-        <img src="https://media.licdn.com/dms/image/v2/D560BAQFYnR_Zrm87Dg/company-logo_200_200/B56ZnMyVr4HUAI-/0/1760077372453/cisco_logo?e=1780531200&v=beta&t=10H-NGWi4BjYjcqN8upUDFBSoDFfq7B89_Fp3V4oMEo" width="100px" alt="Cisco Logo"><br>
-                <strong>Cisco Networking Academy</strong><br>
-        <img src="https://img.shields.io/badge/Cisco-Hacker Ético-01163B?style=flat-square&logo=cisco&logoColor=white" alt="cisco Hacker Ético Badge"><br>
-        <img src="https://img.shields.io/badge/Cisco-Analista Jr em Cybersecurity-01163B?style=flat-square&logo=cisco&logoColor=white" alt="cisco Analista Jr em Cybersecurity Badge"><br>
-        <img src="https://img.shields.io/badge/Cisco-Defesa de Redes-01163B?style=flat-square&logo=cisco&logoColor=white" alt="cisco Defesa de Redes Badge"><br>
-        <img src="https://img.shields.io/badge/Cisco-Dispositivos de Rede e Configuração Inicial-01163B?style=flat-square&logo=cisco&logoColor=white" alt="cisco Dispositivos de Rede e Configuração Inicial Badge"><br>
-        <img src="https://img.shields.io/badge/Cisco-Segurança em Endpoint-01163B?style=flat-square&logo=cisco&logoColor=white" alt="cisco Segurança em Endpoint Badge"><br>
-        <img src="https://img.shields.io/badge/Cisco-Networking Basics-01163B?style=flat-square&logo=cisco&logoColor=white" alt="cisco Networking Basics Badge"><br>
-        <img src="https://img.shields.io/badge/Cisco-Introdução a Cybersecurity-01163B?style=flat-square&logo=cisco&logoColor=white" alt="cisco Introdução a Cybersecurity Badge"><br>
-        <img src="https://img.shields.io/badge/Cisco-Linux Unhatched-01163B?style=flat-square&logo=cisco&logoColor=white" alt="cisco Linux Unhatched Badge"><br>
-        <details>
-          <summary>Contemplamento: </summary>
-          <ul style="text-align:left; margin-top:2px;">
-            <li>
-              <details>
-                <summary>Hacker Ético</summary>
-                <ul>
-                  <li>Explicar a importância do hacking ético metodológico e dos testes de invasão (pentesting).</li>
-                  <li>Criar documentos preliminares para testes de invasão.</li>
-                  <li>Realizar atividades de coleta de informações e varredura de vulnerabilidades.</li>
-                  <li>Explicar como ataques de engenharia social são bem-sucedidos.</li>
-                  <li>Explicar como explorar vulnerabilidades em redes cabeadas e sem fio.</li>
-                  <li>Explicar como explorar vulnerabilidades baseadas em aplicações.</li>
-                  <li>Explicar como explorar vulnerabilidades de segurança em nuvem (cloud), dispositivos móveis e IoT.</li>
-                  <li>Explicar como realizar atividades de pós-exploração.</li>
-                  <li>Criar um relatório de teste de invasão.</li>
-                  <li>Classificar ferramentas de pentesting por caso de uso.</li>
-                </ul>
-              </details>
-            </li>
-            <li>
-              <details>
-                <summary>Analista Júnior em Cyber Segurança</summary>
-                <ul>
-                  <li>Recomendar controles de cibersegurança para aprimorar a segurança da rede e da informação.</li>
-                  <li>Mitigar ameaças à segurança de rede.</li>
-                  <li>Mitigar ameaças à segurança de sistemas.</li>
-                  <li>Avaliar a postura de segurança organizacional utilizando ferramentas de avaliação de vulnerabilidades e de riscos.</li>
-                  <li>Recomendar atividades de gestão de incidentes para serem incluídas em um plano de resposta a incidentes.</li>
-                  <li>Atuar de forma eficaz como um profissional de segurança de rede.</li>
-                </ul>
-              </details>
-            </li>
-            <li>
-              <details>
-                <summary>Defesa de Redes</summary>
-                <ul>
-                  <li>Usar conceitos de cibersegurança para documentar uma postura de segurança de rede.</li>
-                  <li>Configurar medidas de segurança em dispositivos de rede e em endpoints Linux e Windows.</li>
-                  <li>Implementar fases de gestão do ciclo de vida de identidade.</li>
-                  <li>Configurar um firewall de rede simulado.</li>
-                  <li>Recomendar medidas de segurança em nuvem com base em um cenário específico.</li>
-                  <li>Determinar o mecanismo de proteção de dados adequado para garantir o transporte e o armazenamento seguro de dados de rede.</li>
-                  <li>Explicar como a Infraestrutura de Chaves Públicas (PKI) é usada para aumentar a segurança dos dados.</li>
-                  <li>Implementar ambientes de computação virtual.</li>
-                </ul>
-              </details>
-            </li>
-            <li>
-              <details>
-                <summary>Dispositivos de Rede e Configuração Inicial</summary>
-                <ul>
-                  <li>Explicar os componentes de um design de rede hierárquico.</li>
-                  <li>Realizar conversões numéricas entre os sistemas decimal, binário e hexadecimal.</li>
-                  <li>Explicar como o Ethernet opera em uma rede comutada (switched network).</li>
-                  <li>Calcular um esquema de sub-rede IPv4 para segmentar uma rede de forma eficiente.</li>
-                  <li>Explicar como o ARP permite a comunicação em uma rede local (LAN).</li>
-                  <li>Explicar como operam os serviços DNS e DHCP.</li>
-                  <li>Comparar as operações dos protocolos da camada de transporte no suporte à comunicação de ponta a ponta.</li>
-                  <li>Utilizar o Cisco IOS e construir uma rede de computadores simples utilizando dispositivos Cisco.</li>
-                </ul>
-              </details>
-            </li>
-            <li>
-              <details>
-                <summary>Segurança em Endpoint</summary>
-                <ul>
-                  <li>Explicar como os tipos de dados podem apresentar desafios únicos, com exemplos.</li>
-                  <li>Documentar e recomendar medidas de mitigação de ameaças para ameaças de rede comuns e emergentes que sejam relevantes para uma determinada organização.</li>
-                  <li>Configurar uma rede simulada de acordo com os requisitos organizacionais.</li>
-                  <li>Analisar arquivos de malware que foram extraídos de capturas de pacotes.</li>
-                  <li>Avaliar a segurança de endpoints (pontos de extremidade).</li>
-                </ul>
-              </details>
-            </li>
-            <li>
-              <details>
-                <summary>Networking Basics</summary>
-                <ul>
-                  <li>Explicar conceitos importantes em comunicação de rede, tipos de rede, componentes e conexões.</li>
-                  <li>Explicar a importância de padrões e protocolos nas comunicações de rede.</li>
-                  <li>Explicar como ocorre a comunicação em redes Ethernet.</li>
-                  <li>Explicar as características de um endereço IP e como endereços IPv4 são usados na comunicação de rede.</li>
-                  <li>Explicar características do endereçamento IPv6.</li>
-                  <li>Explicar como roteadores conectam redes entre si.</li>
-                  <li>Usar diversas ferramentas para testar e solucionar problemas de conectividade de rede.</li>
-                  <li>Configurar um roteador sem fio integrado e um cliente sem fio para se conectarem de forma segura à internet.</li>
-                </ul>
-              </details>
-            </li>
-            <li>
-              <details>
-                <summary>Introdução a Cybersecurity</summary>
-                <ul>
-                  <li>Explicar o básico sobre segurança online, incluindo o que é cibersegurança e seu impacto potencial.</li>
-                  <li>Explicar as ameaças, ataques e vulnerabilidades cibernéticas mais comuns.</li>
-                  <li>Explicar como se proteger enquanto estiver online.</li>
-                  <li>Explicar como as organizações podem proteger suas operações contra esses ataques.</li>
-                  <li>Acessar uma variedade de informações e recursos para explorar as diferentes opções de carreira em cibersegurança.</li>
-                </ul>
-              </details>
-            </li>
-            <li>
-              <details>
-                <summary>Linux Unhatched</summary>
-                <ul>
-                  <li>Compreender os fundamentos do uso da linha de comando Linux.</li>
-                  <li>Navegar pelos diretórios pessoal (home) e do sistema, além de listar arquivos em diversos locais.</li>
-                  <li>Criar, mover e excluir arquivos e diretórios dentro do diretório home.</li>
-                  <li>Pesquisar e extrair dados de arquivos no diretório home.</li>
-                  <li>Transformar comandos repetitivos em scripts simples.</li>
-                  <li>Descrever onde diferentes tipos de informações são armazenados em um sistema Linux.</li>
-                  <li>Consultar configurações vitais de rede.</li>
-                  <li>Gerenciar diversos tipos de usuários em um sistema Linux.</li>
-                  <li>Compreender e manipular permissões de arquivos e configurações de propriedade.</li>
-                </ul>
-              </details>
-            </li>
-          </ul>
-        </details>
-      </div>
-    </td>
-  </tr>
-  <!-- LINHA 3 -->
-  <tr>
-    <!-- Card Uniamérica -->
-    <td style="width:33%; vertical-align:center; padding:2px;">
-      <div style="background:#0d1117; border:1px solid #30363d; border-radius:2px; padding:2px; text-align:center; min-height:220px;">
-        <img src="https://media.licdn.com/dms/image/v2/D4D0BAQEIqp2hOKmaUg/company-logo_100_100/company-logo_100_100/0/1687265100897/uniamericaua_logo?e=1780531200&v=beta&t=fomOqL0RZR_zyg9fKanlcs6XmqsgEB93kLITP51lMrQ" width="100px" alt="Uniamérica Logo"><br>
-        <strong>Centro Universitário União das Américas</strong><br>
-        <img src="https://img.shields.io/badge/União das Américas-Cybersecurity Essentials-8AE675?style=flat-square&logo=harvard&logoColor=white" alt="União das Américas Cybersecurity Essentials Badge"><br>
-        <img src="https://img.shields.io/badge/União das Américas-Networking Essentials-8AE675?style=flat-square&logo=harvard&logoColor=white" alt="União das Américas Networking Essentials Badge"><br>
-        <img src="https://img.shields.io/badge/União das Américas-Endpoint Security-8AE675?style=flat-square&logo=harvard&logoColor=white" alt="União das Américas Endpoint Security Badge"><br>
-        <img src="https://img.shields.io/badge/União das Américas-Network Defense-8AE675?style=flat-square&logo=harvard&logoColor=white" alt="União das Américas Network Defense Badge"><br>
-        <img src="https://img.shields.io/badge/União das Américas-CyberOps-8AE675?style=flat-square&logo=harvard&logoColor=white" alt="União das Américas CyberOps Badge"><br>
-        <details>
-          <summary>Contemplamento: </summary>
-          <ul style="text-align:left; margin-top:2px;">
-            <li>
-              <details>
-                <summary>Cybersecurity Essentials</summary>
-                <ul>
-                  <li>Conceitos de Segurança Cibernética</li>
-                  <li>Ameaças, Ataques e Vulnerabilidades</li>
-                  <li>Medidas de Segurança</li>
-                  <li>Controles de Segurança para Redes, Servidores e Aplicativos</li>
-                  <li>Políticas de Segurança</li>
-                  <li>Procedimentos Adequados para a Disponibilidade e o Sigilo dos Dados</li>
-                  <li>Resolução de Problemas Usando Cisco Packet Tracer</li>
-                  <li>Pensamento Crítico</li>
-                </ul>
-              </details>
-            </li>
-            <li>
-              <details>
-                <summary>Networking Essentials</summary>
-                <ul>
-                  <li>Comunicação de Dados</li>
-                  <li>Conceitos Básicos de Redes de Computadores</li>
-                  <li>Componentes de Rede</li>
-                  <li>Modelos de Rede</li>
-                  <li>Protocolos de Comunicação</li>
-                  <li>Arquitetura de protocolo IP</li>
-                  <li>Camada de aplicação</li>
-                  <li>Gerenciamento de rede</li>
-                </ul>
-              </details>
-            </li>
-            <li>
-              <details>
-                <summary>Endpoint Security</summary>
-                <ul>
-                  <li>Ameaças e ciberataques comuns aos endpoints</li>
-                  <li>Proteção de Arquivos</li>
-                  <li>Ferramentas para proteção de estações de trabalho</li>
-                  <li>Segurança Endpoint Windows</li>
-                  <li>Segurança Endpoint Linux</li>
-                  <li>Proteção de serviços de nuvem</li>
-                  <li>Proteção de dispositivos móveis</li>
-                  <li>IoT Security: Segurança na Internet das Coisas</li>
-                </ul>
-              </details>
-            </li>
-            <li>
-              <details>
-                <summary>Network Defense</summary>
-                <ul>
-                  <li>Monitoramento de redes</li>
-                  <li>Defesa de redes</li>
-                  <li>Técnicas para proteção de redes</li>
-                  <li>Controle de acesso</li>
-                  <li>Firewalls</li>
-                  <li>Segurança na nuvem</li>
-                  <li>Criptografia</li>
-                  <li>Estratégica de cibersegurança</li>
-                </ul>
-              </details>
-            </li>
-             <li>
-              <details>
-                <summary>CyberOps</summary>
-                <ul>
-                  <li>Arquitetura de Segurança do Linux</li>
-                  <li>Arquitetura de Segurança do Windows</li>
-                  <li>Infraestrutura de Segurança em Rede</li>
-                  <li>Abordagens de Defesa de segurança em rede</li>
-                  <li>Avaliação de Vulnerabilidade</li>
-                  <li>Monitoramento da Segurança da Informação</li>
-                  <li>Resposta a incidentes</li>
-                  <li>Computação forense</li> 
-                </ul>
-              </details>
-            </li>
-          </ul>
-        </details>
-      </div>
-    </td>
-    <!-- Card TryHackMe -->
-    <td style="width:33%; vertical-align:center; padding:2px;">
-      <div style="background:#0d1117; border:1px solid #30363d; border-radius:2px; padding:2px; text-align:center; min-height:220px;">
-        <img src="https://media.licdn.com/dms/image/v2/D4D0BAQEM_1J-9HJ-qg/company-logo_200_200/B4DZxs03T5G0AI-/0/1771352323859/tryhackme_logo?e=1780531200&v=beta&t=QWOk63Zy4QVbh2sKsJCGmmFwj_fEEGM7AIqIqLGboXY" width="100px" alt="TryHackMe Logo"><br>
-        <strong>TryHackMe</strong><br>
-        <img src="https://img.shields.io/badge/TryHackMe-Pre Security (New Path)-0E224D?style=flat-square&logo=TryHackMe&logoColor=white" alt="TryHackMe Badge">
-        <details>
-          <summary>Contemplamento: </summary>
-          <ul style="text-align:left; margin-top:2px;">
-            <li>
-              <details>
-                <summary>Pre Security (New Path)</summary>
-                <ul>
-                  <li>Redes e Web: Como computadores se comunicam e vulnerabilidades de rede.</li>
-                  <li>Sistemas: Operação de Windows, Linux (CLI) e Cloud.</li>
-                  <li>Software: Prática com Python, JS e SQL.</li>
-                  <li>Defesa/Ataque: Mentalidade hacker e a Tríade da CIA.</li>
-                </ul>
-              </details>
-            </li>
-          </ul>
-        </details>
-      </div>
-    </td>
-    <!-- Card FIAP -->
-    <td style="width:33%; vertical-align:center; padding:2px;">
-      <div style="background:#0d1117; border:1px solid #30363d; border-radius:2px; padding:2px; text-align:center; min-height:220px;">
-        <img src="https://media.licdn.com/dms/image/v2/D4D0BAQGWrQt1XOEiPw/company-logo_200_200/B4DZbGkZaBGwAI-/0/1747088152588/fiap_logo?e=1780531200&v=beta&t=j2Vm4VeVPgiSIAThWxa7cAKzpIpmZsmZ4Nu0GOhha5c" width="100px" alt="FIAP Logo"><br>
-        <strong>FIAP</strong><br>
-        <img src="https://img.shields.io/badge/FIAP-Fiap Connect Summit-70191E?style=flat-square&logo=FIAP&logoColor=white" alt="FIAP Badge"><br>
-        <details>
-          <summary>Contemplamento: </summary>
-          <ul style="text-align:left; margin-top:2px;">
-            <li>
-              <details>
-                <summary>Fiap Connect Summit (EVENTO)</summary>
-                <ul>
-                  <li>Imersão de quatro dias nas áreas de Tecnologia e Negócios.</li>
-                </ul>
-              </details>
-            </li>
-          </ul>
-        </details>
-      </div>
-    </td>
-  </tr>
+
+<!-- ══════════════════════════ certificações ══════════════════════════ -->
+## Certificações & Badges
+<a id="certificacoes"></a>
+
+<table>
+<!-- ─────────────── LINHA 1 ─────────────── -->
+<tr>
+<td valign="top" width="33%" align="center">
+
+<img src="assets/logos/harvard.png" height="48" alt="Harvard"/>
+
+**Harvard**
+
+<img src="https://img.shields.io/badge/CS50-Cybersecurity-A51C30?style=flat-square" alt="cs50"/>
+
+<details>
+<summary>Ver competências</summary>
+<div align="left">
+
+CS50's Introduction to Cybersecurity:
+- Garantindo a segurança das contas
+- Protegendo Dados
+- Garantindo a segurança dos sistemas
+- Protegendo Software
+- Preservando a Privacidade
+
+</div>
+</details>
+
+</td>
+<td valign="top" width="33%" align="center">
+
+<img src="assets/logos/mit.png" height="48" alt="MIT"/>
+
+**MIT**
+
+<img src="https://img.shields.io/badge/Introduction_to-Engineering_Concepts-750014?style=flat-square" alt="mit"/>
+
+<details>
+<summary>Ver competências</summary>
+<div align="left">
+
+Introduction to Engineering Concepts:
+- Lab de filtração inspirado no estudo do MIT LL sobre a propagação da COVID no transporte público de NY (Biotecnologia e Sistemas Humanos).
+- Lab de etiquetas Bluetooth derivado do projeto Privacy Automated Contact Tracing — PACT (Cyber Security & Information Sciences).
+- Lab de xadrez Clausewitzian, de um estudo de guerra adaptativa multidomínio gamificado do MIT LL (Homeland Protection).
+- Compreensão geral da engenharia e suas aplicações em áreas relacionadas.
+- Familiaridade com o processo de engenharia.
+- Aplicação do processo de engenharia para resolver problemas reais.
+
+</div>
+</details>
+
+</td>
+<td valign="top" width="33%" align="center">
+
+<img src="assets/logos/cisa.png" height="48" alt="CISA"/>
+
+**CISA**
+
+<img src="https://img.shields.io/badge/210W-02-005288?style=flat-square" alt="cisa02"/>
+<img src="https://img.shields.io/badge/210W-06-005288?style=flat-square" alt="cisa06"/>
+
+<details>
+<summary>Ver competências</summary>
+<div align="left">
+
+210W-02 — Influência dos componentes de TI em ICS:
+- Convergência TI/TO: modernização troca sistemas isolados por digitais conectados.
+- Componentes de TI trazem vulnerabilidades ao chão de fábrica.
+- Monitoramento e SCADA processam grandes volumes de dados.
+- IoT e análise de dados reduzem custos e aumentam produtividade.
+
+210W-06 — Ameaças cibernéticas a ICS:
+- Atributos da ameaça humana e categorias de agentes.
+- Curva de risco e tendências de ameaças para ICS.
+- Ameaças internas intencionais vs. não intencionais.
+- Ferramentas e técnicas de ataque.
+
+</div>
+</details>
+
+</td>
+</tr>
+
+<!-- ─────────────── LINHA 2 ─────────────── -->
+<tr>
+<td valign="top" width="33%" align="center">
+
+<img src="assets/logos/ime.png" height="48" alt="IME"/>
+
+**IME**
+
+<img src="https://img.shields.io/badge/Gestão_de-Ameaças_Cibernéticas-FFD700?style=flat-square" alt="ime"/>
+
+<details>
+<summary>Ver competências</summary>
+<div align="left">
+
+Gerenciamento de Ameaças Cibernéticas:
+- Conformidade com frameworks de compliance.
+- Avaliação de vulnerabilidade de redes e sistemas.
+- Plano de gestão de riscos e resposta a incidentes.
+- Investigações forenses de incidentes de segurança.
+
+</div>
+</details>
+
+</td>
+<td valign="top" width="33%" align="center">
+
+<img src="assets/logos/nist.png" height="48" alt="NIST"/>
+
+**NIST**
+
+<img src="https://img.shields.io/badge/Risk_Management-Framework_v2-004B87?style=flat-square" alt="nist-rmf"/>
+
+<details>
+<summary>Ver competências</summary>
+<div align="left">
+
+NIST RMF Course V2:
+- A Estrutura de Gestão de Riscos (RMF) do NIST é um processo de 7 etapas — abrangente, flexível, repetível e mensurável — para gerenciar riscos de segurança da informação e privacidade, alinhado aos padrões NIST e aos requisitos da FISMA.
+
+</div>
+</details>
+
+</td>
+<td valign="top" width="33%" align="center">
+
+<img src="assets/logos/cisco.svg" height="40" alt="Cisco"/>
+
+**Cisco Networking Academy**
+
+<img src="https://img.shields.io/badge/Hacker_Ético-01163B?style=flat-square&logo=cisco&logoColor=white" alt="c1"/>
+<img src="https://img.shields.io/badge/Analista_Jr_Cybersecurity-01163B?style=flat-square&logo=cisco&logoColor=white" alt="c2"/>
+<img src="https://img.shields.io/badge/Defesa_de_Redes-01163B?style=flat-square&logo=cisco&logoColor=white" alt="c3"/>
+<img src="https://img.shields.io/badge/Endpoint_Security-01163B?style=flat-square&logo=cisco&logoColor=white" alt="c4"/>
+<img src="https://img.shields.io/badge/Networking_Basics-01163B?style=flat-square&logo=cisco&logoColor=white" alt="c5"/>
+<img src="https://img.shields.io/badge/Intro_Cybersecurity-01163B?style=flat-square&logo=cisco&logoColor=white" alt="c6"/>
+<img src="https://img.shields.io/badge/Linux_Unhatched-01163B?style=flat-square&logo=cisco&logoColor=white" alt="c7"/>
+
+<details>
+<summary>Ver competências</summary>
+<div align="left">
+
+<details>
+<summary>Hacker Ético</summary>
+
+- Importância do hacking ético metodológico e do pentest.
+- Criar documentos preliminares para testes de invasão.
+- Coleta de informações e varredura de vulnerabilidades.
+- Como ataques de engenharia social são bem-sucedidos.
+- Explorar vulnerabilidades em redes cabeadas e sem fio.
+- Explorar vulnerabilidades baseadas em aplicações.
+- Explorar vulnerabilidades em nuvem, dispositivos móveis e IoT.
+- Realizar atividades de pós-exploração.
+- Criar um relatório de teste de invasão.
+- Classificar ferramentas de pentesting por caso de uso.
+
+</details>
+<details>
+<summary>Analista Júnior em Cyber Segurança</summary>
+
+- Recomendar controles de cibersegurança.
+- Mitigar ameaças à segurança de rede e de sistemas.
+- Avaliar a postura de segurança com ferramentas de avaliação.
+- Recomendar atividades de gestão de incidentes.
+- Atuar como profissional de segurança de rede.
+
+</details>
+<details>
+<summary>Defesa de Redes</summary>
+
+- Documentar uma postura de segurança de rede.
+- Configurar segurança em dispositivos e endpoints Linux/Windows.
+- Implementar gestão do ciclo de vida de identidade.
+- Configurar um firewall de rede simulado.
+- Recomendar medidas de segurança em nuvem.
+- Proteção de dados em transporte e armazenamento.
+- Uso de PKI para aumentar a segurança dos dados.
+- Implementar ambientes de computação virtual.
+
+</details>
+<details>
+<summary>Dispositivos de Rede e Configuração Inicial</summary>
+
+- Componentes de um design de rede hierárquico.
+- Conversões entre decimal, binário e hexadecimal.
+- Operação do Ethernet em rede comutada.
+- Cálculo de sub-rede IPv4.
+- Funcionamento de ARP, DNS e DHCP.
+- Protocolos da camada de transporte.
+- Cisco IOS e construção de rede com dispositivos Cisco.
+
+</details>
+<details>
+<summary>Segurança em Endpoint</summary>
+
+- Desafios únicos por tipo de dado.
+- Mitigação de ameaças de rede comuns e emergentes.
+- Configurar rede simulada conforme requisitos.
+- Analisar malware extraído de capturas de pacotes.
+- Avaliar a segurança de endpoints.
+
+</details>
+<details>
+<summary>Networking Basics</summary>
+
+- Conceitos de comunicação, tipos, componentes e conexões.
+- Padrões e protocolos nas comunicações de rede.
+- Comunicação em redes Ethernet.
+- Endereçamento IPv4 e IPv6.
+- Como roteadores conectam redes.
+- Ferramentas de troubleshooting de conectividade.
+- Configurar roteador e cliente sem fio com segurança.
+
+</details>
+<details>
+<summary>Introdução a Cybersecurity</summary>
+
+- Básico de segurança online e seu impacto.
+- Ameaças, ataques e vulnerabilidades comuns.
+- Como se proteger online.
+- Como organizações protegem suas operações.
+- Opções de carreira em cibersegurança.
+
+</details>
+<details>
+<summary>Linux Unhatched</summary>
+
+- Fundamentos da linha de comando Linux.
+- Navegação por diretórios e listagem de arquivos.
+- Criar, mover e excluir arquivos/diretórios.
+- Pesquisar e extrair dados de arquivos.
+- Transformar comandos repetitivos em scripts.
+- Onde informações são armazenadas no Linux.
+- Consultar configurações de rede.
+- Gerenciar usuários, permissões e propriedade.
+
+</details>
+
+</div>
+</details>
+
+</td>
+</tr>
+
+<!-- ─────────────── LINHA 3 ─────────────── -->
+<tr>
+<td valign="top" width="33%" align="center">
+
+<img src="assets/logos/uniamerica.png" height="48" alt="Uniamérica"/>
+
+**Centro Univ. União das Américas**
+
+<img src="https://img.shields.io/badge/Cybersecurity_Essentials-8AE675?style=flat-square" alt="u1"/>
+<img src="https://img.shields.io/badge/Networking_Essentials-8AE675?style=flat-square" alt="u2"/>
+<img src="https://img.shields.io/badge/Endpoint_Security-8AE675?style=flat-square" alt="u3"/>
+<img src="https://img.shields.io/badge/Network_Defense-8AE675?style=flat-square" alt="u4"/>
+<img src="https://img.shields.io/badge/CyberOps-8AE675?style=flat-square" alt="u5"/>
+
+<details>
+<summary>Ver competências</summary>
+<div align="left">
+
+<details>
+<summary>Cybersecurity Essentials</summary>
+
+- Conceitos de Segurança Cibernética
+- Ameaças, Ataques e Vulnerabilidades
+- Medidas de Segurança
+- Controles para Redes, Servidores e Aplicativos
+- Políticas de Segurança
+- Disponibilidade e Sigilo dos Dados
+- Cisco Packet Tracer
+- Pensamento Crítico
+
+</details>
+<details>
+<summary>Networking Essentials</summary>
+
+- Comunicação de Dados
+- Conceitos básicos de redes
+- Componentes e Modelos de Rede
+- Protocolos de Comunicação
+- Arquitetura de protocolo IP
+- Camada de aplicação
+- Gerenciamento de rede
+
+</details>
+<details>
+<summary>Endpoint Security</summary>
+
+- Ameaças e ciberataques aos endpoints
+- Proteção de Arquivos
+- Ferramentas de proteção de estações
+- Segurança Endpoint Windows e Linux
+- Proteção de serviços de nuvem
+- Proteção de dispositivos móveis
+- IoT Security
+
+</details>
+<details>
+<summary>Network Defense</summary>
+
+- Monitoramento e defesa de redes
+- Técnicas de proteção de redes
+- Controle de acesso e Firewalls
+- Segurança na nuvem
+- Criptografia
+- Estratégia de cibersegurança
+
+</details>
+<details>
+<summary>CyberOps</summary>
+
+- Arquitetura de Segurança Linux e Windows
+- Infraestrutura de Segurança em Rede
+- Defesa de segurança em rede
+- Avaliação de Vulnerabilidade
+- Monitoramento da Segurança da Informação
+- Resposta a incidentes
+- Computação forense
+
+</details>
+
+</div>
+</details>
+
+</td>
+<td valign="top" width="33%" align="center">
+
+<img src="assets/logos/tryhackme.png" height="48" alt="TryHackMe"/>
+
+**TryHackMe**
+
+<img src="https://img.shields.io/badge/Pre_Security-New_Path-212C42?style=flat-square&logo=tryhackme&logoColor=white" alt="thm-cert"/>
+
+<details>
+<summary>Ver competências</summary>
+<div align="left">
+
+Pre Security (New Path):
+- Redes e Web: comunicação e vulnerabilidades de rede.
+- Sistemas: Windows, Linux (CLI) e Cloud.
+- Software: Python, JS e SQL.
+- Defesa/Ataque: mentalidade hacker e a Tríade CIA.
+
+</div>
+</details>
+
+</td>
+<td valign="top" width="33%" align="center">
+
+<img src="assets/logos/fiap.png" height="40" alt="FIAP"/>
+
+**FIAP**
+
+<img src="https://img.shields.io/badge/Fiap_Connect-Summit-ED145B?style=flat-square" alt="fiap"/>
+
+<details>
+<summary>Ver competências</summary>
+<div align="left">
+
+Fiap Connect Summit (evento):
+- Imersão de quatro dias nas áreas de Tecnologia e Negócios.
+
+</div>
+</details>
+
+</td>
+</tr>
 </table>
 
+<div align="center">
+<sub><a href="https://www.linkedin.com/in/douglas-cshunderlick/details/certifications/">Ver todas as credenciais no LinkedIn →</a></sub>
+</div>
 
+<br/>
+<br>
+<div align="center">
+  <img src="https://64.media.tumblr.com/f444263be6597f8981d2b9cf3d0c7408/f74decdc69e61f0a-9a/s400x600/a157756e4c56be0e5e51a9e4c79ba781a451e94a.gifv" width="100%" height ="2px"alt="Dark Terminal Background" style="filter: brightness(0.8);">
+</div>
+
+<!-- ══════════════════════════ JORNADA ══════════════════════════ -->
+
+## Jornada em Cybersecurity & Engenharia
+<a id="jornada"></a>
 
 ```mermaid
 %%{ init: { 
@@ -764,48 +734,10 @@ gantt
   <img src="https://64.media.tumblr.com/f444263be6597f8981d2b9cf3d0c7408/f74decdc69e61f0a-9a/s400x600/a157756e4c56be0e5e51a9e4c79ba781a451e94a.gifv" width="100%" height ="2px"alt="Dark Terminal Background" style="filter: brightness(0.8);">
 </div>
 
-## Status Atual e Foco
-<br>
-
-<table>
-  <thead>
-    <tr>
-      <th align="left">Foco Atual</th>
-      <th align="left">Colaboração</th>
-      <th align="left">Contato e Pessoal</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td valign="top">
-        <ul>
-          <li> Trabalho: Labs de pentest no HTB e automação de scans com Python/Nmap.</li>
-          <li> Aprendendo: OSCP prep, buffer overflows e cloud security (AWS/Azure).</li>
-        </ul>
-      </td>
-      <td valign="top">
-        <ul>
-          <li> Procuro colaboração: Projetos open-source de cybersec ou CTFs em equipe.</li>
-          <li> Preciso de ajuda: Otimização de wordlists custom pro Hashcat.</li>
-        </ul>
-      </td>
-      <td valign="top">
-        <ul>
-          <li> Pergunte-me: Burp Suite configs, Wireshark filters ou setups de lab Kali.</li>
-          <li> Curiosidade: Já quebrei um WEP em menos de 5 min com Aircrack-ng... mas só em lab! (claro ha)</li>
-        </ul>
-      </td>
-    </tr>
-  </tbody>
-</table>
-
-<br>
-<br>
-<div align="center">
-  <img src="https://64.media.tumblr.com/f444263be6597f8981d2b9cf3d0c7408/f74decdc69e61f0a-9a/s400x600/a157756e4c56be0e5e51a9e4c79ba781a451e94a.gifv" width="100%" height ="2px"alt="Dark Terminal Background" style="filter: brightness(0.8);">
-</div>
+<!-- ══════════════════════════ CONTATO ══════════════════════════ -->
 
 ## Conecte-se Comigo
+<a id="jornada"></a>
 <br>
 
 
@@ -814,23 +746,12 @@ gantt
     alt="TryHackMe Badge - D.r4bbi7"/>
 </div>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/douglas-cshunderlick/" 
-    target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" 
-      alt="LinkedIn Profile" />
-  </a>
-  <a href="https://tryhackme.com/p/D.r4bbi7" 
-    target="_blank">
-    <img src="https://img.shields.io/badge/TryHackMe-88CCEE?style=for-the-badge&logo=tryhackme&logoColor=white" 
-      alt="TryHackMe Profile" />
-  </a>
-  <a href="mailto:douglascshun@gmail.com" 
-    target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
-
+<div align="center">
+<a href="https://www.linkedin.com/in/douglas-cshunderlick/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/></a>
+<a href="https://tryhackme.com/p/D.r4bbi7"><img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" alt="thm"/></a>
+<a href="mailto:douglascshun@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email"/></a>
+<a href="https://www.hackingisnotacrime.org/"><img src="https://img.shields.io/badge/Hacking_is_NOT_a_Crime-9FEF00?style=for-the-badge&logo=hackaday&logoColor=black" alt="hinc"/></a>
+  </div>
 
 
 <br clear="all">
