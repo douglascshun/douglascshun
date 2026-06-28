@@ -324,18 +324,20 @@ Skills: Enumeração serviços, hard-coded creds, root direto.
 
 **Harvard**
 
-<img src="https://img.shields.io/badge/CS50-Cybersecurity-A51C30?style=flat-square" alt="cs50"/>
-
 <details>
 <summary>Ver competências</summary>
 <div align="left">
 
-CS50's Introduction to Cybersecurity:
+<details>
+<summary><img src="https://img.shields.io/badge/CS50-Cybersecurity-A51C30?style=flat-square" alt="cs50"/></summary>
+
 - Garantindo a segurança das contas
 - Protegendo Dados
 - Garantindo a segurança dos sistemas
 - Protegendo Software
 - Preservando a Privacidade
+
+</details>
 
 </div>
 </details>
