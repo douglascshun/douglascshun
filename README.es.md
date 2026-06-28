@@ -104,6 +104,8 @@ Atajos
 
 </div>
 
+<div align="center">
+
 <table>
 <tr>
 <td valign="top" width="33%" align="center">
@@ -152,6 +154,8 @@ Atajos
 <img src="https://img.shields.io/badge/NIST_RMF-004B87?style=flat-square" alt="nist"/>
 <img src="https://img.shields.io/badge/LGPD-2E7D32?style=flat-square" alt="lgpd"/>
 </table>
+
+</div>
 
 <br/>
 <br>
@@ -210,6 +214,8 @@ Skills: Enumeración servicios, hard-coded creds, root directo.
 ## Formación Académica
 <a id="formacao"></a>
 
+<div align="center">
+
 <table>
 <thead>
 <tr>
@@ -241,6 +247,8 @@ Skills: Enumeración servicios, hard-coded creds, root directo.
 </tr>
 </tbody>
 </table>
+
+</div>
 
 <br>
 <br>
