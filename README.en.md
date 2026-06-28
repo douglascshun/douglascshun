@@ -151,6 +151,47 @@ Shortcuts
 <img src="https://img.shields.io/badge/ISO_27001-005571?style=flat-square" alt="iso"/>
 <img src="https://img.shields.io/badge/NIST_RMF-004B87?style=flat-square" alt="nist"/>
 <img src="https://img.shields.io/badge/LGPD-2E7D32?style=flat-square" alt="lgpd"/>
+
+</td>
+</tr>
+<tr>
+<td valign="top" width="33%" align="center">
+
+**Development**
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="py"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="fastapi"/>
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="react"/>
+<img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="vite"/>
+<img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="tailwind"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="docker"/>
+<img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="sqlite"/>
+<img src="https://img.shields.io/badge/Odoo-714B67?style=flat-square&logo=odoo&logoColor=white" alt="odoo"/>
+
+</td>
+<td valign="top" width="33%" align="center">
+
+**Blue Team & SIEM**
+
+<img src="https://img.shields.io/badge/Wazuh-3A8DFF?style=flat-square&logo=wazuh&logoColor=white" alt="wazuh"/>
+<img src="https://img.shields.io/badge/SIEM-1A1A1A?style=flat-square" alt="siem"/>
+<img src="https://img.shields.io/badge/Hardening-2E7D32?style=flat-square" alt="hardening"/>
+<img src="https://img.shields.io/badge/UFW-EE0000?style=flat-square" alt="ufw"/>
+<img src="https://img.shields.io/badge/SSHFS-005571?style=flat-square&logo=openssh&logoColor=white" alt="sshfs"/>
+
+</td>
+<td valign="top" width="33%" align="center">
+
+**AI & Automation**
+
+<img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white" alt="ollama"/>
+<img src="https://img.shields.io/badge/LLM_Local-1987F0?style=flat-square" alt="llm"/>
+<img src="https://img.shields.io/badge/AI_Security-8A2BE2?style=flat-square" alt="aisec"/>
+<img src="https://img.shields.io/badge/systemd-30D475?style=flat-square&logo=systemd&logoColor=white" alt="systemd"/>
+<img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" alt="bash"/>
+
+</td>
+</tr>
 </table>
 
 <br/>
@@ -168,6 +209,22 @@ Shortcuts
 >Hands-on portfolio of pentests in authorized environments (HTB, TryHackMe, labs and personal projects). 
 All with detailed reports.
 <br>
+
+### AutoHunter — Autonomous Bug Bounty Platform <sub>(private project)</sub>
+
+A platform that runs **24/7** in a continuous loop — recon → discovery → quick wins → vuln scan → reporting — with **cognitive validation via local LLM (Ollama)** that filters false positives before submitting, preserving reputation in bug bounty programs.
+
+- **Backend:** FastAPI + scheduler with watchdog &nbsp;·&nbsp; **Frontend:** React/Vite + Tailwind
+- **AI:** impact/false-positive validator with local LLM (zero cost) &nbsp;·&nbsp; **Infra:** `systemd` services, healthchecks, SQLite (WAL)
+- **Orchestrated arsenal:** nuclei · subfinder · httpx · katana · naabu · dnsx · ffuf · feroxbuster · sqlmap · dalfox · trufflehog · gitleaks
+
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="fastapi"/>
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="react"/>
+<img src="https://img.shields.io/badge/Ollama_LLM-000000?style=flat-square&logo=ollama&logoColor=white" alt="ollama"/>
+<img src="https://img.shields.io/badge/systemd-30D475?style=flat-square&logo=systemd&logoColor=white" alt="systemd"/>
+<img src="https://img.shields.io/badge/Status-Private-555555?style=flat-square&logo=github&logoColor=white" alt="private"/>
+
+<br><br>
 
 - [**MBA in Information Security**](https://github.com/douglascshun/PosSegurancaDaInformacao)<br>
 Central repository of studies, technical summaries and practical documentation.  
@@ -195,6 +252,11 @@ Skills: Service enumeration, hard-coded creds, direct root.
 
 ## Contributions
 <a id="contribuicoes"></a>
+
+<div align="center">
+  <img height="180" src="assets/stats.svg" alt="GitHub Stats"/>
+  <img height="180" src="assets/languages.svg" alt="Most used languages"/>
+</div>
 
 <p align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=douglascshun&bg_color=000000&color=1987F0&line=ffffff&point=ffffff&area=true&hide_border=true"/></p>
 

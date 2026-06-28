@@ -1,0 +1,23 @@
+<svg width="360" height="200" viewBox="0 0 360 200" xmlns="http://www.w3.org/2000/svg">
+<rect x="0.5" y="0.5" rx="6" width="359" height="199" fill="#0d1117" stroke="#1987F0"/>
+<text x="25" y="35" font-family='Segoe UI,Helvetica,Arial,sans-serif' font-size="18" font-weight="700" fill="#1987F0">Linguagens Mais Usadas</text>
+<rect x="25" y="68" rx="5" width="310" height="10" fill="#21262d"/>
+<rect x="25.0" y="68" width="183.6" height="10" fill="#3572A5"/>
+<rect x="208.6" y="68" width="84.4" height="10" fill="#e34c26"/>
+<rect x="293.0" y="68" width="29.6" height="10" fill="#f1e05a"/>
+<rect x="322.5" y="68" width="9.3" height="10" fill="#a52a22"/>
+<rect x="331.9" y="68" width="2.1" height="10" fill="#89e051"/>
+<rect x="334.0" y="68" width="1.0" height="10" fill="#663399"/>
+<circle cx="30" cy="104" r="5" fill="#3572A5"/>
+<text x="43" y="108" font-family='Segoe UI,Helvetica,Arial,sans-serif' font-size="13" fill="#c9d1d9">Python 59.2%</text>
+<circle cx="198" cy="104" r="5" fill="#e34c26"/>
+<text x="211" y="108" font-family='Segoe UI,Helvetica,Arial,sans-serif' font-size="13" fill="#c9d1d9">HTML 27.2%</text>
+<circle cx="30" cy="134" r="5" fill="#f1e05a"/>
+<text x="43" y="138" font-family='Segoe UI,Helvetica,Arial,sans-serif' font-size="13" fill="#c9d1d9">JavaScript 9.5%</text>
+<circle cx="198" cy="134" r="5" fill="#a52a22"/>
+<text x="211" y="138" font-family='Segoe UI,Helvetica,Arial,sans-serif' font-size="13" fill="#c9d1d9">Jinja 3.0%</text>
+<circle cx="30" cy="164" r="5" fill="#89e051"/>
+<text x="43" y="168" font-family='Segoe UI,Helvetica,Arial,sans-serif' font-size="13" fill="#c9d1d9">Shell 0.7%</text>
+<circle cx="198" cy="164" r="5" fill="#663399"/>
+<text x="211" y="168" font-family='Segoe UI,Helvetica,Arial,sans-serif' font-size="13" fill="#c9d1d9">CSS 0.3%</text>
+</svg>
