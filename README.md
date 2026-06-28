@@ -266,16 +266,13 @@ Skills: Enumeração serviços, hard-coded creds, root direto.
 <summary>Ver competências</summary>
 <div align="left">
 
-<details>
-<summary><img src="https://img.shields.io/badge/CS50-Cybersecurity-A51C30?style=flat-square" alt="cs50"/></summary>
+<img src="https://img.shields.io/badge/CS50-Cybersecurity-A51C30?style=flat-square" alt="cs50"/>
 
 - Garantindo a segurança das contas
 - Protegendo Dados
 - Garantindo a segurança dos sistemas
 - Protegendo Software
 - Preservando a Privacidade
-
-</details>
 
 </div>
 </details>
