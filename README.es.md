@@ -253,6 +253,8 @@ Skills: Enumeración servicios, hard-coded creds, root directo.
 ## Certificaciones & Badges
 <a id="certificacoes"></a>
 
+<div align="center">
+
 <table>
 <!-- ─────────────── LINHA 1 ─────────────── -->
 <tr>
@@ -574,6 +576,8 @@ Skills: Enumeración servicios, hard-coded creds, root directo.
 </td>
 </tr>
 </table>
+
+</div>
 
 <div align="center">
 <sub><a href="https://www.linkedin.com/in/cshunderlick/details/certifications/">Ver todas las credenciales en LinkedIn →</a></sub>
