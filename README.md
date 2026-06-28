@@ -288,8 +288,7 @@ Skills: Enumeração serviços, hard-coded creds, root direto.
 <summary>Ver competências</summary>
 <div align="left">
 
-<details>
-<summary><img src="https://img.shields.io/badge/Introduction_to-Engineering_Concepts-750014?style=flat-square" alt="mit"/></summary>
+<img src="https://img.shields.io/badge/Introduction_to-Engineering_Concepts-750014?style=flat-square" alt="mit"/>
 
 - Lab de filtração inspirado no estudo do MIT LL sobre a propagação da COVID no transporte público de NY (Biotecnologia e Sistemas Humanos).
 - Lab de etiquetas Bluetooth derivado do projeto Privacy Automated Contact Tracing — PACT (Cyber Security & Information Sciences).
@@ -297,8 +296,6 @@ Skills: Enumeração serviços, hard-coded creds, root direto.
 - Compreensão geral da engenharia e suas aplicações em áreas relacionadas.
 - Familiaridade com o processo de engenharia.
 - Aplicação do processo de engenharia para resolver problemas reais.
-
-</details>
 
 </div>
 </details>
@@ -314,24 +311,19 @@ Skills: Enumeração serviços, hard-coded creds, root direto.
 <summary>Ver competências</summary>
 <div align="left">
 
-<details>
-<summary><img src="https://img.shields.io/badge/210W-02-005288?style=flat-square" alt="cisa02"/></summary>
+<img src="https://img.shields.io/badge/210W-02-005288?style=flat-square" alt="cisa02"/>
 
 - Convergência TI/TO: modernização troca sistemas isolados por digitais conectados.
 - Componentes de TI trazem vulnerabilidades ao chão de fábrica.
 - Monitoramento e SCADA processam grandes volumes de dados.
 - IoT e análise de dados reduzem custos e aumentam produtividade.
 
-</details>
-<details>
-<summary><img src="https://img.shields.io/badge/210W-06-005288?style=flat-square" alt="cisa06"/></summary>
+<img src="https://img.shields.io/badge/210W-06-005288?style=flat-square" alt="cisa06"/>
 
 - Atributos da ameaça humana e categorias de agentes.
 - Curva de risco e tendências de ameaças para ICS.
 - Ameaças internas intencionais vs. não intencionais.
 - Ferramentas e técnicas de ataque.
-
-</details>
 
 </div>
 </details>
@@ -351,15 +343,12 @@ Skills: Enumeração serviços, hard-coded creds, root direto.
 <summary>Ver competências</summary>
 <div align="left">
 
-<details>
-<summary><img src="https://img.shields.io/badge/Gestão_de-Ameaças_Cibernéticas-FFD700?style=flat-square" alt="ime"/></summary>
+<img src="https://img.shields.io/badge/Gestão_de-Ameaças_Cibernéticas-FFD700?style=flat-square" alt="ime"/>
 
 - Conformidade com frameworks de compliance.
 - Avaliação de vulnerabilidade de redes e sistemas.
 - Plano de gestão de riscos e resposta a incidentes.
 - Investigações forenses de incidentes de segurança.
-
-</details>
 
 </div>
 </details>
@@ -375,12 +364,9 @@ Skills: Enumeração serviços, hard-coded creds, root direto.
 <summary>Ver competências</summary>
 <div align="left">
 
-<details>
-<summary><img src="https://img.shields.io/badge/Risk_Management-Framework_v2-004B87?style=flat-square" alt="nist-rmf"/></summary>
+<img src="https://img.shields.io/badge/Risk_Management-Framework_v2-004B87?style=flat-square" alt="nist-rmf"/>
 
 - A Estrutura de Gestão de Riscos (RMF) do NIST é um processo de 7 etapas — abrangente, flexível, repetível e mensurável — para gerenciar riscos de segurança da informação e privacidade, alinhado aos padrões NIST e aos requisitos da FISMA.
-
-</details>
 
 </div>
 </details>
@@ -396,8 +382,7 @@ Skills: Enumeração serviços, hard-coded creds, root direto.
 <summary>Ver competências</summary>
 <div align="left">
 
-<details>
-<summary><img src="https://img.shields.io/badge/Hacker_Ético-01163B?style=flat-square&logo=cisco&logoColor=white" alt="c1"/></summary>
+<img src="https://img.shields.io/badge/Hacker_Ético-01163B?style=flat-square&logo=cisco&logoColor=white" alt="c1"/>
 
 - Importância do hacking ético metodológico e do pentest.
 - Criar documentos preliminares para testes de invasão.
@@ -410,9 +395,7 @@ Skills: Enumeração serviços, hard-coded creds, root direto.
 - Criar um relatório de teste de invasão.
 - Classificar ferramentas de pentesting por caso de uso.
 
-</details>
-<details>
-<summary><img src="https://img.shields.io/badge/Analista_Jr_Cybersecurity-01163B?style=flat-square&logo=cisco&logoColor=white" alt="c2"/></summary>
+<img src="https://img.shields.io/badge/Analista_Jr_Cybersecurity-01163B?style=flat-square&logo=cisco&logoColor=white" alt="c2"/>
 
 - Recomendar controles de cibersegurança.
 - Mitigar ameaças à segurança de rede e de sistemas.
@@ -420,9 +403,7 @@ Skills: Enumeração serviços, hard-coded creds, root direto.
 - Recomendar atividades de gestão de incidentes.
 - Atuar como profissional de segurança de rede.
 
-</details>
-<details>
-<summary><img src="https://img.shields.io/badge/Defesa_de_Redes-01163B?style=flat-square&logo=cisco&logoColor=white" alt="c3"/></summary>
+<img src="https://img.shields.io/badge/Defesa_de_Redes-01163B?style=flat-square&logo=cisco&logoColor=white" alt="c3"/>
 
 - Documentar uma postura de segurança de rede.
 - Configurar segurança em dispositivos e endpoints Linux/Windows.
@@ -433,9 +414,7 @@ Skills: Enumeração serviços, hard-coded creds, root direto.
 - Uso de PKI para aumentar a segurança dos dados.
 - Implementar ambientes de computação virtual.
 
-</details>
-<details>
-<summary>Dispositivos de Rede e Configuração Inicial</summary>
+**Dispositivos de Rede e Configuração Inicial**
 
 - Componentes de um design de rede hierárquico.
 - Conversões entre decimal, binário e hexadecimal.
@@ -445,9 +424,7 @@ Skills: Enumeração serviços, hard-coded creds, root direto.
 - Protocolos da camada de transporte.
 - Cisco IOS e construção de rede com dispositivos Cisco.
 
-</details>
-<details>
-<summary><img src="https://img.shields.io/badge/Endpoint_Security-01163B?style=flat-square&logo=cisco&logoColor=white" alt="c4"/></summary>
+<img src="https://img.shields.io/badge/Endpoint_Security-01163B?style=flat-square&logo=cisco&logoColor=white" alt="c4"/>
 
 - Desafios únicos por tipo de dado.
 - Mitigação de ameaças de rede comuns e emergentes.
@@ -455,9 +432,7 @@ Skills: Enumeração serviços, hard-coded creds, root direto.
 - Analisar malware extraído de capturas de pacotes.
 - Avaliar a segurança de endpoints.
 
-</details>
-<details>
-<summary><img src="https://img.shields.io/badge/Networking_Basics-01163B?style=flat-square&logo=cisco&logoColor=white" alt="c5"/></summary>
+<img src="https://img.shields.io/badge/Networking_Basics-01163B?style=flat-square&logo=cisco&logoColor=white" alt="c5"/>
 
 - Conceitos de comunicação, tipos, componentes e conexões.
 - Padrões e protocolos nas comunicações de rede.
@@ -467,9 +442,7 @@ Skills: Enumeração serviços, hard-coded creds, root direto.
 - Ferramentas de troubleshooting de conectividade.
 - Configurar roteador e cliente sem fio com segurança.
 
-</details>
-<details>
-<summary><img src="https://img.shields.io/badge/Intro_Cybersecurity-01163B?style=flat-square&logo=cisco&logoColor=white" alt="c6"/></summary>
+<img src="https://img.shields.io/badge/Intro_Cybersecurity-01163B?style=flat-square&logo=cisco&logoColor=white" alt="c6"/>
 
 - Básico de segurança online e seu impacto.
 - Ameaças, ataques e vulnerabilidades comuns.
@@ -477,9 +450,7 @@ Skills: Enumeração serviços, hard-coded creds, root direto.
 - Como organizações protegem suas operações.
 - Opções de carreira em cibersegurança.
 
-</details>
-<details>
-<summary><img src="https://img.shields.io/badge/Linux_Unhatched-01163B?style=flat-square&logo=cisco&logoColor=white" alt="c7"/></summary>
+<img src="https://img.shields.io/badge/Linux_Unhatched-01163B?style=flat-square&logo=cisco&logoColor=white" alt="c7"/>
 
 - Fundamentos da linha de comando Linux.
 - Navegação por diretórios e listagem de arquivos.
@@ -489,8 +460,6 @@ Skills: Enumeração serviços, hard-coded creds, root direto.
 - Onde informações são armazenadas no Linux.
 - Consultar configurações de rede.
 - Gerenciar usuários, permissões e propriedade.
-
-</details>
 
 </div>
 </details>
@@ -510,8 +479,7 @@ Skills: Enumeração serviços, hard-coded creds, root direto.
 <summary>Ver competências</summary>
 <div align="left">
 
-<details>
-<summary><img src="https://img.shields.io/badge/Cybersecurity_Essentials-8AE675?style=flat-square" alt="u1"/></summary>
+<img src="https://img.shields.io/badge/Cybersecurity_Essentials-8AE675?style=flat-square" alt="u1"/>
 
 - Conceitos de Segurança Cibernética
 - Ameaças, Ataques e Vulnerabilidades
@@ -522,9 +490,7 @@ Skills: Enumeração serviços, hard-coded creds, root direto.
 - Cisco Packet Tracer
 - Pensamento Crítico
 
-</details>
-<details>
-<summary><img src="https://img.shields.io/badge/Networking_Essentials-8AE675?style=flat-square" alt="u2"/></summary>
+<img src="https://img.shields.io/badge/Networking_Essentials-8AE675?style=flat-square" alt="u2"/>
 
 - Comunicação de Dados
 - Conceitos básicos de redes
@@ -534,9 +500,7 @@ Skills: Enumeração serviços, hard-coded creds, root direto.
 - Camada de aplicação
 - Gerenciamento de rede
 
-</details>
-<details>
-<summary><img src="https://img.shields.io/badge/Endpoint_Security-8AE675?style=flat-square" alt="u3"/></summary>
+<img src="https://img.shields.io/badge/Endpoint_Security-8AE675?style=flat-square" alt="u3"/>
 
 - Ameaças e ciberataques aos endpoints
 - Proteção de Arquivos
@@ -546,9 +510,7 @@ Skills: Enumeração serviços, hard-coded creds, root direto.
 - Proteção de dispositivos móveis
 - IoT Security
 
-</details>
-<details>
-<summary><img src="https://img.shields.io/badge/Network_Defense-8AE675?style=flat-square" alt="u4"/></summary>
+<img src="https://img.shields.io/badge/Network_Defense-8AE675?style=flat-square" alt="u4"/>
 
 - Monitoramento e defesa de redes
 - Técnicas de proteção de redes
@@ -557,9 +519,7 @@ Skills: Enumeração serviços, hard-coded creds, root direto.
 - Criptografia
 - Estratégia de cibersegurança
 
-</details>
-<details>
-<summary><img src="https://img.shields.io/badge/CyberOps-8AE675?style=flat-square" alt="u5"/></summary>
+<img src="https://img.shields.io/badge/CyberOps-8AE675?style=flat-square" alt="u5"/>
 
 - Arquitetura de Segurança Linux e Windows
 - Infraestrutura de Segurança em Rede
@@ -568,8 +528,6 @@ Skills: Enumeração serviços, hard-coded creds, root direto.
 - Monitoramento da Segurança da Informação
 - Resposta a incidentes
 - Computação forense
-
-</details>
 
 </div>
 </details>
@@ -585,15 +543,12 @@ Skills: Enumeração serviços, hard-coded creds, root direto.
 <summary>Ver competências</summary>
 <div align="left">
 
-<details>
-<summary><img src="https://img.shields.io/badge/Pre_Security-New_Path-212C42?style=flat-square&logo=tryhackme&logoColor=white" alt="thm-cert"/></summary>
+<img src="https://img.shields.io/badge/Pre_Security-New_Path-212C42?style=flat-square&logo=tryhackme&logoColor=white" alt="thm-cert"/>
 
 - Redes e Web: comunicação e vulnerabilidades de rede.
 - Sistemas: Windows, Linux (CLI) e Cloud.
 - Software: Python, JS e SQL.
 - Defesa/Ataque: mentalidade hacker e a Tríade CIA.
-
-</details>
 
 </div>
 </details>
@@ -609,12 +564,9 @@ Skills: Enumeração serviços, hard-coded creds, root direto.
 <summary>Ver competências</summary>
 <div align="left">
 
-<details>
-<summary><img src="https://img.shields.io/badge/Fiap_Connect-Summit-ED145B?style=flat-square" alt="fiap"/></summary>
+<img src="https://img.shields.io/badge/Fiap_Connect-Summit-ED145B?style=flat-square" alt="fiap"/>
 
 - Imersão de quatro dias nas áreas de Tecnologia e Negócios.
-
-</details>
 
 </div>
 </details>
