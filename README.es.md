@@ -262,18 +262,20 @@ Skills: Enumeración servicios, hard-coded creds, root directo.
 
 **Harvard**
 
-<img src="https://img.shields.io/badge/CS50-Cybersecurity-A51C30?style=flat-square" alt="cs50"/>
-
 <details>
 <summary>Ver competencias</summary>
 <div align="left">
 
-CS50's Introduction to Cybersecurity:
+<details>
+<summary><img src="https://img.shields.io/badge/CS50-Cybersecurity-A51C30?style=flat-square" alt="cs50"/></summary>
+
 - Garantizando la seguridad de las cuentas
 - Protegiendo Datos
 - Garantizando la seguridad de los sistemas
 - Protegiendo Software
 - Preservando la Privacidad
+
+</details>
 
 </div>
 </details>
@@ -285,19 +287,21 @@ CS50's Introduction to Cybersecurity:
 
 **MIT**
 
-<img src="https://img.shields.io/badge/Introduction_to-Engineering_Concepts-750014?style=flat-square" alt="mit"/>
-
 <details>
 <summary>Ver competencias</summary>
 <div align="left">
 
-Introduction to Engineering Concepts:
+<details>
+<summary><img src="https://img.shields.io/badge/Introduction_to-Engineering_Concepts-750014?style=flat-square" alt="mit"/></summary>
+
 - Lab de filtración inspirado en el estudio del MIT LL sobre la propagación del COVID en el transporte público de NY (Biotecnología y Sistemas Humanos).
 - Lab de etiquetas Bluetooth derivado del proyecto Privacy Automated Contact Tracing — PACT (Cyber Security & Information Sciences).
 - Lab de ajedrez Clausewitzian, de un estudio de guerra adaptativa multidominio gamificado del MIT LL (Homeland Protection).
 - Comprensión general de la ingeniería y sus aplicaciones en áreas relacionadas.
 - Familiaridad con el proceso de ingeniería.
 - Aplicación del proceso de ingeniería para resolver problemas reales.
+
+</details>
 
 </div>
 </details>
@@ -309,24 +313,28 @@ Introduction to Engineering Concepts:
 
 **CISA**
 
-<img src="https://img.shields.io/badge/210W-02-005288?style=flat-square" alt="cisa02"/>
-<img src="https://img.shields.io/badge/210W-06-005288?style=flat-square" alt="cisa06"/>
-
 <details>
 <summary>Ver competencias</summary>
 <div align="left">
 
-210W-02 — Influencia de los componentes de TI en ICS:
+<details>
+<summary><img src="https://img.shields.io/badge/210W-02-005288?style=flat-square" alt="cisa02"/></summary>
+
 - Convergencia TI/TO: la modernización cambia sistemas aislados por digitales conectados.
 - Los componentes de TI traen vulnerabilidades a la planta de producción.
 - El monitoreo y SCADA procesan grandes volúmenes de datos.
 - IoT y análisis de datos reducen costos y aumentan la productividad.
 
-210W-06 — Amenazas cibernéticas a ICS:
+</details>
+<details>
+<summary><img src="https://img.shields.io/badge/210W-06-005288?style=flat-square" alt="cisa06"/></summary>
+
 - Atributos de la amenaza humana y categorías de agentes.
 - Curva de riesgo y tendencias de amenazas para ICS.
 - Amenazas internas intencionales vs. no intencionales.
 - Herramientas y técnicas de ataque.
+
+</details>
 
 </div>
 </details>
@@ -342,17 +350,19 @@ Introduction to Engineering Concepts:
 
 **IME**
 
-<img src="https://img.shields.io/badge/Gestão_de-Ameaças_Cibernéticas-FFD700?style=flat-square" alt="ime"/>
-
 <details>
 <summary>Ver competencias</summary>
 <div align="left">
 
-Gestión de Amenazas Cibernéticas:
+<details>
+<summary><img src="https://img.shields.io/badge/Gestão_de-Ameaças_Cibernéticas-FFD700?style=flat-square" alt="ime"/></summary>
+
 - Conformidad con frameworks de compliance.
 - Evaluación de vulnerabilidad de redes y sistemas.
 - Plan de gestión de riesgos y respuesta a incidentes.
 - Investigaciones forenses de incidentes de seguridad.
+
+</details>
 
 </div>
 </details>
@@ -364,14 +374,16 @@ Gestión de Amenazas Cibernéticas:
 
 **NIST**
 
-<img src="https://img.shields.io/badge/Risk_Management-Framework_v2-004B87?style=flat-square" alt="nist-rmf"/>
-
 <details>
 <summary>Ver competencias</summary>
 <div align="left">
 
-NIST RMF Course V2:
+<details>
+<summary><img src="https://img.shields.io/badge/Risk_Management-Framework_v2-004B87?style=flat-square" alt="nist-rmf"/></summary>
+
 - El Marco de Gestión de Riesgos (RMF) del NIST es un proceso de 7 etapas — integral, flexible, repetible y medible — para gestionar riesgos de seguridad de la información y privacidad, alineado con los estándares NIST y los requisitos de la FISMA.
+
+</details>
 
 </div>
 </details>
@@ -383,20 +395,12 @@ NIST RMF Course V2:
 
 **Cisco Networking Academy**
 
-<img src="https://img.shields.io/badge/Hacker_Ético-01163B?style=flat-square&logo=cisco&logoColor=white" alt="c1"/>
-<img src="https://img.shields.io/badge/Analista_Jr_Cybersecurity-01163B?style=flat-square&logo=cisco&logoColor=white" alt="c2"/>
-<img src="https://img.shields.io/badge/Defesa_de_Redes-01163B?style=flat-square&logo=cisco&logoColor=white" alt="c3"/>
-<img src="https://img.shields.io/badge/Endpoint_Security-01163B?style=flat-square&logo=cisco&logoColor=white" alt="c4"/>
-<img src="https://img.shields.io/badge/Networking_Basics-01163B?style=flat-square&logo=cisco&logoColor=white" alt="c5"/>
-<img src="https://img.shields.io/badge/Intro_Cybersecurity-01163B?style=flat-square&logo=cisco&logoColor=white" alt="c6"/>
-<img src="https://img.shields.io/badge/Linux_Unhatched-01163B?style=flat-square&logo=cisco&logoColor=white" alt="c7"/>
-
 <details>
 <summary>Ver competencias</summary>
 <div align="left">
 
 <details>
-<summary>Hacker Ético</summary>
+<summary><img src="https://img.shields.io/badge/Hacker_Ético-01163B?style=flat-square&logo=cisco&logoColor=white" alt="c1"/></summary>
 
 - Importancia del hacking ético metodológico y del pentest.
 - Crear documentos preliminares para pruebas de intrusión.
@@ -411,7 +415,7 @@ NIST RMF Course V2:
 
 </details>
 <details>
-<summary>Analista Júnior em Cyber Segurança</summary>
+<summary><img src="https://img.shields.io/badge/Analista_Jr_Cybersecurity-01163B?style=flat-square&logo=cisco&logoColor=white" alt="c2"/></summary>
 
 - Recomendar controles de ciberseguridad.
 - Mitigar amenazas a la seguridad de red y de sistemas.
@@ -421,7 +425,7 @@ NIST RMF Course V2:
 
 </details>
 <details>
-<summary>Defesa de Redes</summary>
+<summary><img src="https://img.shields.io/badge/Defesa_de_Redes-01163B?style=flat-square&logo=cisco&logoColor=white" alt="c3"/></summary>
 
 - Documentar una postura de seguridad de red.
 - Configurar seguridad en dispositivos y endpoints Linux/Windows.
@@ -446,7 +450,7 @@ NIST RMF Course V2:
 
 </details>
 <details>
-<summary>Segurança em Endpoint</summary>
+<summary><img src="https://img.shields.io/badge/Endpoint_Security-01163B?style=flat-square&logo=cisco&logoColor=white" alt="c4"/></summary>
 
 - Desafíos únicos por tipo de dato.
 - Mitigación de amenazas de red comunes y emergentes.
@@ -456,7 +460,7 @@ NIST RMF Course V2:
 
 </details>
 <details>
-<summary>Networking Basics</summary>
+<summary><img src="https://img.shields.io/badge/Networking_Basics-01163B?style=flat-square&logo=cisco&logoColor=white" alt="c5"/></summary>
 
 - Conceptos de comunicación, tipos, componentes y conexiones.
 - Estándares y protocolos en las comunicaciones de red.
@@ -468,7 +472,7 @@ NIST RMF Course V2:
 
 </details>
 <details>
-<summary>Introdução a Cybersecurity</summary>
+<summary><img src="https://img.shields.io/badge/Intro_Cybersecurity-01163B?style=flat-square&logo=cisco&logoColor=white" alt="c6"/></summary>
 
 - Básico de seguridad online y su impacto.
 - Amenazas, ataques y vulnerabilidades comunes.
@@ -478,7 +482,7 @@ NIST RMF Course V2:
 
 </details>
 <details>
-<summary>Linux Unhatched</summary>
+<summary><img src="https://img.shields.io/badge/Linux_Unhatched-01163B?style=flat-square&logo=cisco&logoColor=white" alt="c7"/></summary>
 
 - Fundamentos de la línea de comandos Linux.
 - Navegación por directorios y listado de archivos.
@@ -505,18 +509,12 @@ NIST RMF Course V2:
 
 **Centro Univ. União das Américas**
 
-<img src="https://img.shields.io/badge/Cybersecurity_Essentials-8AE675?style=flat-square" alt="u1"/>
-<img src="https://img.shields.io/badge/Networking_Essentials-8AE675?style=flat-square" alt="u2"/>
-<img src="https://img.shields.io/badge/Endpoint_Security-8AE675?style=flat-square" alt="u3"/>
-<img src="https://img.shields.io/badge/Network_Defense-8AE675?style=flat-square" alt="u4"/>
-<img src="https://img.shields.io/badge/CyberOps-8AE675?style=flat-square" alt="u5"/>
-
 <details>
 <summary>Ver competencias</summary>
 <div align="left">
 
 <details>
-<summary>Cybersecurity Essentials</summary>
+<summary><img src="https://img.shields.io/badge/Cybersecurity_Essentials-8AE675?style=flat-square" alt="u1"/></summary>
 
 - Conceptos de Seguridad Cibernética
 - Amenazas, Ataques y Vulnerabilidades
@@ -529,7 +527,7 @@ NIST RMF Course V2:
 
 </details>
 <details>
-<summary>Networking Essentials</summary>
+<summary><img src="https://img.shields.io/badge/Networking_Essentials-8AE675?style=flat-square" alt="u2"/></summary>
 
 - Comunicación de Datos
 - Conceptos básicos de redes
@@ -541,7 +539,7 @@ NIST RMF Course V2:
 
 </details>
 <details>
-<summary>Endpoint Security</summary>
+<summary><img src="https://img.shields.io/badge/Endpoint_Security-8AE675?style=flat-square" alt="u3"/></summary>
 
 - Amenazas y ciberataques a los endpoints
 - Protección de Archivos
@@ -553,7 +551,7 @@ NIST RMF Course V2:
 
 </details>
 <details>
-<summary>Network Defense</summary>
+<summary><img src="https://img.shields.io/badge/Network_Defense-8AE675?style=flat-square" alt="u4"/></summary>
 
 - Monitoreo y defensa de redes
 - Técnicas de protección de redes
@@ -564,7 +562,7 @@ NIST RMF Course V2:
 
 </details>
 <details>
-<summary>CyberOps</summary>
+<summary><img src="https://img.shields.io/badge/CyberOps-8AE675?style=flat-square" alt="u5"/></summary>
 
 - Arquitectura de Seguridad Linux y Windows
 - Infraestructura de Seguridad en Red
@@ -586,17 +584,19 @@ NIST RMF Course V2:
 
 **TryHackMe**
 
-<img src="https://img.shields.io/badge/Pre_Security-New_Path-212C42?style=flat-square&logo=tryhackme&logoColor=white" alt="thm-cert"/>
-
 <details>
 <summary>Ver competencias</summary>
 <div align="left">
 
-Pre Security (New Path):
+<details>
+<summary><img src="https://img.shields.io/badge/Pre_Security-New_Path-212C42?style=flat-square&logo=tryhackme&logoColor=white" alt="thm-cert"/></summary>
+
 - Redes y Web: comunicación y vulnerabilidades de red.
 - Sistemas: Windows, Linux (CLI) y Cloud.
 - Software: Python, JS y SQL.
 - Defensa/Ataque: mentalidad hacker y la Tríada CIA.
+
+</details>
 
 </div>
 </details>
@@ -608,14 +608,16 @@ Pre Security (New Path):
 
 **FIAP**
 
-<img src="https://img.shields.io/badge/Fiap_Connect-Summit-ED145B?style=flat-square" alt="fiap"/>
-
 <details>
 <summary>Ver competencias</summary>
 <div align="left">
 
-Fiap Connect Summit (evento):
+<details>
+<summary><img src="https://img.shields.io/badge/Fiap_Connect-Summit-ED145B?style=flat-square" alt="fiap"/></summary>
+
 - Inmersión de cuatro días en las áreas de Tecnología y Negocios.
+
+</details>
 
 </div>
 </details>
