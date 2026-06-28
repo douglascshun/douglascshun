@@ -200,7 +200,7 @@ Skills: Enumeración servicios, hard-coded creds, root directo.
 ## Contribuciones
 <a id="contribuicoes"></a>
 
-<p align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=douglascshun&bg_color=000000&color=1987F0&line=ffffff&point=ffffff&area=true&hide_border=true"/></p>
+<p align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=douglascshun&bg_color=000000&color=1987F0&line=ffffff&point=ffffff&area=true&hide_border=true&v=2"/></p>
 
 
 
