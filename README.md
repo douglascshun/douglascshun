@@ -755,3 +755,11 @@ gantt
 </div>
 
 #### Quando se pensa como quem observa, você descobre se o esforço de escalar o seu muro vale a recompensa que está lá dentro.
+
+<br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/douglascshun/douglascshun/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/douglascshun/douglascshun/output/github-contribution-grid-snake.svg">
+  <img alt="Cobrinha percorrendo o grid de contribuições do GitHub" src="https://raw.githubusercontent.com/douglascshun/douglascshun/output/github-contribution-grid-snake.svg" width="100%">
+</picture>
