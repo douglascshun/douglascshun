@@ -39,7 +39,7 @@
 <div align="center">
   <img src="https://64.media.tumblr.com/f444263be6597f8981d2b9cf3d0c7408/f74decdc69e61f0a-9a/s400x600/a157756e4c56be0e5e51a9e4c79ba781a451e94a.gifv" width="100%" height ="2px"alt="Dark Terminal Background" style="filter: brightness(0.8);">
 </div>
-Desarrollador de Software enfocado en Seguridad Ofensiva y Gobernanza.
+Ingeniero de Software enfocado en Seguridad Ofensiva y Gobernanza.
 Uno la base técnica en desarrollo a la mentalidad de atacante para crear
 sistemas resilientes desde el código.
 
