@@ -173,19 +173,67 @@ Atalhos
 Todos com relatórios detalhados.
 <br>
 
-- [**MBA em Segurança da Informação**](https://github.com/douglascshun/PosSegurancaDaInformacao)<br>
-Repositório central de estudos, resumos técnicos e documentação prática.  
-Skills: Este repositório foi estruturado para consolidar o conhecimento adquirido ao longo do MBA, servindo como uma base de consulta rápida para aplicação no dia a dia profissional e revisões acadêmicas.
-<br>
+<div align="center">
 
-- [**TryHackMe Poster**](https://github.com/douglascshun/cybersec-portfolio/tree/main/Relatorios/relatorioPosterTHM#readme)<br>
-Exploração via PostgreSQL CVE-2019-9193 + priv esc sudo<br>
-Skills: Nmap, credential stuffing, sudo misconfig, PoC RCE.
-<br>
+<table>
+<tr>
+<td valign="top" width="50%">
 
-- [**HTB Meow**](https://github.com/douglascshun/cybersec-portfolio/tree/main/Relatorios/relatorioMeowHTB#readme)<br>
-Bypass root via Telnet + Alpine misconfig<br>
-Skills: Enumeração serviços, hard-coded creds, root direto.
+**[cybersec-portfolio](https://github.com/douglascshun/cybersec-portfolio)**<br/>
+<img src="https://img.shields.io/badge/Ofensiva-C7002E?style=flat-square" alt="ofensiva"/>
+
+<div align="center"><img src="https://64.media.tumblr.com/f444263be6597f8981d2b9cf3d0c7408/f74decdc69e61f0a-9a/s400x600/a157756e4c56be0e5e51a9e4c79ba781a451e94a.gifv" width="100%" height="2px" alt="divider" style="filter: brightness(0.8);"></div>
+
+Relatórios de pentest (**RabbitSec**) — comprometimento total por misconfig + credenciais padrão.
+
+<img src="https://img.shields.io/badge/Nmap-4682B4?style=flat-square&logo=nmap&logoColor=white"/> <img src="https://img.shields.io/badge/Metasploit-2596CD?style=flat-square&logo=metasploit&logoColor=white"/> <img src="https://img.shields.io/badge/PrivEsc-D71F00?style=flat-square"/>
+
+▸ **[TryHackMe Poster](https://github.com/douglascshun/cybersec-portfolio/tree/main/Relatorios/relatorioPosterTHM#readme)** — PostgreSQL `CVE-2019-9193` + sudo priv esc<br/>
+▸ **[HTB Meow](https://github.com/douglascshun/cybersec-portfolio/tree/main/Relatorios/relatorioMeowHTB#readme)** — Telnet + Alpine misconfig → root
+
+</td>
+<td valign="top" width="50%">
+
+**[automacao-linkedin](https://github.com/douglascshun/automacao-linkedin)**<br/>
+<img src="https://img.shields.io/badge/Automa%C3%A7%C3%A3o-2088FF?style=flat-square" alt="automacao"/>
+
+<div align="center"><img src="https://64.media.tumblr.com/f444263be6597f8981d2b9cf3d0c7408/f74decdc69e61f0a-9a/s400x600/a157756e4c56be0e5e51a9e4c79ba781a451e94a.gifv" width="100%" height="2px" alt="divider" style="filter: brightness(0.8);"></div>
+
+Automação autônoma de posts no LinkedIn — reescreve `.md` com IA (Gemini), gera capa e publica pela API oficial. 100% GitHub Actions.
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white"/> <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white"/>
+
+</td>
+</tr>
+<tr>
+<td valign="top" width="50%">
+
+**[ConfigDeLabP2P](https://github.com/douglascshun/ConfigDeLabP2P)**<br/>
+<img src="https://img.shields.io/badge/Infra_%26_DevOps-2E7D32?style=flat-square" alt="infra"/>
+
+<div align="center"><img src="https://64.media.tumblr.com/f444263be6597f8981d2b9cf3d0c7408/f74decdc69e61f0a-9a/s400x600/a157756e4c56be0e5e51a9e4c79ba781a451e94a.gifv" width="100%" height="2px" alt="divider" style="filter: brightness(0.8);"></div>
+
+Link Ponto-a-Ponto de altíssima velocidade: SSHFS persistente bidirecional + Deskflow, eliminando scp/sftp e senhas.
+
+<img src="https://img.shields.io/badge/SSH-000000?style=flat-square&logo=openssh&logoColor=white"/> <img src="https://img.shields.io/badge/SSHFS-1987F0?style=flat-square"/> <img src="https://img.shields.io/badge/Deskflow-512BD4?style=flat-square"/>
+
+</td>
+<td valign="top" width="50%">
+
+**[MBA em Segurança da Informação](https://github.com/douglascshun/PosSegurancaDaInformacao)**<br/>
+<img src="https://img.shields.io/badge/GRC_%26_Estudos-004B87?style=flat-square" alt="grc"/>
+
+<div align="center"><img src="https://64.media.tumblr.com/f444263be6597f8981d2b9cf3d0c7408/f74decdc69e61f0a-9a/s400x600/a157756e4c56be0e5e51a9e4c79ba781a451e94a.gifv" width="100%" height="2px" alt="divider" style="filter: brightness(0.8);"></div>
+
+Anotações do Pós-MBA: resumos, mapas mentais, normas, governança e gestão de riscos.
+
+<img src="https://img.shields.io/badge/ISO_27001-005571?style=flat-square"/> <img src="https://img.shields.io/badge/NIST-004B87?style=flat-square"/> <img src="https://img.shields.io/badge/LGPD-2E7D32?style=flat-square"/>
+
+</td>
+</tr>
+</table>
+
+</div>
 
 
 <br>
