@@ -175,63 +175,39 @@ Todos com relatórios detalhados.
 
 <div align="center">
 
-<table>
-<tr>
-<td valign="top" width="50%">
+<a href="https://github.com/douglascshun/cybersec-portfolio"><img src="https://img.shields.io/badge/Ofensiva-cybersec--portfolio-C7002E?style=for-the-badge&logo=github&logoColor=white" alt="cybersec-portfolio"/></a>
 
-**[cybersec-portfolio](https://github.com/douglascshun/cybersec-portfolio)**<br/>
-<img src="https://img.shields.io/badge/Ofensiva-C7002E?style=flat-square" alt="ofensiva"/>
+Relatórios de pentest (**RabbitSec**) — comprometimento total de um sistema por misconfig e credenciais padrão.
 
-<div align="center"><img src="https://64.media.tumblr.com/f444263be6597f8981d2b9cf3d0c7408/f74decdc69e61f0a-9a/s400x600/a157756e4c56be0e5e51a9e4c79ba781a451e94a.gifv" width="100%" height="2px" alt="divider" style="filter: brightness(0.8);"></div>
+<img src="https://img.shields.io/badge/Nmap-4682B4?style=flat-square&logo=nmap&logoColor=white"/> <img src="https://img.shields.io/badge/Metasploit-2596CD?style=flat-square&logo=metasploit&logoColor=white"/> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/PrivEsc-D71F00?style=flat-square"/>
 
-Relatórios de pentest (**RabbitSec**) — comprometimento total por misconfig + credenciais padrão.
+<a href="https://github.com/douglascshun/cybersec-portfolio/tree/main/Relatorios/relatorioPosterTHM#readme"><img src="https://img.shields.io/badge/TryHackMe-Poster-C7002E?style=for-the-badge&logo=tryhackme&logoColor=white" alt="THM Poster"/></a> &nbsp; <a href="https://github.com/douglascshun/cybersec-portfolio/tree/main/Relatorios/relatorioMeowHTB#readme"><img src="https://img.shields.io/badge/Hack%20The%20Box-Meow-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black" alt="HTB Meow"/></a>
 
-<img src="https://img.shields.io/badge/Nmap-4682B4?style=flat-square&logo=nmap&logoColor=white"/> <img src="https://img.shields.io/badge/Metasploit-2596CD?style=flat-square&logo=metasploit&logoColor=white"/> <img src="https://img.shields.io/badge/PrivEsc-D71F00?style=flat-square"/>
+<sub><b>Poster</b> · PostgreSQL <code>CVE-2019-9193</code> + priv esc via sudo &nbsp;—&nbsp; <b>Meow</b> · Telnet + Alpine misconfig → root</sub>
 
-▸ **[TryHackMe Poster](https://github.com/douglascshun/cybersec-portfolio/tree/main/Relatorios/relatorioPosterTHM#readme)** — PostgreSQL `CVE-2019-9193` + sudo priv esc<br/>
-▸ **[HTB Meow](https://github.com/douglascshun/cybersec-portfolio/tree/main/Relatorios/relatorioMeowHTB#readme)** — Telnet + Alpine misconfig → root
+<img src="https://64.media.tumblr.com/f444263be6597f8981d2b9cf3d0c7408/f74decdc69e61f0a-9a/s400x600/a157756e4c56be0e5e51a9e4c79ba781a451e94a.gifv" width="100%" height="2px" alt="divider" style="filter: brightness(0.8);">
 
-</td>
-<td valign="top" width="50%">
+<a href="https://github.com/douglascshun/automacao-linkedin"><img src="https://img.shields.io/badge/Automa%C3%A7%C3%A3o-automacao--linkedin-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="automacao-linkedin"/></a>
 
-**[automacao-linkedin](https://github.com/douglascshun/automacao-linkedin)**<br/>
-<img src="https://img.shields.io/badge/Automa%C3%A7%C3%A3o-2088FF?style=flat-square" alt="automacao"/>
+Automação autônoma de posts no LinkedIn — reescreve `.md` com IA (Gemini), gera capa por IA e publica pela API oficial. 100% GitHub Actions.
 
-<div align="center"><img src="https://64.media.tumblr.com/f444263be6597f8981d2b9cf3d0c7408/f74decdc69e61f0a-9a/s400x600/a157756e4c56be0e5e51a9e4c79ba781a451e94a.gifv" width="100%" height="2px" alt="divider" style="filter: brightness(0.8);"></div>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white"/> <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white"/> <img src="https://img.shields.io/badge/LinkedIn_API-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
 
-Automação autônoma de posts no LinkedIn — reescreve `.md` com IA (Gemini), gera capa e publica pela API oficial. 100% GitHub Actions.
+<img src="https://64.media.tumblr.com/f444263be6597f8981d2b9cf3d0c7408/f74decdc69e61f0a-9a/s400x600/a157756e4c56be0e5e51a9e4c79ba781a451e94a.gifv" width="100%" height="2px" alt="divider" style="filter: brightness(0.8);">
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white"/> <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white"/>
-
-</td>
-</tr>
-<tr>
-<td valign="top" width="50%">
-
-**[ConfigDeLabP2P](https://github.com/douglascshun/ConfigDeLabP2P)**<br/>
-<img src="https://img.shields.io/badge/Infra_%26_DevOps-2E7D32?style=flat-square" alt="infra"/>
-
-<div align="center"><img src="https://64.media.tumblr.com/f444263be6597f8981d2b9cf3d0c7408/f74decdc69e61f0a-9a/s400x600/a157756e4c56be0e5e51a9e4c79ba781a451e94a.gifv" width="100%" height="2px" alt="divider" style="filter: brightness(0.8);"></div>
+<a href="https://github.com/douglascshun/ConfigDeLabP2P"><img src="https://img.shields.io/badge/Infraestrutura-ConfigDeLabP2P-2E7D32?style=for-the-badge&logo=linux&logoColor=white" alt="ConfigDeLabP2P"/></a>
 
 Link Ponto-a-Ponto de altíssima velocidade: SSHFS persistente bidirecional + Deskflow, eliminando scp/sftp e senhas.
 
 <img src="https://img.shields.io/badge/SSH-000000?style=flat-square&logo=openssh&logoColor=white"/> <img src="https://img.shields.io/badge/SSHFS-1987F0?style=flat-square"/> <img src="https://img.shields.io/badge/Deskflow-512BD4?style=flat-square"/>
 
-</td>
-<td valign="top" width="50%">
+<img src="https://64.media.tumblr.com/f444263be6597f8981d2b9cf3d0c7408/f74decdc69e61f0a-9a/s400x600/a157756e4c56be0e5e51a9e4c79ba781a451e94a.gifv" width="100%" height="2px" alt="divider" style="filter: brightness(0.8);">
 
-**[MBA em Segurança da Informação](https://github.com/douglascshun/PosSegurancaDaInformacao)**<br/>
-<img src="https://img.shields.io/badge/GRC_%26_Estudos-004B87?style=flat-square" alt="grc"/>
+<a href="https://github.com/douglascshun/PosSegurancaDaInformacao"><img src="https://img.shields.io/badge/GRC-PosSegurancaDaInformacao-004B87?style=for-the-badge&logo=bookstack&logoColor=white" alt="PosSegurancaDaInformacao"/></a>
 
-<div align="center"><img src="https://64.media.tumblr.com/f444263be6597f8981d2b9cf3d0c7408/f74decdc69e61f0a-9a/s400x600/a157756e4c56be0e5e51a9e4c79ba781a451e94a.gifv" width="100%" height="2px" alt="divider" style="filter: brightness(0.8);"></div>
-
-Anotações do Pós-MBA: resumos, mapas mentais, normas, governança e gestão de riscos.
+Anotações do Pós-MBA em Segurança da Informação — resumos, mapas mentais, normas, governança e gestão de riscos.
 
 <img src="https://img.shields.io/badge/ISO_27001-005571?style=flat-square"/> <img src="https://img.shields.io/badge/NIST-004B87?style=flat-square"/> <img src="https://img.shields.io/badge/LGPD-2E7D32?style=flat-square"/>
-
-</td>
-</tr>
-</table>
 
 </div>
 
