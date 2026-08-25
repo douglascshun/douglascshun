@@ -5,9 +5,14 @@ name: Gera SVGs do perfil
 # um do outro a cada rodada. Todo SVG novo do perfil entra AQUI, no mesmo dist/.
 
 on:
-  # Atualiza a cada 12 horas
+  # De hora em hora. Nao eram 12h herdadas do snake.yml: a cobrinha muda pouco,
+  # mas o contador de contribuicoes sobe o dia inteiro e ficava meio dia parado.
+  # Cada rodada leva ~22s e o repo e publico (minutos ilimitados). O commit do
+  # deploy e do github-actions[bot], numa branch que nao e a default, entao nao
+  # entra no grafico de contribuicoes.
+  # O agendamento do Actions e best-effort: pode atrasar em horario de pico.
   schedule:
-    - cron: "0 */12 * * *"
+    - cron: "0 * * * *"
   # Permite rodar manualmente pela aba Actions
   workflow_dispatch:
   # Roda também a cada push na main
