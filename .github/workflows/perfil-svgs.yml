@@ -1,0 +1,67 @@
+name: Gera SVGs do perfil
+
+# Um workflow SÓ, de propósito: o passo de publicação substitui o conteúdo
+# inteiro da branch `output`. Dois workflows publicando lá apagariam os SVGs
+# um do outro a cada rodada. Todo SVG novo do perfil entra AQUI, no mesmo dist/.
+
+on:
+  # Atualiza a cada 12 horas
+  schedule:
+    - cron: "0 */12 * * *"
+  # Permite rodar manualmente pela aba Actions
+  workflow_dispatch:
+  # Roda também a cada push na main
+  push:
+    branches:
+      - main
+
+jobs:
+  generate:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Testa o gerador do grafico de atividade
+        run: node --test scripts/*.test.mjs
+
+      - name: Gera a cobrinha a partir do grid de contribuicoes
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - name: Gera o grafico de atividade
+        env:
+          GH_TOKEN: ${{ secrets.ACTIVITY_GRAPH_TOKEN || secrets.GITHUB_TOKEN }}
+          GH_USER: ${{ github.repository_owner }}
+          SAIDA: dist/activity-graph.svg
+        run: node scripts/activity-graph.mjs
+
+      # Sem `continue-on-error` em nenhum passo acima: publicar um dist/ parcial
+      # apagaria os SVGs que nao foram gerados nesta rodada.
+      - name: Confere que os 3 SVGs existem antes de publicar
+        run: |
+          set -euo pipefail
+          for f in dist/github-contribution-grid-snake.svg \
+                   dist/github-contribution-grid-snake-dark.svg \
+                   dist/activity-graph.svg; do
+            test -s "$f" || { echo "FALTOU: $f"; exit 1; }
+            echo "ok $(wc -c < "$f") bytes  $f"
+          done
+
+      - name: Publica os SVGs na branch output
+        uses: crazy-max/ghaction-github-pages@v4.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

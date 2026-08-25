@@ -70,7 +70,7 @@ Atalhos
 </td>
 <td valign="center" width="15%">
 
-<img src="https://media.licdn.com/dms/image/v2/D4D03AQFno00lljGrHA/profile-displayphoto-scale_400_400/B4DZ8KbsgqJ4Ag-/0/1782586460884?e=1784160000&v=beta&t=HadMpHv4oKrzdomO_-2oytcUcQTCkJ0RLOx2kUb33d4"/></a>
+<img src="assets/perfil.jpg" alt="Douglas Cshunderlick" width="100%"/></a>
 
 </td>
 </tr>
@@ -200,7 +200,7 @@ Skills: Enumeração serviços, hard-coded creds, root direto.
 ## Contibuições
 <a id="contribuicoes"></a>
 
-<p align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=douglascshun&bg_color=000000&color=1987F0&line=ffffff&point=ffffff&area=true&hide_border=true&v=3"/></p>
+<p align="center"><img src="https://raw.githubusercontent.com/douglascshun/douglascshun/output/activity-graph.svg" alt="Gráfico de contribuições dos últimos 31 dias" width="100%"/></p>
 
 
 
