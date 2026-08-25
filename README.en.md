@@ -61,7 +61,7 @@ Shortcuts
 <a href="#projetos"><img src="https://img.shields.io/badge/▸_PROJECTS-1987F0?style=for-the-badge" alt="Projetos"/></a>
 <a href="#contribuicoes"><img src="https://img.shields.io/badge/▸_CONTRIBUTIONS-000000?style=for-the-badge" alt="contribuicoes"/></a>
 <a href="#certificacoes"><img src="https://img.shields.io/badge/▸_CERTIFICATIONS-1987F0?style=for-the-badge" alt="certificacoes"/></a>
-<a href="#formacao"><img src="https://img.shields.io/badge/▸_EDUCATION-000000?style=for-the-badge" alt="formacao"/>
+<a href="#formacao"><img src="https://img.shields.io/badge/▸_EDUCATION-000000?style=for-the-badge" alt="formacao"/></a>
 <a href="#jornada"><img src="https://img.shields.io/badge/▸_JOURNEY-1987F0?style=for-the-badge" alt="jornada"/></a>
 <a href="#contato"><img src="https://img.shields.io/badge/▸_CONTACT-000000?style=for-the-badge" alt="contato"/></a>
 
@@ -70,7 +70,7 @@ Shortcuts
 </td>
 <td valign="center" width="15%">
 
-<img src="https://media.licdn.com/dms/image/v2/D4D03AQFno00lljGrHA/profile-displayphoto-scale_400_400/B4DZ8KbsgqJ4Ag-/0/1782586460884?e=1784160000&v=beta&t=HadMpHv4oKrzdomO_-2oytcUcQTCkJ0RLOx2kUb33d4"/></a>
+<img src="assets/perfil.jpg" alt="Douglas Cshunderlick" width="100%"/>
 
 </td>
 </tr>
@@ -200,7 +200,7 @@ Skills: Service enumeration, hard-coded creds, direct root.
 ## Contributions
 <a id="contribuicoes"></a>
 
-<p align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=douglascshun&bg_color=000000&color=1987F0&line=ffffff&point=ffffff&area=true&hide_border=true&v=2"/></p>
+<p align="center"><img src="https://raw.githubusercontent.com/douglascshun/douglascshun/output/activity-graph.svg" alt="Contribution graph of the last 31 days" width="100%"/></p>
 
 
 

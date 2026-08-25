@@ -61,7 +61,7 @@ Atalhos
 <a href="#projetos"><img src="https://img.shields.io/badge/▸_PROJETOS-1987F0?style=for-the-badge" alt="Projetos"/></a>
 <a href="#contribuicoes"><img src="https://img.shields.io/badge/▸_Contribuíções-000000?style=for-the-badge" alt="contribuicoes"/></a>
 <a href="#certificacoes"><img src="https://img.shields.io/badge/▸_CERTIFICAÇÕES-1987F0?style=for-the-badge" alt="certificacoes"/></a>
-<a href="#formacao"><img src="https://img.shields.io/badge/▸_FORMAÇÃO-000000?style=for-the-badge" alt="formacao"/>
+<a href="#formacao"><img src="https://img.shields.io/badge/▸_FORMAÇÃO-000000?style=for-the-badge" alt="formacao"/></a>
 <a href="#jornada"><img src="https://img.shields.io/badge/▸_JORNADA-1987F0?style=for-the-badge" alt="jornada"/></a>
 <a href="#contato"><img src="https://img.shields.io/badge/▸_CONTATO-000000?style=for-the-badge" alt="contato"/></a>
 
@@ -70,7 +70,7 @@ Atalhos
 </td>
 <td valign="center" width="15%">
 
-<img src="assets/perfil.jpg" alt="Douglas Cshunderlick" width="100%"/></a>
+<img src="assets/perfil.jpg" alt="Douglas Cshunderlick" width="100%"/>
 
 </td>
 </tr>

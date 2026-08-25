@@ -1,0 +1,28 @@
+name: Checa links do README
+
+# Separado do perfil-svgs.yml de proposito: la ele rodaria ANTES da publicacao
+# e um link quebrado impediria a atualizacao do grafico. Aqui so verifica.
+
+on:
+  push:
+    branches: [main]
+    paths: ["README*.md", "assets/**", "scripts/checa-readme.mjs"]
+  pull_request:
+    paths: ["README*.md", "assets/**", "scripts/checa-readme.mjs"]
+  workflow_dispatch:
+
+jobs:
+  checa:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      # Sem --externo: LinkedIn e TryHackMe respondem 999/429 a bots e
+      # deixariam o check vermelho por motivo errado. Rode local quando quiser
+      # conferir as URLs: node scripts/checa-readme.mjs --externo
+      - name: Verifica ancoras, links e imagens dos 3 READMEs
+        run: node scripts/checa-readme.mjs
