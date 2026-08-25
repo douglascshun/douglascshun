@@ -10,9 +10,12 @@ on:
   # Cada rodada leva ~22s e o repo e publico (minutos ilimitados). O commit do
   # deploy e do github-actions[bot], numa branch que nao e a default, entao nao
   # entra no grafico de contribuicoes.
-  # O agendamento do Actions e best-effort: pode atrasar em horario de pico.
+  # Minuto 23, NAO 0: as 7 rodadas agendadas do snake.yml (todas no minuto 0)
+  # atrasaram de 27 a 59 min — a hora cheia e onde todo mundo agenda. Com 59
+  # de atraso num ciclo de 60 os ticks se encavalam, e o GitHub DESCARTA o
+  # agendamento quando ja ha rodada pendente do mesmo workflow.
   schedule:
-    - cron: "0 * * * *"
+    - cron: "23 * * * *"
   # Permite rodar manualmente pela aba Actions
   workflow_dispatch:
   # Roda também a cada push na main
