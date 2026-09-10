@@ -1,6 +1,6 @@
 import test from 'node:test'
 import assert from 'node:assert/strict'
-import { buildSeries, renderSVG, PLOT } from './activity-graph.mjs'
+import { buildSeries, renderSVG, PLOT, hojeEm } from './activity-graph.mjs'
 
 /** Calendário sintético no formato que a GraphQL devolve. */
 const calendario = (pares) => ({
@@ -66,4 +66,26 @@ test('descarta os dias futuros da semana corrente', () => {
   assert.equal(s.at(-1).date, hoje, 'deixou dia futuro entrar na série')
   assert.equal(s.at(-1).count, 32)
   assert.equal(s.length, 31)
+})
+
+test('hojeEm: o corte do dia segue Brasília, não UTC', () => {
+  // 00:23 UTC de 11/09 ainda é 21:23 de 10/09 em Brasília. Sem isso, as rodadas
+  // agendadas entre 21h e 00h BRT deixam entrar um dia que nem começou aqui —
+  // e ele chega zerado, derrubando o fim do gráfico três horas por noite.
+  assert.equal(hojeEm(new Date('2026-09-11T00:23:00Z')), '2026-09-10')
+  assert.equal(hojeEm(new Date('2026-09-11T02:23:00Z')), '2026-09-10')
+  // 03:23 UTC já é 00:23 do dia seguinte em Brasília: aí sim vira.
+  assert.equal(hojeEm(new Date('2026-09-11T03:23:00Z')), '2026-09-11')
+  // Meio da tarde: UTC e BRT concordam.
+  assert.equal(hojeEm(new Date('2026-09-10T19:33:00Z')), '2026-09-10')
+})
+
+test('hojeEm: o dia virado em UTC não encurta a série nem zera o fim', () => {
+  const dias = diasSeq(40, (i) => i + 1)
+  const ate = hojeEm(new Date('2026-09-11T00:23:00Z'))
+  // a API devolve a semana inteira, com o dia seguinte já presente e zerado
+  const comFuturo = [...dias, ['2026-09-10', 7], ['2026-09-11', 0]]
+  const s = buildSeries(calendario(comFuturo), 31, ate)
+  assert.equal(s.at(-1).date, '2026-09-10', 'deixou o dia UTC-adiantado entrar')
+  assert.equal(s.at(-1).count, 7, 'o fim do gráfico foi zerado pelo dia que não começou')
 })
