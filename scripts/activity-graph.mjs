@@ -19,6 +19,18 @@ const esc = (s) =>
 const r = (n) => Math.round(n * 100) / 100
 
 /**
+ * O dia de hoje em Brasília, no formato YYYY-MM-DD.
+ *
+ * O runner do Actions roda em UTC, e `toISOString()` viraria o dia às 21h BRT —
+ * três das rodadas de hora em hora (00:23, 01:23 e 02:23 UTC) passariam a pedir
+ * um dia que aqui nem começou. Ele volta zerado da API e derrubaria o fim do
+ * gráfico toda noite. `en-CA` já formata como YYYY-MM-DD.
+ */
+export const FUSO = 'America/Sao_Paulo'
+export const hojeEm = (agora = new Date(), fuso = FUSO) =>
+  new Intl.DateTimeFormat('en-CA', { timeZone: fuso, year: 'numeric', month: '2-digit', day: '2-digit' }).format(agora)
+
+/**
  * Achata as semanas da GraphQL nos últimos `dias` dias.
  * `ate` (YYYY-MM-DD) descarta o resto da semana corrente, que a API devolve
  * completa e zerada — sem isso o gráfico despenca no fim toda semana.
@@ -174,7 +186,7 @@ if (import.meta.url === `file://${process.argv[1]}`) {
   if (!token) throw new Error('GH_TOKEN ausente')
 
   const cal = await buscarCalendario(login, token, dias)
-  const serie = buildSeries(cal, dias, new Date().toISOString().slice(0, 10))
+  const serie = buildSeries(cal, dias, hojeEm())
   if (serie.length === 0) throw new Error('Série vazia — a API não devolveu dias')
 
   const svg = renderSVG(serie, {
