@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="400" viewBox="0 0 1000 400" role="img" aria-label="Gráfico de contribuições de douglascshun: 741 nos últimos 31 dias">
+  <style>
+    .titulo { font: 600 22px 'Segoe UI', Ubuntu, Helvetica, sans-serif; fill: #ffffff; }
+    .sub    { font: 400 13px 'Segoe UI', Ubuntu, Helvetica, sans-serif; fill: #1987F0; }
+    .eixo   { font: 400 12px 'Segoe UI', Ubuntu, Helvetica, sans-serif; fill: #ffffff; fill-opacity: 0.55; }
+  </style>
+  <defs>
+    <linearGradient id="preenchimento" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#1987F0" stop-opacity="0.7"/>
+      <stop offset="100%" stop-color="#1987F0" stop-opacity="0.06"/>
+    </linearGradient>
+  </defs>
+  <rect width="1000" height="400" fill="#000000"/>
+  <text x="50" y="52" class="titulo">Contribuições</text>
+  <text x="50" y="72" class="sub">douglascshun · 741 nos últimos 31 dias</text>
+  <g>
+    <line x1="62" y1="344" x2="974" y2="344" stroke="#ffffff" stroke-opacity="0.09"/>
+    <text x="50" y="348.5" text-anchor="end" class="eixo">0</text>
+    <line x1="62" y1="282" x2="974" y2="282" stroke="#ffffff" stroke-opacity="0.09"/>
+    <text x="50" y="286.5" text-anchor="end" class="eixo">19</text>
+    <line x1="62" y1="220" x2="974" y2="220" stroke="#ffffff" stroke-opacity="0.09"/>
+    <text x="50" y="224.5" text-anchor="end" class="eixo">38</text>
+    <line x1="62" y1="158" x2="974" y2="158" stroke="#ffffff" stroke-opacity="0.09"/>
+    <text x="50" y="162.5" text-anchor="end" class="eixo">56</text>
+    <line x1="62" y1="96" x2="974" y2="96" stroke="#ffffff" stroke-opacity="0.09"/>
+    <text x="50" y="100.5" text-anchor="end" class="eixo">75</text>
+  </g>
+  <path d="M 62,221.65 C 72.13,215.04 82.27,219.45 92.4,201.81 C 102.53,184.18 112.67,115.84 122.8,115.84 C 132.93,115.84 143.07,344 153.2,344 C 163.33,344 173.47,344 183.6,304.32 C 193.73,264.64 203.87,96 214,96 C 224.13,96 234.27,314.24 244.4,324.16 C 254.53,334.08 264.67,334.08 274.8,334.08 C 284.93,334.08 295.07,301.01 305.2,301.01 C 315.33,301.01 325.47,344 335.6,344 C 345.73,344 355.87,344 366,344 C 376.13,344 386.27,109.23 396.4,109.23 C 406.53,109.23 416.67,191.89 426.8,191.89 C 436.93,191.89 447.07,185.28 457.2,185.28 C 467.33,185.28 477.47,185.28 487.6,205.12 C 497.73,224.96 507.87,344 518,344 C 528.13,344 538.27,344 548.4,327.47 C 558.53,310.93 568.67,211.73 578.8,211.73 C 588.93,211.73 599.07,344 609.2,344 C 619.33,344 629.47,148.91 639.6,148.91 C 649.73,148.91 659.87,310.93 670,327.47 C 680.13,344 690.27,344 700.4,344 C 710.53,344 720.67,344 730.8,344 C 740.93,344 751.07,344 761.2,344 C 771.33,344 781.47,344 791.6,344 C 801.73,344 811.87,228.27 822,228.27 C 832.13,228.27 842.27,281.17 852.4,281.17 C 862.53,281.17 872.67,265.19 882.8,254.72 C 892.93,244.25 903.07,218.35 913.2,218.35 C 923.33,218.35 933.47,218.35 943.6,221.65 C 953.73,224.96 963.87,278.97 974,307.63 L 974,344 L 62,344 Z" fill="url(#preenchimento)"/>
+  <path d="M 62,221.65 C 72.13,215.04 82.27,219.45 92.4,201.81 C 102.53,184.18 112.67,115.84 122.8,115.84 C 132.93,115.84 143.07,344 153.2,344 C 163.33,344 173.47,344 183.6,304.32 C 193.73,264.64 203.87,96 214,96 C 224.13,96 234.27,314.24 244.4,324.16 C 254.53,334.08 264.67,334.08 274.8,334.08 C 284.93,334.08 295.07,301.01 305.2,301.01 C 315.33,301.01 325.47,344 335.6,344 C 345.73,344 355.87,344 366,344 C 376.13,344 386.27,109.23 396.4,109.23 C 406.53,109.23 416.67,191.89 426.8,191.89 C 436.93,191.89 447.07,185.28 457.2,185.28 C 467.33,185.28 477.47,185.28 487.6,205.12 C 497.73,224.96 507.87,344 518,344 C 528.13,344 538.27,344 548.4,327.47 C 558.53,310.93 568.67,211.73 578.8,211.73 C 588.93,211.73 599.07,344 609.2,344 C 619.33,344 629.47,148.91 639.6,148.91 C 649.73,148.91 659.87,310.93 670,327.47 C 680.13,344 690.27,344 700.4,344 C 710.53,344 720.67,344 730.8,344 C 740.93,344 751.07,344 761.2,344 C 771.33,344 781.47,344 791.6,344 C 801.73,344 811.87,228.27 822,228.27 C 832.13,228.27 842.27,281.17 852.4,281.17 C 862.53,281.17 872.67,265.19 882.8,254.72 C 892.93,244.25 903.07,218.35 913.2,218.35 C 923.33,218.35 933.47,218.35 943.6,221.65 C 953.73,224.96 963.87,278.97 974,307.63" fill="none" stroke="#ffffff" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+  <g>
+    <circle cx="62" cy="221.65" r="3.2" fill="#ffffff"><title>2026-08-13: 37</title></circle>
+    <circle cx="92.4" cy="201.81" r="3.2" fill="#ffffff"><title>2026-08-14: 43</title></circle>
+    <circle cx="122.8" cy="115.84" r="3.2" fill="#ffffff"><title>2026-08-15: 69</title></circle>
+    <circle cx="153.2" cy="344" r="3.2" fill="#ffffff"><title>2026-08-16: 0</title></circle>
+    <circle cx="183.6" cy="304.32" r="3.2" fill="#ffffff"><title>2026-08-17: 12</title></circle>
+    <circle cx="214" cy="96" r="3.2" fill="#ffffff"><title>2026-08-18: 75</title></circle>
+    <circle cx="244.4" cy="324.16" r="3.2" fill="#ffffff"><title>2026-08-19: 6</title></circle>
+    <circle cx="274.8" cy="334.08" r="3.2" fill="#ffffff"><title>2026-08-20: 3</title></circle>
+    <circle cx="305.2" cy="301.01" r="3.2" fill="#ffffff"><title>2026-08-21: 13</title></circle>
+    <circle cx="335.6" cy="344" r="3.2" fill="#ffffff"><title>2026-08-22: 0</title></circle>
+    <circle cx="366" cy="344" r="3.2" fill="#ffffff"><title>2026-08-23: 0</title></circle>
+    <circle cx="396.4" cy="109.23" r="3.2" fill="#ffffff"><title>2026-08-24: 71</title></circle>
+    <circle cx="426.8" cy="191.89" r="3.2" fill="#ffffff"><title>2026-08-25: 46</title></circle>
+    <circle cx="457.2" cy="185.28" r="3.2" fill="#ffffff"><title>2026-08-26: 48</title></circle>
+    <circle cx="487.6" cy="205.12" r="3.2" fill="#ffffff"><title>2026-08-27: 42</title></circle>
+    <circle cx="518" cy="344" r="3.2" fill="#ffffff"><title>2026-08-28: 0</title></circle>
+    <circle cx="548.4" cy="327.47" r="3.2" fill="#ffffff"><title>2026-08-29: 5</title></circle>
+    <circle cx="578.8" cy="211.73" r="3.2" fill="#ffffff"><title>2026-08-30: 40</title></circle>
+    <circle cx="609.2" cy="344" r="3.2" fill="#ffffff"><title>2026-08-31: 0</title></circle>
+    <circle cx="639.6" cy="148.91" r="3.2" fill="#ffffff"><title>2026-09-01: 59</title></circle>
+    <circle cx="670" cy="327.47" r="3.2" fill="#ffffff"><title>2026-09-02: 5</title></circle>
+    <circle cx="700.4" cy="344" r="3.2" fill="#ffffff"><title>2026-09-03: 0</title></circle>
+    <circle cx="730.8" cy="344" r="3.2" fill="#ffffff"><title>2026-09-04: 0</title></circle>
+    <circle cx="761.2" cy="344" r="3.2" fill="#ffffff"><title>2026-09-05: 0</title></circle>
+    <circle cx="791.6" cy="344" r="3.2" fill="#ffffff"><title>2026-09-06: 0</title></circle>
+    <circle cx="822" cy="228.27" r="3.2" fill="#ffffff"><title>2026-09-07: 35</title></circle>
+    <circle cx="852.4" cy="281.17" r="3.2" fill="#ffffff"><title>2026-09-08: 19</title></circle>
+    <circle cx="882.8" cy="254.72" r="3.2" fill="#ffffff"><title>2026-09-09: 27</title></circle>
+    <circle cx="913.2" cy="218.35" r="3.2" fill="#ffffff"><title>2026-09-10: 38</title></circle>
+    <circle cx="943.6" cy="221.65" r="3.2" fill="#ffffff"><title>2026-09-11: 37</title></circle>
+    <circle cx="974" cy="307.63" r="3.2" fill="#ffffff"><title>2026-09-12: 11</title></circle>
+  </g>
+  <g>
+    <text x="62" y="374" text-anchor="middle" class="eixo">13 ago</text>
+    <text x="244.4" y="374" text-anchor="middle" class="eixo">19 ago</text>
+    <text x="426.8" y="374" text-anchor="middle" class="eixo">25 ago</text>
+    <text x="609.2" y="374" text-anchor="middle" class="eixo">31 ago</text>
+    <text x="791.6" y="374" text-anchor="middle" class="eixo">6 set</text>
+    <text x="974" y="374" text-anchor="middle" class="eixo">12 set</text>
+  </g>
+</svg>
