@@ -89,3 +89,29 @@ test('hojeEm: o dia virado em UTC não encurta a série nem zera o fim', () => {
   assert.equal(s.at(-1).date, '2026-09-10', 'deixou o dia UTC-adiantado entrar')
   assert.equal(s.at(-1).count, 7, 'o fim do gráfico foi zerado pelo dia que não começou')
 })
+
+test('dia parcial: o trecho até o último ponto é tracejado e o ponto é vazado', () => {
+  const s = buildSeries(calendario(diasSeq(31, (i) => (i === 30 ? 0 : 40))), 31)
+  const svg = renderSVG(s, { username: 'x', bg: '#000000', parcial: true })
+  const tracejados = svg.match(/<path[^>]*stroke-dasharray/g) || []
+  assert.equal(tracejados.length, 1, 'esperava um único trecho tracejado')
+  assert.equal((svg.match(/<circle/g) || []).length, 31, 'o dia parcial não pode sumir')
+  const ultimo = [...svg.matchAll(/<circle[^>]*>/g)].at(-1)[0]
+  assert.ok(ultimo.includes('fill="#000000"') && ultimo.includes('stroke='), 'último ponto deveria ser vazado')
+  // a linha cheia para no penúltimo ponto: um trecho C a menos que a curva inteira
+  const cheia = svg.match(/<path d="(M[^"]*)" fill="none" stroke="#ffffff" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/)[1]
+  assert.equal((cheia.match(/ C /g) || []).length, 29)
+  assert.ok(!svg.includes('NaN'))
+})
+
+test('sem parcial o gráfico sai como antes: nada tracejado, pontos cheios', () => {
+  const svg = renderSVG(buildSeries(calendario(diasSeq(31)), 31), { username: 'x' })
+  assert.ok(!svg.includes('stroke-dasharray'))
+  assert.ok(!svg.includes('em andamento'))
+})
+
+test('dia parcial com um único dia não quebra', () => {
+  const svg = renderSVG(buildSeries(calendario(diasSeq(1, () => 3)), 31), { username: 'x', parcial: true })
+  assert.ok(!svg.includes('NaN'))
+  assert.ok(!svg.includes('stroke-dasharray'))
+})

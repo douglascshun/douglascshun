@@ -68,16 +68,19 @@ function tangentesMonotonas(xs, ys) {
   return m
 }
 
-function caminhoSuave(pts) {
+/** Um trecho de Bézier por intervalo; as tangentes saem da série inteira. */
+function trechosSuaves(pts) {
   const xs = pts.map((p) => p.x), ys = pts.map((p) => p.y)
   const m = tangentesMonotonas(xs, ys)
-  let d = `M ${r(xs[0])},${r(ys[0])}`
+  const trechos = []
   for (let i = 0; i < pts.length - 1; i++) {
     const h = (xs[i + 1] - xs[i]) / 3
-    d += ` C ${r(xs[i] + h)},${r(ys[i] + m[i] * h)} ${r(xs[i + 1] - h)},${r(ys[i + 1] - m[i + 1] * h)} ${r(xs[i + 1])},${r(ys[i + 1])}`
+    trechos.push(` C ${r(xs[i] + h)},${r(ys[i] + m[i] * h)} ${r(xs[i + 1] - h)},${r(ys[i + 1] - m[i + 1] * h)} ${r(xs[i + 1])},${r(ys[i + 1])}`)
   }
-  return d
+  return trechos
 }
+
+const inicio = (p) => `M ${r(p.x)},${r(p.y)}`
 
 const rotuloData = (iso) => {
   const [, mes, dia] = iso.split('-')
@@ -88,6 +91,10 @@ export function renderSVG(serie, opts = {}) {
   const {
     username = '', bg = '#000000', color = '#1987F0',
     line = '#ffffff', point = '#ffffff', titulo = 'Contribuições',
+    // O último dia ainda está acontecendo: os commits só contam quando chegam
+    // na main, e até o merge ele fica perto de zero. Desenhado igual aos outros,
+    // o gráfico termina num penhasco que lê como "parou de trabalhar".
+    parcial = false,
   } = opts
 
   const { width, height, left, right, top, baseline } = PLOT
@@ -99,7 +106,12 @@ export function renderSVG(serie, opts = {}) {
   const xDe = (i) => (n === 1 ? left : left + (i * (width - left - right)) / (n - 1))
 
   const pts = serie.map((d, i) => ({ x: xDe(i), y: yDe(d.count), ...d }))
-  const curva = caminhoSuave(pts)
+  const trechos = trechosSuaves(pts)
+  const curva = inicio(pts[0]) + trechos.join('')
+  // Com o último dia parcial, o trecho que chega nele vira tracejado à parte
+  const tracejar = parcial && n > 1
+  const linhaCheia = tracejar ? inicio(pts[0]) + trechos.slice(0, -1).join('') : curva
+  const linhaParcial = tracejar ? inicio(pts[n - 2]) + trechos.at(-1) : ''
   const area = `${curva} L ${r(pts.at(-1).x)},${baseline} L ${r(pts[0].x)},${baseline} Z`
 
   const NIVEIS = 4
@@ -118,7 +130,10 @@ export function renderSVG(serie, opts = {}) {
     .join('\n    ')
 
   const bolinhas = pts
-    .map((p) => `<circle cx="${r(p.x)}" cy="${r(p.y)}" r="3.2" fill="${point}"><title>${esc(p.date)}: ${p.count}</title></circle>`)
+    .map((p, i) =>
+      tracejar && i === n - 1
+        ? `<circle cx="${r(p.x)}" cy="${r(p.y)}" r="3.2" fill="${bg}" stroke="${point}" stroke-width="1.6"><title>${esc(p.date)}: ${p.count} (dia em andamento)</title></circle>`
+        : `<circle cx="${r(p.x)}" cy="${r(p.y)}" r="3.2" fill="${point}"><title>${esc(p.date)}: ${p.count}</title></circle>`)
     .join('\n    ')
 
   const total = serie.reduce((s, d) => s + d.count, 0)
@@ -142,7 +157,8 @@ export function renderSVG(serie, opts = {}) {
     ${grade}
   </g>
   <path d="${area}" fill="url(#preenchimento)"/>
-  <path d="${curva}" fill="none" stroke="${line}" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="${linhaCheia}" fill="none" stroke="${line}" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>${tracejar ? `
+  <path d="${linhaParcial}" fill="none" stroke="${line}" stroke-width="2.4" stroke-linecap="round" stroke-dasharray="3 6"/>` : ''}
   <g>
     ${bolinhas}
   </g>
@@ -185,8 +201,9 @@ if (import.meta.url === `file://${process.argv[1]}`) {
   const dias = Number(process.env.DIAS || 31)
   if (!token) throw new Error('GH_TOKEN ausente')
 
+  const hoje = hojeEm()
   const cal = await buscarCalendario(login, token, dias)
-  const serie = buildSeries(cal, dias, hojeEm())
+  const serie = buildSeries(cal, dias, hoje)
   if (serie.length === 0) throw new Error('Série vazia — a API não devolveu dias')
 
   const svg = renderSVG(serie, {
@@ -195,6 +212,7 @@ if (import.meta.url === `file://${process.argv[1]}`) {
     color: process.env.COR || '#1987F0',
     line: process.env.LINHA || '#ffffff',
     point: process.env.PONTO || '#ffffff',
+    parcial: serie.at(-1).date === hoje,
   })
   mkdirSync(dirname(saida), { recursive: true })
   writeFileSync(saida, svg)
