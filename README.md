@@ -39,7 +39,8 @@
 <div align="center">
   <img src="https://64.media.tumblr.com/f444263be6597f8981d2b9cf3d0c7408/f74decdc69e61f0a-9a/s400x600/a157756e4c56be0e5e51a9e4c79ba781a451e94a.gifv" width="100%" height ="2px"alt="Dark Terminal Background" style="filter: brightness(0.8);">
 </div>
-Engenheiro de Software com foco em Segurança Ofensiva e Governança.
+Engenheiro de Software com foco em Segurança Ofensiva / Red Team e AppSec,
+hoje desenvolvendo os sistemas internos da Atol Incorporadora.
 Uno a base técnica em desenvolvimento à mentalidade de atacante para criar
 sistemas resilientes desde o código.
 
@@ -228,22 +229,22 @@ Skills: Enumeração serviços, hard-coded creds, root direto.
 <tr>
 <td><img src="assets/logos/uniamerica.png" height="26" align="center" alt="Uniamérica"/> <strong>União das Américas</strong></td>
 <td>MBA em Segurança da Informação</td>
-<td>Nov 2025 – Nov 2026 <sub>(previsão)</sub></td>
+<td>Nov 2025 - Nov 2026 <sub>(previsão)</sub></td>
 </tr>
 <tr>
 <td><img src="assets/logos/uniamerica.png" height="26" align="center" alt="Uniamérica"/> <strong>União das Américas</strong></td>
 <td>Pós-graduação em Engenharia de Software</td>
-<td>Nov 2025 – Nov 2026 <sub>(previsão)</sub></td>
+<td>Nov 2025 - Nov 2026 <sub>(previsão)</sub></td>
 </tr>
 <tr>
 <td><img src="assets/logos/cruzeirodosul.png" height="26" align="center" alt="Cruzeiro do Sul"/> <strong>Universidade Cruzeiro do Sul</strong></td>
 <td>Análise e Desenvolvimento de Sistemas</td>
-<td>Jan 2023 – Dez 2025 <sub>(concluído)</sub></td>
+<td>Jan 2023 - Dez 2025 <sub>(concluído)</sub></td>
 </tr>
 <tr>
 <td><img src="assets/logos/ifsp.png" height="26" align="center" alt="IFSP"/> <strong>IFSP</strong></td>
 <td>Técnico em Administração</td>
-<td>2019 – 2020 <sub>(concluído)</sub></td>
+<td>2019 - 2020 <sub>(concluído)</sub></td>
 </tr>
 </tbody>
 </table>
@@ -301,7 +302,7 @@ Skills: Enumeração serviços, hard-coded creds, root direto.
 <img src="https://img.shields.io/badge/Introduction_to-Engineering_Concepts-750014?style=flat-square" alt="mit"/>
 
 - Lab de filtração inspirado no estudo do MIT LL sobre a propagação da COVID no transporte público de NY (Biotecnologia e Sistemas Humanos).
-- Lab de etiquetas Bluetooth derivado do projeto Privacy Automated Contact Tracing — PACT (Cyber Security & Information Sciences).
+- Lab de etiquetas Bluetooth derivado do projeto Privacy Automated Contact Tracing (PACT), da área de Cyber Security & Information Sciences.
 - Lab de xadrez Clausewitzian, de um estudo de guerra adaptativa multidomínio gamificado do MIT LL (Homeland Protection).
 - Compreensão geral da engenharia e suas aplicações em áreas relacionadas.
 - Familiaridade com o processo de engenharia.
@@ -376,7 +377,7 @@ Skills: Enumeração serviços, hard-coded creds, root direto.
 
 <img src="https://img.shields.io/badge/Risk_Management-Framework_v2-004B87?style=flat-square" alt="nist-rmf"/>
 
-- A Estrutura de Gestão de Riscos (RMF) do NIST é um processo de 7 etapas — abrangente, flexível, repetível e mensurável — para gerenciar riscos de segurança da informação e privacidade, alinhado aos padrões NIST e aos requisitos da FISMA.
+- A Estrutura de Gestão de Riscos (RMF) do NIST é um processo de 7 etapas, abrangente, flexível, repetível e mensurável, para gerenciar riscos de segurança da informação e privacidade, alinhado aos padrões NIST e aos requisitos da FISMA.
 
 </div>
 </details>
@@ -741,7 +742,7 @@ gantt
 <div align="center">
 <a href="https://www.linkedin.com/in/cshunderlick/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/></a>
 <a href="https://tryhackme.com/p/D.r4bbi7"><img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" alt="thm"/></a>
-<a href="mailto:douglascshun@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email"/></a>
+<a href="mailto:douglascshunderlick@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email"/></a>
 <a href="https://www.hackingisnotacrime.org/"><img src="https://img.shields.io/badge/Hacking_is_NOT_a_Crime-9FEF00?style=for-the-badge&logo=hackaday&logoColor=black" alt="hinc"/></a>
   </div>
 
