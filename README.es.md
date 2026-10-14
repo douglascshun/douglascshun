@@ -233,22 +233,22 @@ Skills: Enumeración servicios, hard-coded creds, root directo.
 <tr>
 <td><img src="assets/logos/uniamerica.png" height="26" align="center" alt="Uniamérica"/> <strong>União das Américas</strong></td>
 <td>MBA em Segurança da Informação</td>
-<td>Nov 2025 – Nov 2026 <sub>(previsto)</sub></td>
+<td>Nov 2025 - Nov 2026 <sub>(previsto)</sub></td>
 </tr>
 <tr>
 <td><img src="assets/logos/uniamerica.png" height="26" align="center" alt="Uniamérica"/> <strong>União das Américas</strong></td>
 <td>Pós-graduação em Engenharia de Software</td>
-<td>Nov 2025 – Nov 2026 <sub>(previsto)</sub></td>
+<td>Nov 2025 - Nov 2026 <sub>(previsto)</sub></td>
 </tr>
 <tr>
-<td><img src="assets/logos/cruzeirodosul.png" height="26" align="center" alt="Cruzeiro do Sul"/> <strong>Universidade Cruzeiro do Sul</strong></td>
-<td>Análise e Desenvolvimento de Sistemas</td>
-<td>Jan 2023 – Dez 2025 <sub>(completado)</sub></td>
+<td><img src="assets/logos/modulo.png" height="26" align="center" alt="Centro Universitário Módulo"/> <strong>Centro Universitário Módulo</strong></td>
+<td>Tecnólogo en Análisis y Desarrollo de Sistemas</td>
+<td>Ene 2023 - Mar 2026 <sub>(completado)</sub></td>
 </tr>
 <tr>
 <td><img src="assets/logos/ifsp.png" height="26" align="center" alt="IFSP"/> <strong>IFSP</strong></td>
 <td>Técnico em Administração</td>
-<td>2019 – 2020 <sub>(completado)</sub></td>
+<td>2019 - 2020 <sub>(completado)</sub></td>
 </tr>
 </tbody>
 </table>

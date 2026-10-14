@@ -242,9 +242,9 @@ Skills: Enumeração serviços, hard-coded creds, root direto.
 <td>Nov 2025 - Nov 2026 <sub>(previsão)</sub></td>
 </tr>
 <tr>
-<td><img src="assets/logos/cruzeirodosul.png" height="26" align="center" alt="Cruzeiro do Sul"/> <strong>Universidade Cruzeiro do Sul</strong></td>
-<td>Análise e Desenvolvimento de Sistemas</td>
-<td>Jan 2023 - Dez 2025 <sub>(concluído)</sub></td>
+<td><img src="assets/logos/modulo.png" height="26" align="center" alt="Centro Universitário Módulo"/> <strong>Centro Universitário Módulo</strong></td>
+<td>Tecnólogo em Análise e Desenvolvimento de Sistemas</td>
+<td>Jan 2023 - Mar 2026 <sub>(concluído)</sub></td>
 </tr>
 <tr>
 <td><img src="assets/logos/ifsp.png" height="26" align="center" alt="IFSP"/> <strong>IFSP</strong></td>
