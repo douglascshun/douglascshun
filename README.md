@@ -40,7 +40,7 @@
   <img src="https://64.media.tumblr.com/f444263be6597f8981d2b9cf3d0c7408/f74decdc69e61f0a-9a/s400x600/a157756e4c56be0e5e51a9e4c79ba781a451e94a.gifv" width="100%" height ="2px"alt="Dark Terminal Background" style="filter: brightness(0.8);">
 </div>
 Engenheiro de Software com foco em Segurança Ofensiva / Red Team e AppSec,
-hoje desenvolvendo os sistemas internos da Atol Incorporadora.
+atendendo projetos de pentest, AppSec e desenvolvimento pelo meu CNPJ.
 Uno a base técnica em desenvolvimento à mentalidade de atacante para criar
 sistemas resilientes desde o código.
 
