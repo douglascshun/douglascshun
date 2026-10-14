@@ -306,7 +306,7 @@ Skills: Enumeración servicios, hard-coded creds, root directo.
 <img src="https://img.shields.io/badge/Introduction_to-Engineering_Concepts-750014?style=flat-square" alt="mit"/>
 
 - Lab de filtración inspirado en el estudio del MIT LL sobre la propagación del COVID en el transporte público de NY (Biotecnología y Sistemas Humanos).
-- Lab de etiquetas Bluetooth derivado del proyecto Privacy Automated Contact Tracing — PACT (Cyber Security & Information Sciences).
+- Lab de etiquetas Bluetooth derivado del proyecto Privacy Automated Contact Tracing (PACT, Cyber Security & Information Sciences).
 - Lab de ajedrez Clausewitzian, de un estudio de guerra adaptativa multidominio gamificado del MIT LL (Homeland Protection).
 - Comprensión general de la ingeniería y sus aplicaciones en áreas relacionadas.
 - Familiaridad con el proceso de ingeniería.
@@ -381,7 +381,7 @@ Skills: Enumeración servicios, hard-coded creds, root directo.
 
 <img src="https://img.shields.io/badge/Risk_Management-Framework_v2-004B87?style=flat-square" alt="nist-rmf"/>
 
-- El Marco de Gestión de Riesgos (RMF) del NIST es un proceso de 7 etapas — integral, flexible, repetible y medible — para gestionar riesgos de seguridad de la información y privacidad, alineado con los estándares NIST y los requisitos de la FISMA.
+- El Marco de Gestión de Riesgos (RMF) del NIST es un proceso de 7 etapas: integral, flexible, repetible y medible, para gestionar riesgos de seguridad de la información y privacidad, alineado con los estándares NIST y los requisitos de la FISMA.
 
 </div>
 </details>

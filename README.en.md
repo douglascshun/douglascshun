@@ -306,7 +306,7 @@ Skills: Service enumeration, hard-coded creds, direct root.
 <img src="https://img.shields.io/badge/Introduction_to-Engineering_Concepts-750014?style=flat-square" alt="mit"/>
 
 - Filtration lab inspired by the MIT LL study on COVID spread in NY public transit (Biotechnology and Human Systems).
-- Bluetooth tag lab derived from the Privacy Automated Contact Tracing project — PACT (Cyber Security & Information Sciences).
+- Bluetooth tag lab derived from the Privacy Automated Contact Tracing project (PACT, Cyber Security & Information Sciences).
 - Clausewitzian chess lab, from a gamified MIT LL multi-domain adaptive warfare study (Homeland Protection).
 - General understanding of engineering and its applications in related fields.
 - Familiarity with the engineering process.
@@ -381,7 +381,7 @@ Skills: Service enumeration, hard-coded creds, direct root.
 
 <img src="https://img.shields.io/badge/Risk_Management-Framework_v2-004B87?style=flat-square" alt="nist-rmf"/>
 
-- The NIST Risk Management Framework (RMF) is a 7-step process — comprehensive, flexible, repeatable and measurable — for managing information security and privacy risks, aligned with NIST standards and FISMA requirements.
+- The NIST Risk Management Framework (RMF) is a 7-step process: comprehensive, flexible, repeatable and measurable, for managing information security and privacy risks, aligned with NIST standards and FISMA requirements.
 
 </div>
 </details>
