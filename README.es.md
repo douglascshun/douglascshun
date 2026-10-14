@@ -178,6 +178,11 @@ Repositorio central de estudios, resúmenes técnicos y documentación práctica
 Skills: Este repositorio fue estructurado para consolidar el conocimiento adquirido a lo largo del MBA, sirviendo como una base de consulta rápida para aplicación en el día a día profesional y revisiones académicas.
 <br>
 
+- [**Posgrado en Ingeniería de Software**](https://github.com/douglascshun/PosEngenhariaDeSoftware)<br>
+Cuaderno público del posgrado: código Java, apuntes y capturas de ejecución, clase por clase.  
+Skills: Java, estructuras de datos, bases de datos y modelado, BI y Big Data, AWS, UX/UI, XP y gestión de proyectos. El repositorio se actualiza solo después de cada clase.
+<br>
+
 - [**TryHackMe Poster**](https://github.com/douglascshun/cybersec-portfolio/tree/main/Relatorios/relatorioPosterTHM#readme)<br>
 Explotación vía PostgreSQL CVE-2019-9193 + priv esc sudo<br>
 Skills: Nmap, credential stuffing, sudo misconfig, PoC RCE.

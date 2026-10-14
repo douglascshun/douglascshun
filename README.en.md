@@ -178,6 +178,11 @@ Central repository of studies, technical summaries and practical documentation.
 Skills: This repository was structured to consolidate the knowledge acquired throughout the MBA, serving as a quick-reference base for day-to-day professional application and academic reviews.
 <br>
 
+- [**Postgraduate in Software Engineering**](https://github.com/douglascshun/PosEngenhariaDeSoftware)<br>
+Public notebook of the program: Java code, notes and execution screenshots, class by class.  
+Skills: Java, data structures, databases and data modeling, BI and Big Data, AWS, UX/UI, XP and project management. The repository updates itself after every class.
+<br>
+
 - [**TryHackMe Poster**](https://github.com/douglascshun/cybersec-portfolio/tree/main/Relatorios/relatorioPosterTHM#readme)<br>
 Exploitation via PostgreSQL CVE-2019-9193 + sudo priv esc<br>
 Skills: Nmap, credential stuffing, sudo misconfig, PoC RCE.
