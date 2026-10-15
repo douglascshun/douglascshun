@@ -174,24 +174,45 @@ Atalhos
 Todos com relatórios detalhados.
 <br>
 
-- [**MBA em Segurança da Informação**](https://github.com/douglascshun/PosSegurancaDaInformacao)<br>
-Repositório central de estudos, resumos técnicos e documentação prática.  
-Skills: Este repositório foi estruturado para consolidar o conhecimento adquirido ao longo do MBA, servindo como uma base de consulta rápida para aplicação no dia a dia profissional e revisões acadêmicas.
+### Write-ups de pentest
+
+- [**Internal** · TryHackMe](https://github.com/douglascshun/cybersec-portfolio/tree/main/Relatorios/relatorioInternalTHM#readme)<br>
+WordPress fraco, pivô por túnel SSH até um Jenkins interno e credencial de root deixada em disco. Black-box, do IP ao root.<br>
+Skills: wpscan, reverse shell, pivô SSH, Jenkins RCE (console Groovy), reuso de credenciais.
 <br>
 
-- [**Pós em Engenharia de Software**](https://github.com/douglascshun/PosEngenhariaDeSoftware)<br>
-Caderno público da pós: código Java, anotações e prints de execução, aula a aula.  
-Skills: Java, estruturas de dados, banco de dados e modelagem, BI e Big Data, AWS, UX/UI, XP e gestão de projetos. O repositório se atualiza sozinho a cada aula estudada.
+- [**Mr Robot** · TryHackMe](https://github.com/douglascshun/cybersec-portfolio/tree/main/Relatorios/relatorioMrRobotTHM#readme)<br>
+WordPress com a wordlist vazada no próprio site e escalada por nmap SUID. 3 flags.<br>
+Skills: enumeração web, hydra, webshell PHP, quebra de hash, escalada SUID.
 <br>
 
-- [**TryHackMe Poster**](https://github.com/douglascshun/cybersec-portfolio/tree/main/Relatorios/relatorioPosterTHM#readme)<br>
-Exploração via PostgreSQL CVE-2019-9193 + priv esc sudo<br>
+- [**Kenobi** · TryHackMe](https://github.com/douglascshun/cybersec-portfolio/tree/main/Relatorios/relatorioKenobiTHM#readme)<br>
+Samba anônimo e ProFTPD CVE-2015-3306 (mod_copy) para roubar a chave SSH, depois SUID via PATH.<br>
+Skills: smbclient, mod_copy, roubo de chave SSH, PATH hijack.
+<br>
+
+- [**Poster** · TryHackMe](https://github.com/douglascshun/cybersec-portfolio/tree/main/Relatorios/relatorioPosterTHM#readme)<br>
+Exploração via PostgreSQL CVE-2019-9193 e priv esc por sudo.<br>
 Skills: Nmap, credential stuffing, sudo misconfig, PoC RCE.
 <br>
 
-- [**HTB Meow**](https://github.com/douglascshun/cybersec-portfolio/tree/main/Relatorios/relatorioMeowHTB#readme)<br>
-Bypass root via Telnet + Alpine misconfig<br>
-Skills: Enumeração serviços, hard-coded creds, root direto.
+- [**Meow** · HackTheBox](https://github.com/douglascshun/cybersec-portfolio/tree/main/Relatorios/relatorioMeowHTB#readme)<br>
+Root direto via Telnet e Alpine mal configurado.<br>
+Skills: enumeração de serviços, hard-coded creds, root direto.
+<br>
+
+Portfólio completo com todos os relatórios e a trilha de [**Fundamentos**](https://github.com/douglascshun/cybersec-portfolio/tree/main/Fundamentos#readme): recon, scripting ofensivo, triagem Linux e ICS/SCADA.
+
+### Repositórios de estudo
+
+- [**MBA em Segurança da Informação**](https://github.com/douglascshun/PosSegurancaDaInformacao)<br>
+Repositório central de estudos, resumos técnicos e documentação prática.<br>
+Skills: consolida o conhecimento do MBA como base de consulta rápida para o dia a dia profissional e revisões acadêmicas.
+<br>
+
+- [**Pós em Engenharia de Software**](https://github.com/douglascshun/PosEngenhariaDeSoftware)<br>
+Caderno público da pós: código Java, anotações e prints de execução, aula a aula.<br>
+Skills: Java, estruturas de dados, banco de dados e modelagem, BI e Big Data, AWS, UX/UI, XP e gestão de projetos. O repositório se atualiza sozinho a cada aula estudada.
 
 
 <br>
