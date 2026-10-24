@@ -1,0 +1,72 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="400" viewBox="0 0 1000 400" role="img" aria-label="Gráfico de contribuições de douglascshun: 375 nos últimos 31 dias">
+  <style>
+    .titulo { font: 600 22px 'Segoe UI', Ubuntu, Helvetica, sans-serif; fill: #ffffff; }
+    .sub    { font: 400 13px 'Segoe UI', Ubuntu, Helvetica, sans-serif; fill: #1987F0; }
+    .eixo   { font: 400 12px 'Segoe UI', Ubuntu, Helvetica, sans-serif; fill: #ffffff; fill-opacity: 0.55; }
+  </style>
+  <defs>
+    <linearGradient id="preenchimento" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#1987F0" stop-opacity="0.7"/>
+      <stop offset="100%" stop-color="#1987F0" stop-opacity="0.06"/>
+    </linearGradient>
+  </defs>
+  <rect width="1000" height="400" fill="#000000"/>
+  <text x="50" y="52" class="titulo">Contribuições</text>
+  <text x="50" y="72" class="sub">douglascshun · 375 nos últimos 31 dias</text>
+  <g>
+    <line x1="62" y1="344" x2="974" y2="344" stroke="#ffffff" stroke-opacity="0.09"/>
+    <text x="50" y="348.5" text-anchor="end" class="eixo">0</text>
+    <line x1="62" y1="282" x2="974" y2="282" stroke="#ffffff" stroke-opacity="0.09"/>
+    <text x="50" y="286.5" text-anchor="end" class="eixo">36</text>
+    <line x1="62" y1="220" x2="974" y2="220" stroke="#ffffff" stroke-opacity="0.09"/>
+    <text x="50" y="224.5" text-anchor="end" class="eixo">72</text>
+    <line x1="62" y1="158" x2="974" y2="158" stroke="#ffffff" stroke-opacity="0.09"/>
+    <text x="50" y="162.5" text-anchor="end" class="eixo">107</text>
+    <line x1="62" y1="96" x2="974" y2="96" stroke="#ffffff" stroke-opacity="0.09"/>
+    <text x="50" y="100.5" text-anchor="end" class="eixo">143</text>
+  </g>
+  <path d="M 62,338.8 C 72.13,316.25 82.27,271.16 92.4,271.16 C 102.53,271.16 112.67,288.5 122.8,288.5 C 132.93,288.5 143.07,96 153.2,96 C 163.33,96 173.47,344 183.6,344 C 193.73,344 203.87,344 214,344 C 224.13,344 234.27,344 244.4,344 C 254.53,344 264.67,344 274.8,344 C 284.93,344 295.07,344 305.2,344 C 315.33,344 325.47,344 335.6,344 C 345.73,344 355.87,344 366,344 C 376.13,344 386.27,323.19 396.4,323.19 C 406.53,323.19 416.67,344 426.8,344 C 436.93,344 447.07,323.19 457.2,323.19 C 467.33,323.19 477.47,344 487.6,344 C 497.73,344 507.87,324.92 518,324.92 C 528.13,324.92 538.27,337.35 548.4,340.53 C 558.53,343.71 568.67,344 578.8,344 C 588.93,344 599.07,330.13 609.2,330.13 C 619.33,330.13 629.47,344 639.6,344 C 649.73,344 659.87,260.76 670,260.76 C 680.13,260.76 690.27,277.52 700.4,290.24 C 710.53,302.96 720.67,337.06 730.8,337.06 C 740.93,337.06 751.07,311.05 761.2,311.05 C 771.33,311.05 781.47,344 791.6,344 C 801.73,344 811.87,341.69 822,340.53 C 832.13,339.38 842.27,337.06 852.4,337.06 C 862.53,337.06 872.67,339.38 882.8,340.53 C 892.93,341.69 903.07,344 913.2,344 C 923.33,344 933.47,344 943.6,344 C 953.73,344 963.87,344 974,344 L 974,344 L 62,344 Z" fill="url(#preenchimento)"/>
+  <path d="M 62,338.8 C 72.13,316.25 82.27,271.16 92.4,271.16 C 102.53,271.16 112.67,288.5 122.8,288.5 C 132.93,288.5 143.07,96 153.2,96 C 163.33,96 173.47,344 183.6,344 C 193.73,344 203.87,344 214,344 C 224.13,344 234.27,344 244.4,344 C 254.53,344 264.67,344 274.8,344 C 284.93,344 295.07,344 305.2,344 C 315.33,344 325.47,344 335.6,344 C 345.73,344 355.87,344 366,344 C 376.13,344 386.27,323.19 396.4,323.19 C 406.53,323.19 416.67,344 426.8,344 C 436.93,344 447.07,323.19 457.2,323.19 C 467.33,323.19 477.47,344 487.6,344 C 497.73,344 507.87,324.92 518,324.92 C 528.13,324.92 538.27,337.35 548.4,340.53 C 558.53,343.71 568.67,344 578.8,344 C 588.93,344 599.07,330.13 609.2,330.13 C 619.33,330.13 629.47,344 639.6,344 C 649.73,344 659.87,260.76 670,260.76 C 680.13,260.76 690.27,277.52 700.4,290.24 C 710.53,302.96 720.67,337.06 730.8,337.06 C 740.93,337.06 751.07,311.05 761.2,311.05 C 771.33,311.05 781.47,344 791.6,344 C 801.73,344 811.87,341.69 822,340.53 C 832.13,339.38 842.27,337.06 852.4,337.06 C 862.53,337.06 872.67,339.38 882.8,340.53 C 892.93,341.69 903.07,344 913.2,344 C 923.33,344 933.47,344 943.6,344" fill="none" stroke="#ffffff" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 943.6,344 C 953.73,344 963.87,344 974,344" fill="none" stroke="#ffffff" stroke-width="2.4" stroke-linecap="round" stroke-dasharray="3 6"/>
+  <g>
+    <circle cx="62" cy="338.8" r="3.2" fill="#ffffff"><title>2026-09-24: 3</title></circle>
+    <circle cx="92.4" cy="271.16" r="3.2" fill="#ffffff"><title>2026-09-25: 42</title></circle>
+    <circle cx="122.8" cy="288.5" r="3.2" fill="#ffffff"><title>2026-09-26: 32</title></circle>
+    <circle cx="153.2" cy="96" r="3.2" fill="#ffffff"><title>2026-09-27: 143</title></circle>
+    <circle cx="183.6" cy="344" r="3.2" fill="#ffffff"><title>2026-09-28: 0</title></circle>
+    <circle cx="214" cy="344" r="3.2" fill="#ffffff"><title>2026-09-29: 0</title></circle>
+    <circle cx="244.4" cy="344" r="3.2" fill="#ffffff"><title>2026-09-30: 0</title></circle>
+    <circle cx="274.8" cy="344" r="3.2" fill="#ffffff"><title>2026-10-01: 0</title></circle>
+    <circle cx="305.2" cy="344" r="3.2" fill="#ffffff"><title>2026-10-02: 0</title></circle>
+    <circle cx="335.6" cy="344" r="3.2" fill="#ffffff"><title>2026-10-03: 0</title></circle>
+    <circle cx="366" cy="344" r="3.2" fill="#ffffff"><title>2026-10-04: 0</title></circle>
+    <circle cx="396.4" cy="323.19" r="3.2" fill="#ffffff"><title>2026-10-05: 12</title></circle>
+    <circle cx="426.8" cy="344" r="3.2" fill="#ffffff"><title>2026-10-06: 0</title></circle>
+    <circle cx="457.2" cy="323.19" r="3.2" fill="#ffffff"><title>2026-10-07: 12</title></circle>
+    <circle cx="487.6" cy="344" r="3.2" fill="#ffffff"><title>2026-10-08: 0</title></circle>
+    <circle cx="518" cy="324.92" r="3.2" fill="#ffffff"><title>2026-10-09: 11</title></circle>
+    <circle cx="548.4" cy="340.53" r="3.2" fill="#ffffff"><title>2026-10-10: 2</title></circle>
+    <circle cx="578.8" cy="344" r="3.2" fill="#ffffff"><title>2026-10-11: 0</title></circle>
+    <circle cx="609.2" cy="330.13" r="3.2" fill="#ffffff"><title>2026-10-12: 8</title></circle>
+    <circle cx="639.6" cy="344" r="3.2" fill="#ffffff"><title>2026-10-13: 0</title></circle>
+    <circle cx="670" cy="260.76" r="3.2" fill="#ffffff"><title>2026-10-14: 48</title></circle>
+    <circle cx="700.4" cy="290.24" r="3.2" fill="#ffffff"><title>2026-10-15: 31</title></circle>
+    <circle cx="730.8" cy="337.06" r="3.2" fill="#ffffff"><title>2026-10-16: 4</title></circle>
+    <circle cx="761.2" cy="311.05" r="3.2" fill="#ffffff"><title>2026-10-17: 19</title></circle>
+    <circle cx="791.6" cy="344" r="3.2" fill="#ffffff"><title>2026-10-18: 0</title></circle>
+    <circle cx="822" cy="340.53" r="3.2" fill="#ffffff"><title>2026-10-19: 2</title></circle>
+    <circle cx="852.4" cy="337.06" r="3.2" fill="#ffffff"><title>2026-10-20: 4</title></circle>
+    <circle cx="882.8" cy="340.53" r="3.2" fill="#ffffff"><title>2026-10-21: 2</title></circle>
+    <circle cx="913.2" cy="344" r="3.2" fill="#ffffff"><title>2026-10-22: 0</title></circle>
+    <circle cx="943.6" cy="344" r="3.2" fill="#ffffff"><title>2026-10-23: 0</title></circle>
+    <circle cx="974" cy="344" r="3.2" fill="#000000" stroke="#ffffff" stroke-width="1.6"><title>2026-10-24: 0 (dia em andamento)</title></circle>
+  </g>
+  <g>
+    <text x="62" y="374" text-anchor="middle" class="eixo">24 set</text>
+    <text x="244.4" y="374" text-anchor="middle" class="eixo">30 set</text>
+    <text x="426.8" y="374" text-anchor="middle" class="eixo">6 out</text>
+    <text x="609.2" y="374" text-anchor="middle" class="eixo">12 out</text>
+    <text x="791.6" y="374" text-anchor="middle" class="eixo">18 out</text>
+    <text x="974" y="374" text-anchor="middle" class="eixo">24 out</text>
+  </g>
+</svg>
